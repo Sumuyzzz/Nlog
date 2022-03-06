@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "7dc55e656384becb",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f383e84c318bb4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "读书笔记/深入浅出Vue/变化侦测.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a107c5aa545c915",
+    "type": "split",
+    "children": [
+      {
+        "id": "17b8e108bdecd070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f92cb66962e29d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a480dfbc51b894a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cf0cee3dc189f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d30fa2e2824d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f231dfacc286ec81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "读书笔记/深入浅出Vue/变化侦测.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "83f383e84c318bb4",
+  "lastOpenFiles": [
+    "读书笔记/深入浅出Vue/变化侦测.md",
+    "Untitled.md",
+    "读书笔记/深入浅出es6/rest参数.md",
+    "Writable.md",
+    "2022-03-05.md",
+    "css/css如何工作.md",
+    "css/grid布局.md",
+    "读书笔记/JavaScript高级程序设计/8.类对象.md",
+    "2021前端学习笔记/vue/vue简单介绍.md",
+    "未命名看板.md"
+  ]
+}
