@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书笔记/深入浅出Vue/变化侦测.md",
+            "file": "读书笔记/忍者秘笈/未命名.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/深入浅出Vue/变化侦测.md",
+                "file": "读书笔记/忍者秘笈/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "83f383e84c318bb4",
   "lastOpenFiles": [
+    "读书笔记/忍者秘笈/未命名.md",
+    "读书笔记/轻量式函数编程.md",
+    "读书笔记/JavaScriptDom编程艺术.md",
+    "读书笔记/js忍者秘笈.md",
     "读书笔记/深入浅出Vue/变化侦测.md",
     "Untitled.md",
     "读书笔记/深入浅出es6/rest参数.md",
     "Writable.md",
     "2022-03-05.md",
-    "css/css如何工作.md",
-    "css/grid布局.md",
-    "读书笔记/JavaScript高级程序设计/8.类对象.md",
-    "2021前端学习笔记/vue/vue简单介绍.md",
-    "未命名看板.md"
+    "css/css如何工作.md"
   ]
 }
