@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书笔记/忍者秘笈/未命名.md",
+            "file": "读书笔记/忍者秘笈/面向对象与原型.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/忍者秘笈/未命名.md",
+                "file": "读书笔记/忍者秘笈/面向对象与原型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +85,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 100,
+    "collapsed": true
   },
   "active": "83f383e84c318bb4",
   "lastOpenFiles": [
-    "读书笔记/忍者秘笈/未命名.md",
+    "读书笔记/忍者秘笈/面向对象与原型.md",
     "读书笔记/轻量式函数编程.md",
     "读书笔记/JavaScriptDom编程艺术.md",
     "读书笔记/js忍者秘笈.md",
