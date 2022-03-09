@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "83f383e84c318bb4",
+        "id": "3430ea7aef380ae5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书笔记/忍者秘笈/面向对象与原型.md",
+            "file": "博客发布/轮回/上下文执行.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "执行上下文",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 247,
     "collapsed": true
   },
   "right": {
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/忍者秘笈/面向对象与原型.md",
+                "file": "博客发布/轮回/上下文执行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +89,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "83f383e84c318bb4",
+  "active": "3430ea7aef380ae5",
   "lastOpenFiles": [
+    "博客发布/轮回/上下文执行.md",
     "读书笔记/忍者秘笈/面向对象与原型.md",
+    "Excalidraw/Drawing 2022-03-09 23.21.20.excalidraw.md",
     "读书笔记/轻量式函数编程.md",
     "读书笔记/JavaScriptDom编程艺术.md",
     "读书笔记/js忍者秘笈.md",
     "读书笔记/深入浅出Vue/变化侦测.md",
     "Untitled.md",
     "读书笔记/深入浅出es6/rest参数.md",
-    "Writable.md",
-    "2022-03-05.md",
-    "css/css如何工作.md"
+    "Writable.md"
   ]
 }
