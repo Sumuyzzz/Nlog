@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "博客发布/轮回/上下文执行.md",
+            "file": "词法环境.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247,
-    "collapsed": true
+    "width": 247
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "博客发布/轮回/上下文执行.md",
+                "file": "词法环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "3430ea7aef380ae5",
   "lastOpenFiles": [
+    "词法环境.md",
+    "变量环境.md",
+    "README.md",
     "博客发布/轮回/上下文执行.md",
     "读书笔记/忍者秘笈/面向对象与原型.md",
     "Excalidraw/Drawing 2022-03-09 23.21.20.excalidraw.md",
     "读书笔记/轻量式函数编程.md",
     "读书笔记/JavaScriptDom编程艺术.md",
     "读书笔记/js忍者秘笈.md",
-    "读书笔记/深入浅出Vue/变化侦测.md",
-    "Untitled.md",
-    "读书笔记/深入浅出es6/rest参数.md",
-    "Writable.md"
+    "读书笔记/深入浅出Vue/变化侦测.md"
   ]
 }
