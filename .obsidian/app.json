@@ -8,5 +8,6 @@
   "foldHeading": true,
   "showFrontmatter": true,
   "readableLineLength": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "defaultViewMode": "preview"
 }
