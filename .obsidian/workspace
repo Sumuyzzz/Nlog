@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "369dfde4473a16d5",
+        "id": "c6a016808f81969b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/手写深拷贝.md",
+            "file": "JavaScript/JavaScript问题.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "居中",
+                "query": "javascript问题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/手写代码系列/手写深拷贝.md",
+                "file": "JavaScript/JavaScript问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/手写代码系列/手写深拷贝.md",
+                "file": "JavaScript/JavaScript问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +111,17 @@
     "width": 156.40000915527344,
     "collapsed": true
   },
-  "active": "369dfde4473a16d5",
+  "active": "c6a016808f81969b",
   "lastOpenFiles": [
-    "面试/手写代码系列/手写深拷贝.md",
-    "面试/手写代码系列/手写浅拷贝.md",
+    "JavaScript/JavaScript问题.md",
+    "读书笔记/阮一峰es6/Iterator 和 for...of 循环.md",
     "面试/手写代码系列/手写节流.md",
-    "面试/手写代码系列/手写防抖.md",
-    "面试/手写代码系列/柯里化.md",
-    "面试/手写代码系列/手写apply.md",
-    "面试/手写代码系列/手写bind.md",
-    "面试/手写代码系列/手写call.md",
-    "面试/手写代码系列/手写new.md",
-    "面试/手写代码系列/数组去重.md"
+    "博客发布/防抖与节流.md",
+    "博客发布/防抖和节流.md",
+    "博客发布/如何居中布局.md",
+    "css/bfc.md",
+    "前段小站/css/bfc.md",
+    "面试/html/事件模型.md",
+    "博客发布/DOM事件.md"
   ]
 }

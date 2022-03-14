@@ -12,13 +12,6 @@
 
 BFC全称为Block Formatting Context，翻译为块级格式化上下文，**它是一个独立的渲染区域，只有**Block-level box**参与，它规定了内部的块级盒子如何布局，并且与这个区域外部毫不相干。**BFC目的是形成一个相对外界的独立空间，内部任凭翻江倒海都不会影响外部元素.
 
-如图：
-
-![图来源于 yachen168](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4a73e2276d8b41f0a905361f151157e2~tplv-k3u1fbpfcp-watermark.awebp)
-
-
-
-
 
 规则：
 

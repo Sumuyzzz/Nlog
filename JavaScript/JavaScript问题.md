@@ -1,23 +1,3 @@
-https://github.com/lydiahallie/javascript-questions#13-what-are-the-three-phases-of-event-propagation
-
-
-
-###### What are the three phases of event propagation?
-
-- A: Target > Capturing > Bubbling
-- B: Bubbling > Target > Capturing
-- C: Target > Bubbling > Capturing
-- D: Capturing > Target > Bubbling
-
-#### Answer: D
-
-During the **capturing** phase, the event goes through the ancestor elements down to the target element. It then reaches the **target** element, and **bubbling** begins.（在**捕获**（capturing）阶段中，事件从祖先元素向下传播到目标元素。当事件达到**目标**（target）元素后，**冒泡**（bubbling）才开始。）
-
-[![img](https://camo.githubusercontent.com/5fd2d347d044150e4ae35091622f0628f0eb7893966f03c8955ca271f3153e47/68747470733a2f2f692e696d6775722e636f6d2f4e31386f5267642e706e67)](https://camo.githubusercontent.com/5fd2d347d044150e4ae35091622f0628f0eb7893966f03c8955ca271f3153e47/68747470733a2f2f692e696d6775722e636f6d2f4e31386f5267642e706e67)
-
-
-
-***
 
 ###### What's the output?
 
@@ -54,8 +34,6 @@ function getAge(...args) {
 getAge(21)
 ```
 
-
-
 - A: `"number"`
 - B: `"array"`
 - C: `"object"`
@@ -63,37 +41,7 @@ getAge(21)
 
 #### 答案: C
 
-扩展运算符（`...args`）会返回实参组成的数组。而数组是对象，因此 `typeof args` 返回 `"object"`。
-
-***
-
-###### 输出是什么？
-
-```js
-const sum = eval('10*10+5')
-```
-
-- A: `105`
-- B: `"105"`
-- C: `TypeError`
-- D: `"10*10+5"`
-
-#### 答案: A
-
-代码以字符串形式传递进来，`eval` 对其求值。如果它是一个表达式，就像本例中那样，它对表达式求值。表达式是 `10 * 10 + 5`。这将返回数字 `105`。
-
-***
-
-###### cool_secret 可访问多长时间？
-
-```js
-sessionStorage.setItem('cool_secret', 123)
-```
-
-- A: 永远，数据不会丢失。
-- B: 当用户关掉标签页时。
-- C: 当用户关掉整个浏览器，而不只是关掉标签页。
-- D: 当用户关闭电脑时。
+扩展运算符（`...args`）会返回实参组成的类数组。
 
 ***
 
@@ -106,31 +54,6 @@ sessionStorage.setItem('cool_secret', 123)
 #### 答案: A
 
 基本执行上下文是全局执行上下文：它是代码中随处可访问的内容。
-
-***
-
-```js
-String.prototype.giveLydiaPizza = () => {
-  return 'Just give Lydia pizza already!'
-}
-
-const name = 'Lydia'
-
-name.giveLydiaPizza()
-```
-
-
-
-- A: `"Just give Lydia pizza already!"`
-- B: `TypeError: not a function`
-- C: `SyntaxError`
-- D: `undefined`
-
-#### 答案: A
-
-`String` 是内置的构造函数，我们可以向它添加属性。我只是在它的原型中添加了一个方法。基本类型字符串被自动转换为字符串对象，由字符串原型函数生成。因此，所有 string(string 对象)都可以访问该方法！
-
-***
 
 ###### . 输出是什么？
 
@@ -191,26 +114,6 @@ console.log(a[b])
 
 ***
 
-###### 输出是什么？
-
-```js
-[[0, 1], [2, 3]].reduce(
-  (acc, cur) => {
-    return acc.concat(cur)
-  },
-  [1, 2]
-)
-```
-
-- A: `[0, 1, 2, 3, 1, 2]`
-- B: `[6, 1, 2]`
-- C: `[1, 2, 0, 1, 2, 3]`
-- D: `[1, 2, 6]`
-
-#### 答案: C
-
-
-[1, 2]`是初始值。初始值将会作为首次调用时第一个参数 `acc` 的值。在第一次执行时， `acc` 的值是 `[1, 2]`， `cur` 的值是 `[0, 1]`。合并它们，结果为 `[1, 2, 0, 1]`。 第二次执行， `acc` 的值是 `[1, 2, 0, 1]`， `cur` 的值是 `[2, 3]`。合并它们，最终结果为 `[1, 2, 0, 1, 2, 3]
 
 ***
 
@@ -886,11 +789,6 @@ var a = 1;
     a = 2;            
     console.log(a);        
 })();
-// 输出结果
-ƒ a () {
-           a = 2;
-           console.log(a);
-       }复制代码
 ```
 
 
