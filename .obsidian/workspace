@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a016808f81969b",
+        "id": "1370c10d3e59e10b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/JavaScript问题.md",
+            "file": "面试/http/浏览器存储.md",
             "mode": "source",
             "source": false
           }
@@ -40,17 +40,16 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "javascript问题",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScript问题.md",
+                "file": "面试/http/浏览器存储.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JavaScript问题.md",
+                "file": "面试/http/浏览器存储.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,25 +102,34 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "21173831846ae5b8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 156.40000915527344,
     "collapsed": true
   },
-  "active": "c6a016808f81969b",
+  "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
-    "JavaScript/JavaScript问题.md",
-    "读书笔记/阮一峰es6/Iterator 和 for...of 循环.md",
-    "面试/手写代码系列/手写节流.md",
-    "博客发布/防抖与节流.md",
-    "博客发布/防抖和节流.md",
-    "博客发布/如何居中布局.md",
-    "css/bfc.md",
-    "前段小站/css/bfc.md",
-    "面试/html/事件模型.md",
-    "博客发布/DOM事件.md"
+    "面试/http/浏览器存储.md",
+    "自由变量.md",
+    "偏函数.md",
+    "词法作用域.md",
+    "Pasted image 20220313124907.png",
+    "Pasted image 20220313125057.png",
+    "Pasted image 20220314232403.png",
+    "面试/http/概述.md",
+    "面试/http/setRequestHeader.md",
+    "面试/http/浏览器输入.md"
   ]
 }
