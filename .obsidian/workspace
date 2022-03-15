@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/http/浏览器存储.md",
+            "file": "面试/http/浏览器缓存.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/http/浏览器存储.md",
+                "file": "面试/http/浏览器缓存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/http/浏览器存储.md",
+                "file": "面试/http/浏览器缓存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +121,7 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "面试/http/浏览器缓存.md",
     "面试/http/浏览器存储.md",
     "JavaScript/this.md",
     "JavaScript/Untitled 1.md",
@@ -129,7 +130,6 @@
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "自由变量.md",
     "偏函数.md",
-    "词法作用域.md",
-    "Pasted image 20220313124907.png"
+    "词法作用域.md"
   ]
 }
