@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247,
-    "collapsed": true
+    "width": 247
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -124,13 +123,13 @@
   "lastOpenFiles": [
     "面试/http/浏览器缓存.md",
     "面试/http/浏览器存储.md",
+    "面试/http/缓存位置.md",
     "JavaScript/this.md",
     "JavaScript/Untitled 1.md",
     "JavaScript/Untitled.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "自由变量.md",
-    "偏函数.md",
-    "词法作用域.md"
+    "偏函数.md"
   ]
 }
