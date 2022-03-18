@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Generator.md",
+            "file": "面试/手写代码系列/手写防抖.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Generator.md",
+                "file": "面试/手写代码系列/手写防抖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Generator.md",
+                "file": "面试/手写代码系列/手写防抖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +121,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "面试/手写代码系列/手写防抖.md",
+    "面试/手写代码系列/手写节流.md",
+    "面试/手写代码系列/es5手写继承.md",
+    "JavaScript/promise.md",
+    "JavaScript/未命名.md",
     "JavaScript/Generator.md",
     "JavaScript/闭包.md",
     "面试/http/浏览器缓存.md",
     "面试/http/浏览器存储.md",
-    "面试/http/缓存位置.md",
-    "JavaScript/this.md",
-    "JavaScript/Untitled 1.md",
-    "JavaScript/Untitled.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md"
+    "面试/http/缓存位置.md"
   ]
 }

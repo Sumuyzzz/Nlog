@@ -2,22 +2,7 @@
 
 Promise是抽象异步处理对象以及对其进行各种操作的组件
 
-```javascript
-const p=new Promise((resolve,reject)=>{
-    let a=1+1
-    if(a==2){
-        resolve('Success')
-    }else{
-        reject('Failed')
-    }
-})
 
-p.then((message)=>{
-    console.log('This is in the then '+message)
-}).catch((message)=>{
-    console.log('This is in the catch '+message)
-})
-```
 
 
 
