@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,14 +123,14 @@
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
     "面试/JavaScript/数组去重.md",
-    "重学es6/练习.md",
     "阮一峰es5和es6/es6/数组去重.md",
+    "重学es6/练习.md",
+    "JavaScript/map和set.md",
     "JavaScript/跨域.md",
     "面试/css/布局.md",
     "面试/css/居中布局.md",
     "博客发布/如何居中布局.md",
     "css/Untitled.md",
-    "博客发布/防抖与节流.md",
-    "面试/css/面试题.md"
+    "博客发布/防抖与节流.md"
   ]
 }
