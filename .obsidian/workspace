@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/css/垂直居中.md",
+            "file": "面试/css/bfc和clear.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/css/垂直居中.md",
+                "file": "面试/css/bfc和clear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/css/垂直居中.md",
+                "file": "面试/css/bfc和clear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +121,8 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "面试/css/bfc和clear.md",
+    "css/bfc.md",
     "面试/css/垂直居中.md",
     "面试/css/居中布局.md",
     "typescript/nerver any unknown.md",
@@ -128,8 +130,6 @@
     "JavaScript/improt 和exprot.md",
     "JavaScript/get和set.md",
     "面试/JavaScript/数组去重.md",
-    "阮一峰es5和es6/es6/数组去重.md",
-    "重学es6/练习.md",
-    "JavaScript/map和set.md"
+    "阮一峰es5和es6/es6/数组去重.md"
   ]
 }
