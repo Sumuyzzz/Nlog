@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/css/居中布局.md",
+            "file": "node/CommonJS.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/css/居中布局.md",
+                "file": "node/CommonJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/css/居中布局.md",
+                "file": "node/CommonJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +121,8 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "node/CommonJS.md",
+    "面试/手写代码系列/手写节流.md",
     "面试/css/居中布局.md",
     "面试/css/垂直居中.md",
     "css/display.md",
@@ -128,8 +130,6 @@
     "面试/vue/为什么vue3使用proxy代替Object.defineProperty.md",
     "面试/webpack/tree shraking.md",
     "面试/webpack/plugin vs loader.md",
-    "面试/css/盒模型.md",
-    "面试/css/布局.md",
-    "面试/css/选择器.md"
+    "面试/css/盒模型.md"
   ]
 }
