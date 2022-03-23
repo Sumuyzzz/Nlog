@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "node/CommonJS.md",
+            "file": "面试/ajax.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node/CommonJS.md",
+                "file": "面试/ajax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "node/CommonJS.md",
+                "file": "面试/ajax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +121,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "面试/ajax.md",
+    "面试/ajax/Nginx.md",
+    "面试/ajax/详解ajax.md",
+    "面试/ajax/express入门.md",
+    "面试/ajax/同源策略.md",
+    "面试/手写代码系列/手写new.md",
     "node/CommonJS.md",
     "面试/手写代码系列/手写节流.md",
     "面试/css/居中布局.md",
-    "面试/css/垂直居中.md",
-    "css/display.md",
-    "面试/css/未命名.md",
-    "面试/vue/为什么vue3使用proxy代替Object.defineProperty.md",
-    "面试/webpack/tree shraking.md",
-    "面试/webpack/plugin vs loader.md",
-    "面试/css/盒模型.md"
+    "面试/css/垂直居中.md"
   ]
 }
