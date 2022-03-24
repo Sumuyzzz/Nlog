@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/手写new.md",
+            "file": "面试/手写代码系列/柯里化.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/手写代码系列/手写new.md",
+                "file": "面试/手写代码系列/柯里化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/手写代码系列/手写new.md",
+                "file": "面试/手写代码系列/柯里化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +121,8 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "面试/手写代码系列/柯里化.md",
+    "面试/手写代码系列/手写instanceof.md",
     "面试/手写代码系列/手写new.md",
     "JavaScript/数组.md",
     "阮一峰es5和es6/es5/数据类型概述.md",
@@ -129,8 +130,6 @@
     "JavaScript/构造函数.md",
     "读书笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
     "面试/笔试内容.md",
-    "读书笔记/JavaScript高级程序设计/8.类对象.md",
-    "读书笔记/JavaScript高级程序设计/4.变量、作用域与内存.md",
-    "面试/手写代码系列/手写instanceof.md"
+    "读书笔记/JavaScript高级程序设计/8.类对象.md"
   ]
 }
