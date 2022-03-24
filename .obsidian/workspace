@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/html/重排（reflow）和重绘（repaint）的理解.md",
+            "file": "面试/手写代码系列/手写new.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "instance",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/html/重排（reflow）和重绘（repaint）的理解.md",
+                "file": "面试/手写代码系列/手写new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/html/重排（reflow）和重绘（repaint）的理解.md",
+                "file": "面试/手写代码系列/手写new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +122,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
-    "面试/html/重排（reflow）和重绘（repaint）的理解.md",
-    "面试/html/未命名.md",
-    "面试/html/script 标签中 defer 和 async 的区别？.md",
-    "面试/css/居中布局.md",
-    "面试/ajax.md",
-    "面试/ajax/Nginx.md",
-    "面试/ajax/详解ajax.md",
-    "面试/ajax/express入门.md",
-    "面试/ajax/同源策略.md",
-    "面试/手写代码系列/手写new.md"
+    "面试/手写代码系列/手写new.md",
+    "JavaScript/数组.md",
+    "阮一峰es5和es6/es5/数据类型概述.md",
+    "博客发布/小demo/手写深拷贝.md",
+    "JavaScript/构造函数.md",
+    "读书笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
+    "面试/笔试内容.md",
+    "读书笔记/JavaScript高级程序设计/8.类对象.md",
+    "读书笔记/JavaScript高级程序设计/4.变量、作用域与内存.md",
+    "面试/手写代码系列/手写instanceof.md"
   ]
 }

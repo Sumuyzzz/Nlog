@@ -65,11 +65,3 @@ function Child4() {
 Child4.prototype = Parent4.prototype;
 ```
 
-
-5. mixin继承
-
-```js
-
-
-
-```
