@@ -145,9 +145,6 @@ Content-encoding:gzip //头
 
 
 
-## 什么是fetch
-
-
 
 
 

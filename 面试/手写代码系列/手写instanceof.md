@@ -1,12 +1,21 @@
 ```js
 
 function myInstanceof(target, constructor){
-	let left = target.
+	
+	let left = Object.getPrototypeOf(target)
+
 	let right = constructor.prototype
-	if(left===right){
-		return true
+	
+	while(true){
+		if(left===null){
+			return false
+		}
+		if(left ===right){
+			return  true
+		}
+		left = Object.getPrototypeOf(left)
 	}
-	left = Object.getPrototyof(left)
 }
+
 
 ```
