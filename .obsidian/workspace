@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/promise.md",
+            "file": "面试/手写代码系列/手写深拷贝.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 247,
+    "collapsed": true
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/promise.md",
+                "file": "面试/手写代码系列/手写深拷贝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/promise.md",
+                "file": "面试/手写代码系列/手写深拷贝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +122,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
-    "JavaScript/promise.md",
-    "JavaScript/数据类型.md",
-    "JavaScript/asnyc await.md",
-    "面试/手写代码系列/手写ajax.md",
-    "面试/ajax/详解ajax.md",
-    "面试/ajax.md",
-    "博客发布/了解Jquery.md",
-    "博客发布/事件委托.md",
-    "面试/手写代码系列/手写instanceof.md",
-    "面试/手写代码系列/柯里化.md"
+    "面试/手写代码系列/手写深拷贝.md",
+    "JavaScript/var.md",
+    "JavaScript/void.md",
+    "JavaScript/this.md",
+    "JavaScript/proxy.md",
+    "JavaScript/Object.md",
+    "JavaScript/let.md",
+    "JavaScript/improt 和exprot.md",
+    "JavaScript/函数.md",
+    "JavaScript/类.md"
   ]
 }
