@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/html/重排（reflow）和重绘（repaint）的理解.md",
+            "file": "JavaScript/Reflect.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "promise",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/html/重排（reflow）和重绘（repaint）的理解.md",
+                "file": "JavaScript/Reflect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/html/重排（reflow）和重绘（repaint）的理解.md",
+                "file": "JavaScript/Reflect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +121,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "JavaScript/Reflect.md",
     "面试/html/重排（reflow）和重绘（repaint）的理解.md",
+    "面试/css/选择器.md",
+    "面试/css/未命名 1.md",
+    "阮一峰es5和es6/es5/数组方法.md",
     "面试/手写代码系列/手写深拷贝.md",
     "面试/手写代码系列/手写 promise.md",
     "JavaScript/promise.md",
     "博客发布/promise.md",
-    "面试/css/垂直居中.md",
-    "博客发布/如何居中布局.md",
-    "JavaScript/var.md",
-    "JavaScript/void.md",
-    "JavaScript/this.md"
+    "面试/css/垂直居中.md"
   ]
 }
