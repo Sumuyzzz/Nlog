@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Virtual DOM 及内核.md",
+            "file": "面试/手写代码系列/手写深拷贝.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Virtual DOM",
+                "query": "深拷贝",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Virtual DOM 及内核.md",
+                "file": "面试/手写代码系列/手写深拷贝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Virtual DOM 及内核.md",
+                "file": "面试/手写代码系列/手写深拷贝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +122,8 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "面试/手写代码系列/手写深拷贝.md",
+    "面试/深浅拷贝.md",
     "React/Virtual DOM 及内核.md",
     "博客发布/虚拟 DOM 和 DOM diff.md",
     "vue/未命名.md",
@@ -129,8 +131,6 @@
     "vue/vuex/Getters.md",
     "vue/处理边界.md",
     "面试/手写代码系列/数组去重.md",
-    "面试/http/三次握手，四次挥手.md",
-    "JavaScript/Reflect.md",
-    "面试/html/重排（reflow）和重绘（repaint）的理解.md"
+    "面试/http/三次握手，四次挥手.md"
   ]
 }
