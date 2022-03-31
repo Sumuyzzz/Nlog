@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vue/未命名.md",
+            "file": "React/Virtual DOM 及内核.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vuex",
+                "query": "Virtual DOM",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/未命名.md",
+                "file": "React/Virtual DOM 及内核.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/未命名.md",
+                "file": "React/Virtual DOM 及内核.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +122,8 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "React/Virtual DOM 及内核.md",
+    "博客发布/虚拟 DOM 和 DOM diff.md",
     "vue/未命名.md",
     "vue/vuex/Mutations.md",
     "vue/vuex/Getters.md",
@@ -128,8 +131,6 @@
     "面试/手写代码系列/数组去重.md",
     "面试/http/三次握手，四次挥手.md",
     "JavaScript/Reflect.md",
-    "面试/html/重排（reflow）和重绘（repaint）的理解.md",
-    "面试/css/选择器.md",
-    "面试/css/未命名 1.md"
+    "面试/html/重排（reflow）和重绘（repaint）的理解.md"
   ]
 }
