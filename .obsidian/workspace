@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/手写深拷贝.md",
+            "file": "博客发布/虚拟 DOM 和 DOM diff.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "深拷贝",
+                "query": "dom",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/手写代码系列/手写深拷贝.md",
+                "file": "博客发布/虚拟 DOM 和 DOM diff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/手写代码系列/手写深拷贝.md",
+                "file": "博客发布/虚拟 DOM 和 DOM diff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +122,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "博客发布/虚拟 DOM 和 DOM diff.md",
+    "博客发布/React/React介绍.md",
+    "阮一峰es5和es6/es5/bom/概述.md",
     "面试/手写代码系列/手写深拷贝.md",
     "面试/深浅拷贝.md",
     "React/Virtual DOM 及内核.md",
-    "博客发布/虚拟 DOM 和 DOM diff.md",
     "vue/未命名.md",
     "vue/vuex/Mutations.md",
     "vue/vuex/Getters.md",
-    "vue/处理边界.md",
-    "面试/手写代码系列/数组去重.md",
-    "面试/http/三次握手，四次挥手.md"
+    "vue/处理边界.md"
   ]
 }

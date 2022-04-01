@@ -1,6 +1,7 @@
 ## 什么是Virtual DOM
 
 Virtual DOM是对DOM的抽象，本质上是JavaScript对象，这个对象就是更加轻量级的对DOM的描述，提高重绘性能。
+Virtual DOM 就是用一个原生的 JS 对象去描述一个 DOM 节点
 
 ## 关于dom和虚拟dom的区别
 
