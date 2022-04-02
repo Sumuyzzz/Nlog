@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "博客发布/虚拟 DOM 和 DOM diff.md",
+            "file": "面试/手写代码系列/数组去重.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dom",
+                "query": "去重",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "博客发布/虚拟 DOM 和 DOM diff.md",
+                "file": "面试/手写代码系列/数组去重.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "博客发布/虚拟 DOM 和 DOM diff.md",
+                "file": "面试/手写代码系列/数组去重.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +122,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "面试/手写代码系列/数组去重.md",
+    "重学es6/练习.md",
+    "博客发布/javaScript/数组原生方法.md",
+    "面试/JavaScript/数组去重.md",
+    "阮一峰es5和es6/es6/数组去重.md",
     "博客发布/虚拟 DOM 和 DOM diff.md",
     "博客发布/React/React介绍.md",
     "阮一峰es5和es6/es5/bom/概述.md",
     "面试/手写代码系列/手写深拷贝.md",
-    "面试/深浅拷贝.md",
-    "React/Virtual DOM 及内核.md",
-    "vue/未命名.md",
-    "vue/vuex/Mutations.md",
-    "vue/vuex/Getters.md",
-    "vue/处理边界.md"
+    "面试/深浅拷贝.md"
   ]
 }
