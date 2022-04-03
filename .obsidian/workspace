@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/数组去重.md",
+            "file": "JavaScript/void 1.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "去重",
+                "query": "事件循环",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/手写代码系列/数组去重.md",
+                "file": "JavaScript/void 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/手写代码系列/数组去重.md",
+                "file": "JavaScript/void 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +121,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "JavaScript/void 1.md",
+    "JavaScript/void.md",
+    "JavaScript/未命名.md",
+    "博客发布/javaScript/回调函数.md",
+    "JavaScript/变量环境.md",
+    "JavaScript/变量.md",
+    "JavaScript/闭包.md",
+    "面试/事件循环.md",
     "面试/手写代码系列/数组去重.md",
-    "重学es6/练习.md",
-    "博客发布/javaScript/数组原生方法.md",
-    "面试/JavaScript/数组去重.md",
-    "阮一峰es5和es6/es6/数组去重.md",
-    "博客发布/虚拟 DOM 和 DOM diff.md",
-    "博客发布/React/React介绍.md",
-    "阮一峰es5和es6/es5/bom/概述.md",
-    "面试/手写代码系列/手写深拷贝.md",
-    "面试/深浅拷贝.md"
+    "重学es6/练习.md"
   ]
 }
