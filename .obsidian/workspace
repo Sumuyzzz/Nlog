@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/垃圾回收.md",
+            "file": "面试/事件循环.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "垃圾回收",
+                "query": "事件循环",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/垃圾回收.md",
+                "file": "面试/事件循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/垃圾回收.md",
+                "file": "面试/事件循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +122,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
-    "面试/垃圾回收.md",
     "面试/事件循环.md",
+    "读书笔记/js是如何工作的/引擎，运行时和调用堆栈的概述.md",
+    "node/事件循环,定时器和proess.netTick.md",
+    "面试/垃圾回收.md",
     "博客发布/array-api.md",
     "博客发布/api.md",
     "博客发布/a33535.md",
     "JavaScript/void 1.md",
     "JavaScript/void.md",
-    "JavaScript/未命名.md",
-    "博客发布/javaScript/回调函数.md",
-    "JavaScript/变量环境.md"
+    "JavaScript/未命名.md"
   ]
 }
