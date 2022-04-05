@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/事件循环.md",
+            "file": "JavaScript/Generator.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "事件循环",
+                "query": "Generator",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/事件循环.md",
+                "file": "JavaScript/Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/事件循环.md",
+                "file": "JavaScript/Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,6 +121,8 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "JavaScript/Generator.md",
+    "阮一峰es5和es6/es6/Gennerator.md",
     "面试/事件循环.md",
     "读书笔记/js是如何工作的/引擎，运行时和调用堆栈的概述.md",
     "node/事件循环,定时器和proess.netTick.md",
@@ -129,8 +130,6 @@
     "博客发布/array-api.md",
     "博客发布/api.md",
     "博客发布/a33535.md",
-    "JavaScript/void 1.md",
-    "JavaScript/void.md",
-    "JavaScript/未命名.md"
+    "JavaScript/void 1.md"
   ]
 }
