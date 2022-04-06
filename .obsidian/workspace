@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/asnyc await.md",
+            "file": "面试/事件循环.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asn",
+                "query": "事件循环",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/asnyc await.md",
+                "file": "面试/事件循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/asnyc await.md",
+                "file": "面试/事件循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,8 +121,8 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
-    "JavaScript/asnyc await.md",
     "面试/事件循环.md",
+    "JavaScript/asnyc await.md",
     "JavaScript/JavaScript问题.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "博客发布/迭代器.md",
