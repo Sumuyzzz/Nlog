@@ -11,11 +11,7 @@
 # 基础知识及术语
 
 ![A diagram explaining flexbox terminology. The size across the main axis of flexbox is called the main size, the other direction is the cross size. Those sizes have a main start, main end, cross start, and cross end.](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
-
 ![flex_terms.png](https://developer.mozilla.org/files/3739/flex_terms.png)
-
-
-
 - **主轴(main axis)**:沿着flex元素放置方向的轴,这取决于`flex-direction`属性.该轴的开始和结束被称为 **main start** 和 **main end**。
 - **交叉轴（cross axis)**:是垂直于 flex 元素放置方向的轴。其方向取决于主轴方向。该轴的开始和结束被称为 **cross start** 和 **cross end**。
 
