@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/css/bfc和clear.md",
+            "file": "饥人谷学习笔记/跨域.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clear",
+                "query": "跨域",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/css/bfc和clear.md",
+                "file": "饥人谷学习笔记/跨域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/css/bfc和clear.md",
+                "file": "饥人谷学习笔记/跨域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +121,7 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
+    "饥人谷学习笔记/跨域.md",
     "面试/css/bfc和clear.md",
     "css/flex布局.md",
     "面试/事件循环.md",
@@ -129,7 +130,6 @@
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "博客发布/迭代器.md",
     "JavaScript/Generator.md",
-    "阮一峰es5和es6/es6/Gennerator.md",
-    "读书笔记/js是如何工作的/引擎，运行时和调用堆栈的概述.md"
+    "阮一峰es5和es6/es6/Gennerator.md"
   ]
 }
