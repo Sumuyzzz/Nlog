@@ -122,6 +122,7 @@
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
     "饥人谷学习笔记/跨域.md",
+    "面试/ajax/express入门.md",
     "面试/css/bfc和clear.md",
     "css/flex布局.md",
     "面试/事件循环.md",
@@ -129,7 +130,6 @@
     "JavaScript/JavaScript问题.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "博客发布/迭代器.md",
-    "JavaScript/Generator.md",
-    "阮一峰es5和es6/es6/Gennerator.md"
+    "JavaScript/Generator.md"
   ]
 }
