@@ -2,6 +2,9 @@
 
 
 ### 实现
+1. 创建XMLHttpRequest对象
+2. 设置onreadystatechange 事件,当readuStat
+
 
 
 ```js

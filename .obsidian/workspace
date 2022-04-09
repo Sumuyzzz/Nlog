@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1370c10d3e59e10b",
+        "id": "42d2782a4bed522a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript/模块.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -22,6 +18,38 @@
     "id": "8a107c5aa545c915",
     "type": "split",
     "children": [
+      {
+        "id": "dd8e1136874f265b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1370c10d3e59e10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/ajax/详解ajax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c33881cdf5481909",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e9f230236f433a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "17b8e108bdecd070",
         "type": "tabs",
@@ -40,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ajax",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 871
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -69,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +144,17 @@
     "width": 156.40000915527344,
     "collapsed": true
   },
-  "active": "1370c10d3e59e10b",
+  "active": "42d2782a4bed522a",
   "lastOpenFiles": [
+    "读书笔记/程序员修炼之道：从小工到专家/第一章.md",
+    "面试/ajax/详解ajax.md",
+    "面试/ajax.md",
+    "饥人谷学习笔记/跨域.md",
     "JavaScript/模块.md",
     "博客发布/杂记/关于vetur无法检测模块.md",
     "node/CommonJS.md",
     "面试/ajax/Nginx.md",
-    "饥人谷学习笔记/跨域.md",
     "面试/http/浏览器缓存.md",
-    "面试/ajax/express入门.md",
-    "面试/css/bfc和clear.md",
-    "css/flex布局.md",
-    "面试/事件循环.md"
+    "面试/ajax/express入门.md"
   ]
 }
