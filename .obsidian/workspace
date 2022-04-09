@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/ajax/express入门.md",
+            "file": "JavaScript/模块.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "express",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/ajax/express入门.md",
+                "file": "JavaScript/模块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/ajax/express入门.md",
+                "file": "JavaScript/模块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +120,15 @@
   },
   "active": "1370c10d3e59e10b",
   "lastOpenFiles": [
-    "面试/ajax/express入门.md",
+    "JavaScript/模块.md",
+    "博客发布/杂记/关于vetur无法检测模块.md",
+    "node/CommonJS.md",
+    "面试/ajax/Nginx.md",
     "饥人谷学习笔记/跨域.md",
+    "面试/http/浏览器缓存.md",
+    "面试/ajax/express入门.md",
     "面试/css/bfc和clear.md",
     "css/flex布局.md",
-    "面试/事件循环.md",
-    "JavaScript/asnyc await.md",
-    "JavaScript/JavaScript问题.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
-    "博客发布/迭代器.md",
-    "JavaScript/Generator.md"
+    "面试/事件循环.md"
   ]
 }
