@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "css/bfc.md",
+            "file": "博客发布/html+css/关于浮动元素.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bfc",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/bfc.md",
+                "file": "博客发布/html+css/关于浮动元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/bfc.md",
+                "file": "博客发布/html+css/关于浮动元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +120,7 @@
   },
   "active": "2dedd343697652ce",
   "lastOpenFiles": [
+    "博客发布/html+css/关于浮动元素.md",
     "css/bfc.md",
     "面试/css/水平居中.md",
     "面试/css/布局.md",
@@ -129,7 +129,6 @@
     "博客发布/如何居中布局.md",
     "面试/ajax/详解ajax.md",
     "面试/ajax.md",
-    "面试/手写代码系列/手写深拷贝.md",
-    "面试/手写代码系列/手写浅拷贝.md"
+    "面试/手写代码系列/手写深拷贝.md"
   ]
 }
