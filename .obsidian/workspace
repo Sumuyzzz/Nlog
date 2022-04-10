@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/JavaScript/判断类型.md",
+            "file": "面试/手写代码系列/手写深拷贝.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "instance",
+                "query": "深拷贝",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/JavaScript/判断类型.md",
+                "file": "面试/手写代码系列/手写深拷贝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/JavaScript/判断类型.md",
+                "file": "面试/手写代码系列/手写深拷贝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +121,15 @@
   },
   "active": "2dedd343697652ce",
   "lastOpenFiles": [
-    "面试/JavaScript/判断类型.md",
-    "面试/JavaScript/new.md",
-    "面试/JavaScript/未命名.md",
-    "面试/JavaScript/==操作符.md",
-    "面试/JavaScript/如何获取安全的 undefined 值.md",
-    "面试/JavaScript/原型链.md",
+    "面试/手写代码系列/手写深拷贝.md",
+    "面试/手写代码系列/手写浅拷贝.md",
+    "面试/深浅拷贝.md",
     "面试/JavaScript/类型转换.md",
-    "面试/JavaScript/数据类型.md",
-    "面试/ajax/详解ajax.md",
-    "面试/ajax/同源策略.md"
+    "面试/JavaScript/==操作符.md",
+    "面试/JavaScript/原型链.excalidraw.md",
+    "面试/JavaScript/new.md",
+    "面试/JavaScript/判断类型.md",
+    "面试/JavaScript/未命名.md",
+    "面试/JavaScript/如何获取安全的 undefined 值.md"
   ]
 }
