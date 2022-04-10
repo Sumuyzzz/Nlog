@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/ajax/详解ajax.md",
+            "file": "css/bfc.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ajax",
+                "query": "bfc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/ajax/详解ajax.md",
+                "file": "css/bfc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/ajax/详解ajax.md",
+                "file": "css/bfc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +121,15 @@
   },
   "active": "2dedd343697652ce",
   "lastOpenFiles": [
+    "css/bfc.md",
+    "面试/css/水平居中.md",
+    "面试/css/布局.md",
+    "面试/css/居中布局.md",
+    "面试/css/垂直居中.md",
+    "博客发布/如何居中布局.md",
     "面试/ajax/详解ajax.md",
     "面试/ajax.md",
     "面试/手写代码系列/手写深拷贝.md",
-    "面试/手写代码系列/手写浅拷贝.md",
-    "面试/深浅拷贝.md",
-    "面试/JavaScript/类型转换.md",
-    "面试/JavaScript/==操作符.md",
-    "面试/JavaScript/原型链.excalidraw.md",
-    "面试/JavaScript/new.md",
-    "面试/JavaScript/判断类型.md"
+    "面试/手写代码系列/手写浅拷贝.md"
   ]
 }
