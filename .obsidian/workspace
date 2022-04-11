@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "博客发布/防抖与节流.md",
+            "file": "面试/手写代码系列/手写防抖.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "throttle",
+                "query": "debounce",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "博客发布/防抖与节流.md",
+                "file": "面试/手写代码系列/手写防抖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "博客发布/防抖与节流.md",
+                "file": "面试/手写代码系列/手写防抖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +121,15 @@
   },
   "active": "2dedd343697652ce",
   "lastOpenFiles": [
-    "博客发布/防抖与节流.md",
+    "面试/手写代码系列/手写防抖.md",
     "面试/手写代码系列/手写节流.md",
+    "博客发布/防抖与节流.md",
     "面试/css/水平居中.md",
     "博客发布/html+css/关于浮动元素.md",
     "css/bfc.md",
     "面试/css/布局.md",
     "面试/css/居中布局.md",
     "面试/css/垂直居中.md",
-    "博客发布/如何居中布局.md",
-    "面试/ajax/详解ajax.md"
+    "博客发布/如何居中布局.md"
   ]
 }
