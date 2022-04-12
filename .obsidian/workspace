@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/map和set.md",
+            "file": "面试/手写代码系列/数组去重.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "去重",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/map和set.md",
+                "file": "面试/手写代码系列/数组去重.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/map和set.md",
+                "file": "面试/手写代码系列/数组去重.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +122,15 @@
   },
   "active": "2dedd343697652ce",
   "lastOpenFiles": [
+    "面试/手写代码系列/数组去重.md",
+    "面试/JavaScript/数组去重.md",
+    "博客发布/javaScript/数组原生方法.md",
+    "JavaScript/模块.md",
     "JavaScript/map和set.md",
     "面试/手写代码系列/手写节流.md",
     "面试/手写代码系列/手写防抖.md",
     "面试/http/浏览器缓存.md",
     "面试/http/缓存位置.md",
-    "面试/手写代码系列/手写ajax.md",
-    "面试/手写代码系列/手写.md",
-    "面试/浏览器的工作原理.md",
-    "博客发布/防抖与节流.md",
-    "面试/css/水平居中.md"
+    "面试/手写代码系列/手写ajax.md"
   ]
 }
