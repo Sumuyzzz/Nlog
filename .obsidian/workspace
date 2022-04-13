@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/JavaScript/面试题.md",
+            "file": "面试/vue/Vue 如何检测数组变化.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/JavaScript/面试题.md",
+                "file": "面试/vue/Vue 如何检测数组变化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/JavaScript/面试题.md",
+                "file": "面试/vue/Vue 如何检测数组变化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +121,7 @@
   },
   "active": "2dedd343697652ce",
   "lastOpenFiles": [
+    "面试/vue/Vue 如何检测数组变化.md",
     "面试/JavaScript/面试题.md",
     "面试/浏览器的工作原理.md",
     "面试/http/概述.md",
@@ -129,7 +130,6 @@
     "面试/手写代码系列/数组去重.md",
     "面试/JavaScript/数组去重.md",
     "博客发布/javaScript/数组原生方法.md",
-    "JavaScript/map和set.md",
-    "面试/手写代码系列/手写节流.md"
+    "JavaScript/map和set.md"
   ]
 }
