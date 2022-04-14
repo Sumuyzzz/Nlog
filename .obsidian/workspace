@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/http/浏览器缓存.md",
+            "file": "面试/手写代码系列/柯里化.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "浏览器缓存",
+                "query": "柯里化",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/http/浏览器缓存.md",
+                "file": "面试/手写代码系列/柯里化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/http/浏览器缓存.md",
+                "file": "面试/手写代码系列/柯里化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +122,7 @@
   },
   "active": "2dedd343697652ce",
   "lastOpenFiles": [
+    "面试/手写代码系列/柯里化.md",
     "面试/http/浏览器缓存.md",
     "面试/vue/Vue 如何检测数组变化.md",
     "面试/JavaScript/面试题.md",
@@ -130,7 +131,6 @@
     "JavaScript/模块化.md",
     "博客发布/什么是MVC.md",
     "面试/手写代码系列/数组去重.md",
-    "面试/JavaScript/数组去重.md",
-    "博客发布/javaScript/数组原生方法.md"
+    "面试/JavaScript/数组去重.md"
   ]
 }
