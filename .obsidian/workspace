@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/JavaScript/this.md",
+            "file": "面试/手写代码系列/柯里化.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "this",
+                "query": "curri",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/JavaScript/this.md",
+                "file": "面试/手写代码系列/柯里化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/JavaScript/this.md",
+                "file": "面试/手写代码系列/柯里化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,25 +113,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 156.40000915527344,
+    "width": 273,
     "collapsed": true
   },
   "active": "2dedd343697652ce",
   "lastOpenFiles": [
-    "面试/JavaScript/this.md",
     "面试/手写代码系列/柯里化.md",
+    "面试/currying.md",
+    "面试/JavaScript/未命名.md",
+    "面试/JavaScript/this.md",
     "面试/http/浏览器缓存.md",
     "面试/vue/Vue 如何检测数组变化.md",
     "面试/JavaScript/面试题.md",
     "面试/浏览器的工作原理.md",
     "面试/http/概述.md",
-    "JavaScript/模块化.md",
-    "博客发布/什么是MVC.md",
-    "面试/手写代码系列/数组去重.md"
+    "JavaScript/模块化.md"
   ]
 }
