@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2dedd343697652ce",
+        "id": "abfdad53a2ad5cd1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/模块化.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "模块",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/模块化.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/模块化.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,17 +118,17 @@
     "width": 273,
     "collapsed": true
   },
-  "active": "2dedd343697652ce",
+  "active": "abfdad53a2ad5cd1",
   "lastOpenFiles": [
-    "JavaScript/模块化.md",
-    "JavaScript/闭包.md",
-    "面试/手写代码系列/柯里化.md",
-    "面试/currying.md",
-    "面试/JavaScript/未命名.md",
-    "面试/JavaScript/this.md",
-    "面试/http/浏览器缓存.md",
-    "面试/vue/Vue 如何检测数组变化.md",
-    "面试/JavaScript/面试题.md",
-    "面试/浏览器的工作原理.md"
+    "README.md",
+    "css/Untitled.md",
+    "博客发布/杂记/梦.md",
+    "博客发布/整理好的.md",
+    "博客发布/2020总结.md",
+    "面试/css/面试题.md",
+    "image/Pasted image 20220313125057.png",
+    "image/Pasted image 20220315165723.png",
+    "image/Pasted image 20220314232403.png",
+    "博客发布/html+css/关于浮动元素.md"
   ]
 }
