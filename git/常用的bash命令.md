@@ -1,7 +1,1 @@
-cd 
-
-pwd
-
-ls
-
-clear
+https://anotheruiguy.gitbooks.io/gitforeveryone/content/terminal/README.html
