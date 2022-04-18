@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/css/水平居中.md",
+            "file": "css/sass/使用变量.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "居中",
+                "query": "sass",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/css/水平居中.md",
+                "file": "css/sass/使用变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/css/水平居中.md",
+                "file": "css/sass/使用变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +120,8 @@
   },
   "active": "abfdad53a2ad5cd1",
   "lastOpenFiles": [
+    "css/sass/使用变量.md",
+    "学习笔记/react记账/创建项目.md",
     "面试/css/水平居中.md",
     "css/flex布局.md",
     "博客发布/如何居中布局.md",
@@ -128,8 +129,6 @@
     "博客发布/html+css/关于浮动元素.md",
     "面试/css/垂直居中.md",
     "面试/http/浏览器输入.md",
-    "博客发布/ajax/由于太菜，开始恶补跨域.md",
-    "git/常用的bash命令.md",
-    "面试/浏览器的工作原理.md"
+    "博客发布/ajax/由于太菜，开始恶补跨域.md"
   ]
 }
