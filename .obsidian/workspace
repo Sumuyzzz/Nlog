@@ -7,8 +7,12 @@
         "id": "abfdad53a2ad5cd1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "vue全家桶/vuerouter/介绍.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vue全家桶/vuerouter/介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vue全家桶/vuerouter/介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,8 +120,8 @@
   },
   "active": "abfdad53a2ad5cd1",
   "lastOpenFiles": [
-    "vue全家桶/vuerouter/简单demo.md",
     "vue全家桶/vuerouter/介绍.md",
+    "vue全家桶/vuerouter/简单demo.md",
     "css/sass/使用变量.md",
     "学习笔记/react记账/创建项目.md",
     "面试/css/水平居中.md",
