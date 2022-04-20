@@ -121,6 +121,7 @@
   "active": "abfdad53a2ad5cd1",
   "lastOpenFiles": [
     "vue全家桶/vue3/响应式基础.md",
+    "vue全家桶/vue3/nextTick.md",
     "vue全家桶/vuerouter/陆游首位.md",
     "vue全家桶/vuerouter/介绍.md",
     "vue全家桶/vuerouter/简单demo.md",
@@ -128,7 +129,6 @@
     "学习笔记/react记账/创建项目.md",
     "面试/css/水平居中.md",
     "css/flex布局.md",
-    "博客发布/如何居中布局.md",
-    "面试/css/居中布局.md"
+    "博客发布/如何居中布局.md"
   ]
 }
