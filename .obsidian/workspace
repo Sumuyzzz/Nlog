@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/手写event-emit（发布订阅）.md",
+            "file": "面试/手写代码系列/柯里化.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/手写代码系列/手写event-emit（发布订阅）.md",
+                "file": "面试/手写代码系列/柯里化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/手写代码系列/手写event-emit（发布订阅）.md",
+                "file": "面试/手写代码系列/柯里化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +120,7 @@
   },
   "active": "abfdad53a2ad5cd1",
   "lastOpenFiles": [
+    "面试/手写代码系列/柯里化.md",
     "面试/手写代码系列/手写event-emit（发布订阅）.md",
     "面试/vue dom  diff  vs react dom diff.md",
     "面试/手写代码系列/数组去重.md",
@@ -128,7 +129,6 @@
     "读书笔记/深入浅出Vue/变化侦测.md",
     "vue全家桶/vue3/ref和reactive.md",
     "vue全家桶/vue3/响应式基础.md",
-    "typescript/泛型.md",
-    "typescript/元组.md"
+    "typescript/泛型.md"
   ]
 }
