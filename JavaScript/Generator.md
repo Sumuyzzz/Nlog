@@ -33,6 +33,15 @@ one //{value:1,done:false}
 ### yield
 `generator`函数调用返回一个可迭代对象，使用`next`方法来遍历对象的状态，`generator`函数内部就需要使用`yield`表达式来暂停`next`方法执行。
 
+
+
+
+
+
+
+
+
+
 ### next
 每次调用`next`方法，都会返回`yield`生成的值。
 

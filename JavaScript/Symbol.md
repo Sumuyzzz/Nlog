@@ -3,6 +3,7 @@
 * 7大原始值之一，拥有唯一性和不可变性
 * 不会发生对象属性命名冲突
 * **一个symbol值能作为对象属性的标识符；这是该数据类型仅有的目的**
+* 用作属性时，不可枚举
 
 ## 基本用法
 
@@ -13,7 +14,7 @@ let sym = Symbol()
 console.log(typeof sym); // symbol 
 ```
 
-也可以传入**字符串**参数作为符号的描述，，该描述并不能用来访问对应属性， 但它能用于**调试**
+也可以传入**字符串**参数作为**符号的描述**，，该描述并不能用来访问对应属性， 但它能用于**调试**
 
 ```js
 let firstName = Symbol("first name");
@@ -35,10 +36,19 @@ console.log(firstName); // "Symbol(first name)"
 ```jS
 let id = Symbol("id");
 
-let user = {
-  name: "John",
-  [id]: 123 // 而不是 "id"：123
+let faker = {
+  name: "faker",
+  [id]:id //本质来讲不可枚举，所以无法访问
+  //[id]相当于[Symbol("id")]
 };
+let joker = {
+  name: "joker",
+  [`id`]:id //通过变量获取
+};
+console.log(faker.id)//undefined
+
+console.log(joker.id)//Symbol(id)
+
 ```
 
 

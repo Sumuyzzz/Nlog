@@ -18,104 +18,14 @@ getPersonInfo`${person} is ${age} years old`;
 - B: `["", " is ", " years old"]` `"Lydia"` `21`
 - C: `"Lydia"` `["", " is ", " years old"]` `21`
 
-#### Answer: B
-
-If you use tagged template literals, the value of the first argument is always an array of the string values. The remaining arguments get the values of the passed expressions!（如果使用标记模板字面量，第一个参数的值总是包含字符串的数组。其余的参数获取的是传递的表达式的值！）
-
-****
-
-###### 输出是什么？
-
-```js
-function getAge(...args) {
-  console.log(typeof args)
-}
-
-getAge(21)
-```
-
-- A: `"number"`
-- B: `"array"`
-- C: `"object"`
-- D: `"NaN"`
-
-#### 答案: C
-
-扩展运算符（`...args`）会返回实参组成的类数组。
-
-***
-
-###### JavaScript 全局执行上下文为你做了两件事：全局对象和 this 关键字。
-
-- A: 对
-- B: 错
-- C: 看情况
-
-#### 答案: A
-
-基本执行上下文是全局执行上下文：它是代码中随处可访问的内容。
-
-###### . 输出是什么？
-
-```js
-const a = {}
-const b = { key: 'b' }
-const c = { key: 'c' }
-
-a[b] = 123
-a[c] = 456
-
-console.log(a[b])
-```
-
-- A: `123`
-- B: `456`
-- C: `undefined`
-- D: `ReferenceError`
-
-#### 答案: B
-
-对象的键被自动转换为字符串。我们试图将一个对象 `b` 设置为对象 `a` 的键，且相应的值为 `123`。
-
-然而，当字符串化一个对象时，它会变成 `"[object Object]"`。因此这里说的是，`a["[object Object]"] = 123`。然后，我们再一次做了同样的事情，`c` 是另外一个对象，这里也有隐式字符串化，于是，`a["[object Object]"] = 456`。
-
-然后，我们打印 `a[b]`，也就是 `a["[object Object]"]`。之前刚设置为 `456`，因此返回的是 `456`
-
-***
-
-###### 输出是什么？
-
-```js
-(() => {
-  let x, y
-  try {
-    throw new Error()
-  } catch (x) {
-    (x = 1), (y = 2)
-    console.log(x)
-  }
-  console.log(x)
-  console.log(y)
-})()
-```
-
-- A: `1` `undefined` `2`
-- B: `undefined` `undefined` `undefined`
-- C: `1` `1` `2`
-- D: `1` `undefined` `undefined`
-
-####  A
-
-`catch` 代码块接收参数 `x`。当我们传递参数时，这与之前定义的变量 `x` 不同 。这个 `x` 是属于 `catch` 块级作用域的。
-
-然后，我们将块级作用域中的变量赋值为 `1`，同时也设置了变量 `y` 的值。现在，我们打印块级作用域中的变量 `x`，值为 `1`。
-
-`catch` 块之外的变量 `x` 的值仍为 `undefined`， `y` 的值为 `2`。当我们在 `catch` 块之外执行 `console.log(x)` 时，返回 `undefined`，`y` 返回 `2`。
-
-***
 
 
-***
+
+
+
+
+
+
 
 ######  输出是什么?
 
@@ -136,15 +46,7 @@ console.log(gen.next().value);
 - C: `10, 20`
 - D: `0, 10 and 10, 20`
 
-#### 答案: C
 
-一般的函数在执行之后是不能中途停下的。但是，生成器函数却可以中途“停下”，之后可以再从停下的地方继续。当生成器遇到`yield`关键字的时候，会生成`yield`后面的值。注意，生成器在这种情况下不 *返回* (*return* )值，而是 *生成* (*yield*)值。
-
-首先，我们用`10`作为参数`i`来初始化生成器函数。然后使用`next()`方法一步步执行生成器。第一次执行生成器的时候，`i`的值为`10`，遇到第一个`yield`关键字，它要生成`i`的值。此时，生成器“暂停”，生成了`10`。
-
-然后，我们再执行`next()`方法。生成器会从刚才暂停的地方继续，这个时候`i`还是`10`。于是我们走到了第二个`yield`关键字处，这时候需要生成的值是`i*2`，`i`为`10`，那么此时生成的值便是`20`。所以这道题的最终结果是`10,20`。
-
-***
 
 ###### 返回值是什么?
 
@@ -762,11 +664,57 @@ console.log(info);
 
 
 
+###### 140. What's missing?
+
+const teams = [
+  { name: 'Team 1', members: ['Paul', 'Lisa'] },
+  { name: 'Team 2', members: ['Laura', 'Tim'] },
+];
+
+function* getMembers(members) {
+  for (let i = 0; i < members.length; i++) {
+    yield members[i];
+  }
+}
+
+function* getTeams(teams) {
+  for (let i = 0; i < teams.length; i++) {
+    // ✨ SOMETHING IS MISSING HERE ✨
+  }
+}
+
+const obj = getTeams(teams);
+obj.next(); // { value: "Paul", done: false }
+obj.next(); // { value: "Lisa", done: false }
+
+-   A: `yield getMembers(teams[i].members)`
+-   B: `yield* getMembers(teams[i].members)`
+-   C: `return getMembers(teams[i].members)`
+-   D: `return yield getMembers(teams[i].members)`
 
 
 
+###### 152. What's the output?
 
+const promise1 = Promise.resolve('First')
+const promise2 = Promise.resolve('Second')
+const promise3 = Promise.reject('Third')
+const promise4 = Promise.resolve('Fourth')
 
+const runPromises = async () => {
+	const res1 = await Promise.all([promise1, promise2])
+	const res2  = await Promise.all([promise3, promise4])
+	return [res1, res2]
+}
+
+runPromises()
+	.then(res => console.log(res))
+	.catch(err => console.log(err))
+
+-   A: `[['First', 'Second'], ['Fourth']]`
+-   B: `[['First', 'Second'], ['Third', 'Fourth']]`
+-   C: `[['First', 'Second']]`
+-   D: `'Third'`
 
 
 
@@ -796,6 +744,8 @@ var a = 1;
 这道题，猛地一看，很多人都会觉得，console.log(a) 的值为 2，其实不然，
 
 立即调用的函数表达式（IIFE） 有一个 自己独立的 作用域，如果函数名称与内部变量名称冲突，就会永远执行函数本身；所以上面的结果输出是函数本身；
+
+
 
 
 

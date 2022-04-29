@@ -9,5 +9,7 @@
   "showFrontmatter": true,
   "readableLineLength": false,
   "autoPairMarkdown": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "communityPluginSortOrder": "releaseReverse"
 }

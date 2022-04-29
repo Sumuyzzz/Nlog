@@ -5,5 +5,8 @@
   "obsidian-smarter-md-hotkeys",
   "obsidian-plugin-toc",
   "table-extended",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "obsidian-kanban",
+  "calendar",
+  "templater-obsidian"
 ]

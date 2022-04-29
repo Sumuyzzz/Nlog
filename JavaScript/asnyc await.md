@@ -1,8 +1,6 @@
 它就是 Generator 函数的语法糖.
 
 ```js
-
-
 const fs = require('fs');
 
 const readFile = function (fileName) {
@@ -40,3 +38,8 @@ const asyncReadFile = async function () {
 2. 更好的语义化
 3. 适用性广
 4. 返回值是promise
+
+
+## 基本用法
+
+
