@@ -8,5 +8,7 @@
   "obsidian-mind-map",
   "obsidian-kanban",
   "calendar",
-  "templater-obsidian"
+  "templater-obsidian",
+  "simple-embeds",
+  "obsidian-format-code"
 ]

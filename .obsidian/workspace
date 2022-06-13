@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React 井字棋.md",
+            "file": "博客发布/项目开发/可视化/未命名.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "简历",
+                "query": "居中布局",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React 井字棋.md",
+                "file": "博客发布/项目开发/可视化/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React 井字棋.md",
+                "file": "博客发布/项目开发/可视化/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,24 +120,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 277,
-    "collapsed": true
+    "width": 100
   },
   "active": "fa08a35ae82f2326",
   "lastOpenFiles": [
-    "React/React 井字棋.md",
-    "React/认识React.md",
-    "React/不可变性.md",
-    "React/class组件和function组件.md",
-    "React/JSX.md",
-    "面试/简历.md",
-    "css/flex布局.md",
-    "未命名思维导图.md",
-    "README.md",
-    "面试/手写代码系列/手写深拷贝.md"
+    "博客发布/项目开发/可视化/未命名.md",
+    "博客发布/项目开发/可视化/使用v-for生成表格.md",
+    "博客发布/项目开发/可视化/使用vxe-table实现表格功能.md",
+    "博客发布/项目开发/可视化/动态柱状图.md",
+    "博客发布/vue/computed 和 watch .md",
+    "博客发布/vue/钩子.md",
+    "博客发布/如何居中布局.md",
+    "面试/vue/vuex/简述vuex.md",
+    "博客发布/vue/vuex/未命名.md",
+    "vue全家桶/vuex/Action.md"
   ]
 }

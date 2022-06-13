@@ -16,7 +16,7 @@ git init
 git add .
 git commit -m 'init'
 ````
-
+打
 
 
 ![image-20210604204311855](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210604204311855.png)
