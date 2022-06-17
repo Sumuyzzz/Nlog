@@ -7,9 +7,11 @@
   "showLineNumber": true,
   "foldHeading": true,
   "showFrontmatter": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "autoPairMarkdown": false,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "communityPluginSortOrder": "releaseReverse"
+  "communityPluginSortOrder": "releaseReverse",
+  "spellcheck": true,
+  "fileSortOrder": "alphabetical"
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "博客发布/项目开发/可视化/未命名.md",
+            "file": "读书笔记/深入浅出Vue/变化侦测.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "居中布局",
+                "query": "排序",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 292
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "博客发布/项目开发/可视化/未命名.md",
+                "file": "读书笔记/深入浅出Vue/变化侦测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "博客发布/项目开发/可视化/未命名.md",
+                "file": "读书笔记/深入浅出Vue/变化侦测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 534.4,
+    "collapsed": true
   },
   "active": "fa08a35ae82f2326",
   "lastOpenFiles": [
-    "博客发布/项目开发/可视化/未命名.md",
-    "博客发布/项目开发/可视化/使用v-for生成表格.md",
-    "博客发布/项目开发/可视化/使用vxe-table实现表格功能.md",
-    "博客发布/项目开发/可视化/动态柱状图.md",
-    "博客发布/vue/computed 和 watch .md",
-    "博客发布/vue/钩子.md",
-    "博客发布/如何居中布局.md",
-    "面试/vue/vuex/简述vuex.md",
-    "博客发布/vue/vuex/未命名.md",
-    "vue全家桶/vuex/Action.md"
+    "读书笔记/深入浅出Vue/变化侦测.md",
+    "面试/手写代码系列/排序算法/介绍.md",
+    "面试/手写代码系列/排序算法/快速排序.md",
+    "面试/手写代码系列/排序算法/归并排序.md",
+    "面试/手写代码系列/排序算法/插入排序.md",
+    "面试/手写代码系列/排序算法.md",
+    "面试/手写代码系列/排序算法/选择排序.md",
+    "面试/手写代码系列/排序算法/冒泡排序.md",
+    "面试/手写代码系列/柯里化.md",
+    "面试/手写代码系列/排序.md"
   ]
 }

@@ -1,51 +1,17 @@
-## 概述
-常见4种调用方式：
-1. 直接调用
-2. 对象调用
-3. 构造函数使用new调用
-4. 用call/apply/bind调用
+判断this如下：
 
-### demo
-```js
-	let obj = {name:'obj',func:fuc}
-	window.name = 'window'
-	
-	function fnc(){
-	console.log(this.name)
-	}
-
-	function Dog(name){
-	this.name = name 
-	}
-
-```
-
-
-##  直接调用
-严格模式下，undefined
-非严格模式，默认指向window
-```js
-fnc() //'window'
-```
-
-## 对象调用
-指的是对象
-```js
-obj.func() //obj
-```
+* 直接调用（严格模式：`undefined`，非严格：`window`）
+* 对象调用（对象）
+* 构造函数（`new` 出来的实例）
+* 箭头函数（无自身`this` ，通过作用域链获取上层`this`）
+* 使用`call`/`apply`/`bind`绑定（第一个参数）
+* 事件绑定的函数（侦听的dom元素）
 
 
 
-## 构造函数
-指的是实例
-```js
-
-
-let blackDog = new Dog('black')
-let whileDog = new Dog('while')
 
 
 
-```
 
-[# Reference Type](https://zh.javascript.info/reference-type)
+[Reference Type](https://zh.javascript.info/reference-type)
+[30s code](https://www.30secondsofcode.org/articles/s/javascript-this)
