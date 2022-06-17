@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "读书笔记/深入浅出Vue/变化侦测.md",
+            "file": "博客发布/项目开发/vue3造轮子/实现 switch.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 169
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/深入浅出Vue/变化侦测.md",
+                "file": "博客发布/项目开发/vue3造轮子/实现 switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记/深入浅出Vue/变化侦测.md",
+                "file": "博客发布/项目开发/vue3造轮子/实现 switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +130,15 @@
   },
   "active": "fa08a35ae82f2326",
   "lastOpenFiles": [
-    "读书笔记/深入浅出Vue/变化侦测.md",
-    "面试/手写代码系列/排序算法/介绍.md",
-    "面试/手写代码系列/排序算法/快速排序.md",
-    "面试/手写代码系列/排序算法/归并排序.md",
-    "面试/手写代码系列/排序算法/插入排序.md",
-    "面试/手写代码系列/排序算法.md",
-    "面试/手写代码系列/排序算法/选择排序.md",
-    "面试/手写代码系列/排序算法/冒泡排序.md",
-    "面试/手写代码系列/柯里化.md",
-    "面试/手写代码系列/排序.md"
+    "博客发布/项目开发/vue3造轮子/实现 switch.md",
+    "博客发布/项目开发/数据可视化项目.md",
+    "博客发布/项目开发/react 记账.md",
+    "面试/vue/组件通信.md",
+    "读书笔记/深入浅出Vue/模板编译.md",
+    "读书笔记/深入浅出Vue/Patch.md",
+    "面试/vue/未命名.md",
+    "面试/vue/Vue 如何检测数组变化.md",
+    "面试/css/面试题.md",
+    "面试/css/未命名 1.md"
   ]
 }
