@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/异步/Promise.md",
+            "file": "git/设置git remote 绑定.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/异步/Promise.md",
+                "file": "git/设置git remote 绑定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/异步/Promise.md",
+                "file": "git/设置git remote 绑定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +130,7 @@
   },
   "active": "fa08a35ae82f2326",
   "lastOpenFiles": [
+    "git/设置git remote 绑定.md",
     "JavaScript/异步/Promise.md",
     "JavaScript/异步/异步编程.md",
     "JavaScript/异步/ajax和fetch，axios.md",
@@ -138,7 +139,6 @@
     "面试/JavaScript/new.md",
     "笔记/算法图解/大O表示法.md",
     "笔记/算法图解/Untitled.md",
-    "算法与数据结构/二分法.md",
-    "未命名.md"
+    "算法与数据结构/二分法.md"
   ]
 }
