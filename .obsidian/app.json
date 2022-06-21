@@ -13,5 +13,6 @@
   "alwaysUpdateLinks": true,
   "communityPluginSortOrder": "releaseReverse",
   "spellcheck": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "attachmentFolderPath": "image"
 }

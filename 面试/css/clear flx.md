@@ -25,4 +25,6 @@
 
 
 
- [Clearfix example](https://codepen.io/rishabhsrao/pen/nYqKXB "Clearfix example")
+ 
+
+[Clearfix example](https://codepen.io/rishabhsrao/pen/nYqKXB "Clearfix example")

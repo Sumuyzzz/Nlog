@@ -30,16 +30,15 @@ Function.prototype.myBind = function(context, ...argument) {
 #### 完整版
 思路：如果直接调用抛出错误，如果是构造函数就使用new
 ```js
-Function.prototype.myBind = function(context, ...arg1) {
-    if (this === Function.prototype) {
-        throw new Error('Error')
-    }
-    const fn = this
-    return function Fn(...arg2) {
-        if (this instanceof Fn) {
-            return new fn(...args1,...args2)
-        }
-        return fn.apply(context, arg1.concat(arg2))
-    }
+Function.prototype.myBind = function() {
+	let args = Array.slice.call(arguments)
+	let t = args.shift()
+	let self  = this
+   return function (){
+	self.apply(t,args)
+   }
 }
+
+
+
 ```

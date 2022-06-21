@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "博客发布/项目开发/vue3造轮子/实现 switch.md",
+            "file": "JavaScript/异步/Promise.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "排序",
+                "query": "cookie",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 169
+    "width": 367
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "博客发布/项目开发/vue3造轮子/实现 switch.md",
+                "file": "JavaScript/异步/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "博客发布/项目开发/vue3造轮子/实现 switch.md",
+                "file": "JavaScript/异步/Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,15 +130,15 @@
   },
   "active": "fa08a35ae82f2326",
   "lastOpenFiles": [
-    "博客发布/项目开发/vue3造轮子/实现 switch.md",
-    "博客发布/项目开发/数据可视化项目.md",
-    "博客发布/项目开发/react 记账.md",
-    "面试/vue/组件通信.md",
-    "读书笔记/深入浅出Vue/模板编译.md",
-    "读书笔记/深入浅出Vue/Patch.md",
-    "面试/vue/未命名.md",
-    "面试/vue/Vue 如何检测数组变化.md",
-    "面试/css/面试题.md",
-    "面试/css/未命名 1.md"
+    "JavaScript/异步/Promise.md",
+    "JavaScript/异步/异步编程.md",
+    "JavaScript/异步/ajax和fetch，axios.md",
+    "面试/JavaScript/Promise.md",
+    "面试/JavaScript/Promise.all和Promise.race，Promise.any.md",
+    "面试/JavaScript/new.md",
+    "笔记/算法图解/大O表示法.md",
+    "笔记/算法图解/Untitled.md",
+    "算法与数据结构/二分法.md",
+    "未命名.md"
   ]
 }
