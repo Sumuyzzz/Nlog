@@ -17,7 +17,7 @@
   "customMessageOnAutoBackup": true,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
-  "refreshSourceControl": false,
+  "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": true
