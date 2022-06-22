@@ -11,3 +11,45 @@ Promise其实是一个容器，装载着异步事件。根据规则来执行相�
 * 不受外界影响，一旦进入某个状态，任何操作都无法改变这个状态。
 
 
+
+### then
+接收两个回调参数，
+
+语法如下
+
+```js
+promise.then(
+	(result)=>{},
+	(error)=>{}
+)
+```
+
+
+如果只接受结果
+
+```js
+promise.then(result)
+
+```
+
+
+### catch
+
+
+
+
+
+### finaly
+
+
+```js
+new Promise((resolve, reject) => { 
+}) ;
+.finally(() => stop loading indicator) 
+.then(result => show result, err => show error)
+
+
+```
+
+
+

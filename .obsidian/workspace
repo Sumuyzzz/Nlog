@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa08a35ae82f2326",
+        "id": "4e5b6c780dfdf274",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/设置git remote 绑定.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367
+    "width": 315
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/设置git remote 绑定.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/设置git remote 绑定.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,23 +120,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 534.4
+    "width": 100
   },
-  "active": "fa08a35ae82f2326",
+  "active": "4e5b6c780dfdf274",
   "lastOpenFiles": [
-    "git/设置git remote 绑定.md",
-    "JavaScript/异步/Promise.md",
-    "JavaScript/异步/异步编程.md",
-    "JavaScript/异步/ajax和fetch，axios.md",
-    "面试/JavaScript/Promise.md",
-    "面试/JavaScript/Promise.all和Promise.race，Promise.any.md",
-    "面试/JavaScript/new.md",
-    "笔记/算法图解/大O表示法.md",
-    "笔记/算法图解/Untitled.md",
-    "算法与数据结构/二分法.md"
+    "README.md",
+    "git/如何用在github用gh-page展示项目.md",
+    "React/组件状态.md",
+    "React/class组件和function组件.md",
+    "React/不可变性.md",
+    "React/概述.md",
+    "React/React 井字棋.md",
+    "面试/手写代码系列/排序算法/冒泡排序.md",
+    "面试/手写代码系列/常见手写题/柯里化.md",
+    "算法与数据结构/排序/冒泡排序.md"
   ]
 }

@@ -1,4 +1,19 @@
-![image-20210106211207220](E:\个人笔记\读书笔记\算法图解\image-20210106211207220.png)
 
-链表：链表的每个元素都存储了下个元素的地址，从而是一系列随机的内存地址串在一起
 
+
+| dad | da  |     |     |     |
+| --- | --- |:--- | --- | --- |
+|     | da  |     |     |     |
+|     |     |     |     |     |
+| da  | da  | da  |     |     |
+|     |     |     |     |     |
+
+
+
+
+
+参考
+
+[# 大O符号](https://zh.wikipedia.org/wiki/%E5%A4%A7O%E7%AC%A6%E5%8F%B7)
+
+[# What is Big-O Notation?](https://www.educative.io/answers/what-is-big-o-notation)

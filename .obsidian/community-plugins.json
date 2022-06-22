@@ -9,5 +9,6 @@
   "calendar",
   "templater-obsidian",
   "simple-embeds",
-  "obsidian-format-code"
+  "obsidian-format-code",
+  "obsidian-git"
 ]
