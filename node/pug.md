@@ -1,0 +1,1 @@
+Pug is a [template engine](https://pugjs.org/) for Node and for the browser.

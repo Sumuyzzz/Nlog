@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
+            "file": "面试/手写代码系列/排序算法/快速排序.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
+                "file": "面试/手写代码系列/排序算法/快速排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
+                "file": "面试/手写代码系列/排序算法/快速排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "4e5b6c780dfdf274",
   "lastOpenFiles": [
+    "面试/手写代码系列/排序算法/快速排序.md",
+    "面试/手写代码系列/排序算法/计数排序.md",
+    "面试/手写代码系列/排序算法/归并排序.md",
+    "面试/手写代码系列/排序算法/插入排序.md",
+    "node/pug.md",
+    "node/express.md",
+    "node/什么是__dirname.md",
+    "node/CommonJS.md",
     "笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
-    "笔记/算法图解/大O表示法.md",
-    "README.md",
-    "git/如何用在github用gh-page展示项目.md",
-    "React/组件状态.md",
-    "React/class组件和function组件.md",
-    "React/不可变性.md",
-    "React/概述.md",
-    "React/React 井字棋.md",
-    "面试/手写代码系列/排序算法/冒泡排序.md"
+    "笔记/算法图解/大O表示法.md"
   ]
 }
