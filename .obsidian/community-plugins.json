@@ -9,6 +9,11 @@
   "calendar",
   "templater-obsidian",
   "simple-embeds",
-  "obsidian-format-code",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-grandfather",
+  "obsidian-reading-time",
+  "obsidian-sidebar-expand-on-hover",
+  "obsidian-jira-issue",
+  "heatmap-calendar",
+  "obsidian-task-progress-bar"
 ]
