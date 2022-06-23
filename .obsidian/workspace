@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +129,8 @@
   },
   "active": "4e5b6c780dfdf274",
   "lastOpenFiles": [
+    "笔记/JavaScript语言精髓与编程实践（第三版）/第三章.md",
+    "笔记/算法图解/大O表示法.md",
     "README.md",
     "git/如何用在github用gh-page展示项目.md",
     "React/组件状态.md",
@@ -136,8 +138,6 @@
     "React/不可变性.md",
     "React/概述.md",
     "React/React 井字棋.md",
-    "面试/手写代码系列/排序算法/冒泡排序.md",
-    "面试/手写代码系列/常见手写题/柯里化.md",
-    "算法与数据结构/排序/冒泡排序.md"
+    "面试/手写代码系列/排序算法/冒泡排序.md"
   ]
 }
