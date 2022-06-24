@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/面试反问.md",
+            "file": "面试/ajax/demo.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/面试反问.md",
+                "file": "面试/ajax/demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/面试反问.md",
+                "file": "面试/ajax/demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,6 +150,7 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "面试/ajax/demo.md",
     "面试/面试反问.md",
     "面试/JavaScript/es6常用.md",
     "面试/vue/未命名.md",
@@ -158,7 +159,6 @@
     "面试/vue/基本原理.md",
     "面试/vue/watch和computed的区别.md",
     "面试/vue/Vue 如何检测数组变化.md",
-    "面试/vue/Proxy 与 Object.defineProperty 优劣对比.md",
-    "面试/手写代码系列/排序算法/快速排序.md"
+    "面试/vue/Proxy 与 Object.defineProperty 优劣对比.md"
   ]
 }
