@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
+            "file": "vue全家桶/vuerouter/基本组成.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 100
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
+                "file": "vue全家桶/vuerouter/基本组成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
+                "file": "vue全家桶/vuerouter/基本组成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,10 +144,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 100
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "vue全家桶/vuerouter/基本组成.md",
     "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
     "学习笔记/uniapp/基本介绍.md",
     "正则表达式/正则.md",
@@ -156,7 +157,6 @@
     "面试/手写代码系列/排序算法/插入排序.md",
     "面试/手写代码系列/排序算法/冒泡排序.md",
     "面试/手写代码系列/排序算法/快速排序.md",
-    "面试/vue/生命周期.md",
-    "面试/http/浏览器存储.md"
+    "面试/vue/生命周期.md"
   ]
 }
