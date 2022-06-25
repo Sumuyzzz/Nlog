@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "正则表达式/简单的介绍.md",
-            "mode": "preview",
+            "file": "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正则表达式/简单的介绍.md",
+                "file": "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "正则表达式/简单的介绍.md",
+                "file": "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +148,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "正则表达式/简单的介绍.md",
+    "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
     "学习笔记/uniapp/基本介绍.md",
+    "正则表达式/正则.md",
+    "正则表达式/简单的介绍.md",
     "学习笔记/sasss/sass全解.md",
     "面试/手写代码系列/排序算法/插入排序.md",
     "面试/手写代码系列/排序算法/冒泡排序.md",
     "面试/手写代码系列/排序算法/快速排序.md",
     "面试/vue/生命周期.md",
-    "面试/http/浏览器存储.md",
-    "面试/ajax/demo.md",
-    "面试/面试反问.md"
+    "面试/http/浏览器存储.md"
   ]
 }
