@@ -1,4 +1,13 @@
+![[Pasted image 20220626145741.png]]
 
+
+
+报错信息：
+
+```
+Cannot find name '$ref'.
+
+```
 
 
 在tsconfig.json里添加
@@ -24,7 +33,7 @@
 接着去看rfcs，确定没用错，
 然后去，Vue SFC Playground，验证写法没错。
 
-最后锁定vite的问题
+最后锁定vite的问题，需要添加ref配置。
 
 ```ts
 //vite.config.ts
@@ -44,6 +53,8 @@ export default defineConfig({
     },
 })
 ```
+
+
 
 
 
