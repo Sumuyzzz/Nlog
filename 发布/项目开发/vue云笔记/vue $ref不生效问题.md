@@ -9,7 +9,6 @@ Cannot find name '$ref'.
 
 ```
 
-
 在tsconfig.json里添加
 
 ```json

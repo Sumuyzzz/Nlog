@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179
+    "width": 608
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -149,14 +149,14 @@
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
     "发布/项目开发/vue云笔记/vue $ref不生效问题.md",
+    "发布/项目开发/vue云笔记/deploy失效问题.md",
+    "git/bu.md",
+    "git/如何用在github用gh-page展示项目.md",
+    "git/设置git remote 绑定.md",
     "vue全家桶/vuerouter/基本组成.md",
     "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
     "学习笔记/uniapp/基本介绍.md",
     "正则表达式/正则.md",
-    "正则表达式/简单的介绍.md",
-    "学习笔记/sasss/sass全解.md",
-    "面试/手写代码系列/排序算法/插入排序.md",
-    "面试/手写代码系列/排序算法/冒泡排序.md",
-    "面试/手写代码系列/排序算法/快速排序.md"
+    "正则表达式/简单的介绍.md"
   ]
 }
