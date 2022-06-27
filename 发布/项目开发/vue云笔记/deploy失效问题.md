@@ -2,9 +2,7 @@
 
 
 比如这次的报错信息
-
-
-![](https://raw.githubusercontent.com/Sumuyzzz/pictures/master/img/202206270024709.png?token=AR2LEV75CZIGN6AYPTW6C6LCXCEIW)
-
+![](https://raw.githubusercontent.com/Sumuyzzz/pictures/master/img/202206271111012.png?token=AR2LEV6T74MW7UPZE6AYDPDCXEQBQ)
 就让人摸不清，明明是按照vite文档配置的deploy文件，前一次还能用，这次就莫名其妙了。
+
 
