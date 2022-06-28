@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/项目开发/vue云笔记/关于每次登陆都重新请求数据的问题.md",
-            "mode": "source",
+            "file": "发布/vue3生命周期.md",
+            "mode": "preview",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516
+    "width": 100
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发布/项目开发/vue云笔记/关于每次登陆都重新请求数据的问题.md",
+                "file": "发布/vue3生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/项目开发/vue云笔记/关于每次登陆都重新请求数据的问题.md",
+                "file": "发布/vue3生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +148,7 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/vue3生命周期.md",
     "发布/项目开发/vue云笔记/关于每次登陆都重新请求数据的问题.md",
     "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md",
     "https/curl.md",
@@ -156,7 +157,6 @@
     "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
     "发布/项目开发/vue云笔记/Avatar展示用户信息.md",
     "发布/项目开发/vue云笔记/使用axios+localStorage封装.md",
-    "发布/项目开发/vue云笔记/deploy失效问题.md",
-    "发布/项目开发/vue云笔记/vue $ref不生效问题.md"
+    "发布/项目开发/vue云笔记/deploy失效问题.md"
   ]
 }
