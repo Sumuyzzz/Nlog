@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
+            "file": "发布/项目开发/vue云笔记/手写Eventbus.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "请求体",
+                "query": "\"export default class EventEmitter { static eventObject: any   events: any   constructor() { this.init() }   init() { if (!EventEmitter.eventObject) { EventEmitter.eventObject = Object.create(null) this.events = EventEmitter.eventObject } }   on(target: string, handle: (value:any) => void) { this.events[target] = this.events[target] || new Array() this.events[target].push(handle) return this }   off(target: string, handle: (value: any) => void) { this.events[target] = this.events[target].filter((func: () => void) => func !== handle) return this }   emit(target: string, ...args: any) { this.events[target].map((handle: () => void) => { handle.apply(null, args) }) return this }   once(target: string, handle: (value: any) => void) { const wrapper = (...args: any) => { this.off(target, wrapper) handle.apply(this, args) } this.on(target, wrapper) return this }  }\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 451
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
+                "file": "发布/项目开发/vue云笔记/手写Eventbus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
+                "file": "发布/项目开发/vue云笔记/手写Eventbus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +148,7 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/项目开发/vue云笔记/手写Eventbus.md",
     "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
     "发布/项目开发/vue云笔记/Avatar展示用户信息.md",
     "发布/项目开发/vue云笔记/使用axios+localStorage封装.md",
@@ -156,7 +157,6 @@
     "面试/ajax/ajax.md",
     "发布/使用截图工具+图床+github实现截图自由.md",
     "发布/迭代器.md",
-    "git/bu.md",
-    "git/如何用在github用gh-page展示项目.md"
+    "git/bu.md"
   ]
 }
