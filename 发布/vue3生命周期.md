@@ -25,7 +25,3 @@
 
 vue2和vue3的生命周期基本相同，除了命名和用`setup`替换了`beforecreate`+`created`
 
-
-![](https://raw.githubusercontent.com/Sumuyzzz/pictures/master/img/202206282319703.png?token=AR2LEV4THY5SVHEPNTGVVLTCXMOFW)
-
-<img src="https://raw.githubusercontent.com/Sumuyzzz/pictures/master/img/202206282319703.png?token=AR2LEV4THY5SVHEPNTGVVLTCXMOFW"/>

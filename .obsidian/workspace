@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/vue3生命周期.md",
-            "mode": "preview",
+            "file": "面试/vue/组件通信.md",
+            "mode": "source",
             "backlinks": true,
-            "source": true
+            "source": false
           }
         }
       }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"export default class EventEmitter { static eventObject: any   events: any   constructor() { this.init() }   init() { if (!EventEmitter.eventObject) { EventEmitter.eventObject = Object.create(null) this.events = EventEmitter.eventObject } }   on(target: string, handle: (value:any) => void) { this.events[target] = this.events[target] || new Array() this.events[target].push(handle) return this }   off(target: string, handle: (value: any) => void) { this.events[target] = this.events[target].filter((func: () => void) => func !== handle) return this }   emit(target: string, ...args: any) { this.events[target].map((handle: () => void) => { handle.apply(null, args) }) return this }   once(target: string, handle: (value: any) => void) { const wrapper = (...args: any) => { this.off(target, wrapper) handle.apply(this, args) } this.on(target, wrapper) return this }  }\"",
+                "query": "组件",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发布/vue3生命周期.md",
+                "file": "面试/vue/组件通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/vue3生命周期.md",
+                "file": "面试/vue/组件通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +148,7 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "面试/vue/组件通信.md",
     "发布/vue3生命周期.md",
     "发布/项目开发/vue云笔记/关于每次登陆都重新请求数据的问题.md",
     "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md",
@@ -156,7 +157,6 @@
     "发布/项目开发/vue云笔记/手写Eventbus.md",
     "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
     "发布/项目开发/vue云笔记/Avatar展示用户信息.md",
-    "发布/项目开发/vue云笔记/使用axios+localStorage封装.md",
-    "发布/项目开发/vue云笔记/deploy失效问题.md"
+    "发布/项目开发/vue云笔记/使用axios+localStorage封装.md"
   ]
 }
