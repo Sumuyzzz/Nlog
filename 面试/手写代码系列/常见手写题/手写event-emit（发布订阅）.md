@@ -16,9 +16,20 @@
 ### 实现
 ```js
 class EventEmitter {
+	static eventObj
+
     constructor() {
-        this.events = Object.create(null)
+       this.init()
     }
+	init(){
+		if(!EventEmitter.eventObj){
+			EventEmiter.eventObj = Object.create(null)
+		}
+	
+	}
+
+
+
     on(target, handle) {
         this.events[target] = this.events[target] || []
         this.events[target].push(handle)
@@ -39,7 +50,7 @@ class EventEmitter {
 
     once(target, handle) {
         const wrapper = (...args)=>{
-            this.off(target, w)
+            this.off(target, wrapper)
             handle.apply(this, args)
         }
         this.on(target, wrapper)
@@ -60,6 +71,12 @@ eventEmitter.once('onemore', function() {
 eventEmitter.on('onemore', function() {
     console.log('看这个');
 });
+
+
+eventEmitter.on('twomore',function(){
+console.log('艹')
+})
+
 
 eventEmitter.emit('onemore');
 
