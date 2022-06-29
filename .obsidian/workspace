@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/杂记/使用jsdelivr CDN 加速github仓库.md",
-            "mode": "source",
+            "file": "面试/JavaScript/立即执行函数.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#模式",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5a7ecf0c4d19e606",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 300
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -65,19 +73,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f231dfacc286ec81",
+            "id": "ee5ba8b6e7622646",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "markdown",
               "state": {
-                "file": "发布/杂记/使用jsdelivr CDN 加速github仓库.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "算法与数据结构/字典树.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -87,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/杂记/使用jsdelivr CDN 加速github仓库.md",
+                "file": "面试/JavaScript/立即执行函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +104,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -119,24 +123,21 @@
               "type": "calendar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "0c0ad2dfe899560c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4e5b6c780dfdf274",
+            "id": "f231dfacc286ec81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "backlink",
               "state": {
-                "file": "面试/vue/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "面试/JavaScript/立即执行函数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -144,19 +145,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 286.6000061035156
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "发布/杂记/使用jsdelivr CDN 加速github仓库.md",
-    "().md",
-    "发布/杂记/关于vetur无法检测模块.md",
-    "发布/gist.md",
-    "发布/使用截图工具+图床+github实现截图自由.md",
-    "image/Pasted image 20220313125057.png",
-    "image/Pasted image 20220314232403.png",
-    "学习笔记/vue3造轮子/创建项目.md",
-    "学习笔记/vue3造轮子/展示源代码.md",
-    "学习笔记/vue全解/watch.md"
+    "面试/JavaScript/立即执行函数.md",
+    "面试/JavaScript/判断类型.md",
+    "面试/JavaScript/垃圾回收.md",
+    "面试/JavaScript/0.1+0.2 ! == 0.3.md",
+    "面试/http/跨域.md",
+    "发布/html+css/rpxpx、rpx、em、rem 、vw(vh)、%的区别.md",
+    "发布/html+css/margin重叠.md",
+    "发布/html+css/自适应布局方案.md",
+    "发布/html+css/页面布局.md",
+    "发布/html+css/事件委托.md"
   ]
 }

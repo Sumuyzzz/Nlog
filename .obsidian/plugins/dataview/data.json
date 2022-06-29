@@ -1,6 +1,6 @@
 {
   "renderNullAs": "\\-",
-  "taskCompletionTracking": false,
+  "taskCompletionTracking": true,
   "taskCompletionText": "completion",
   "warnOnEmptyResult": true,
   "refreshEnabled": true,
@@ -13,6 +13,7 @@
   "allowHtml": true,
   "inlineQueryPrefix": "=",
   "inlineJsQueryPrefix": "$=",
+  "inlineQueriesInCodeblocks": true,
   "enableDataviewJs": true,
   "enableInlineDataviewJs": true,
   "prettyRenderInlineFields": true

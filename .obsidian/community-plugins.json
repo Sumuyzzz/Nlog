@@ -19,10 +19,13 @@
   "dataview",
   "obsidian-format-code",
   "music-code-blocks",
-  "obsidian-day-planner",
   "emoji-shortcodes",
   "obsidian-icons-plugin",
   "obsidian-timelines",
   "todoist-sync-plugin",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "recent-files-obsidian",
+  "remember-cursor-position",
+  "open-note-to-window-title",
+  "cm-chs-patch"
 ]

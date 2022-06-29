@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "立即执行函数",
+      "path": "面试/JavaScript/立即执行函数.md"
+    },
+    {
+      "basename": "判断类型",
+      "path": "面试/JavaScript/判断类型.md"
+    },
+    {
+      "basename": "垃圾回收",
+      "path": "面试/JavaScript/垃圾回收.md"
+    },
+    {
+      "basename": "0.1+0.2 ! == 0.3",
+      "path": "面试/JavaScript/0.1+0.2 ! == 0.3.md"
+    },
+    {
+      "basename": "跨域",
+      "path": "面试/http/跨域.md"
+    },
+    {
+      "basename": "rpxpx、rpx、em、rem 、vw(vh)、%的区别",
+      "path": "发布/html+css/rpxpx、rpx、em、rem 、vw(vh)、%的区别.md"
+    },
+    {
+      "basename": "margin重叠",
+      "path": "发布/html+css/margin重叠.md"
+    },
+    {
+      "basename": "自适应布局方案",
+      "path": "发布/html+css/自适应布局方案.md"
+    },
+    {
+      "basename": "事件委托",
+      "path": "发布/html+css/事件委托.md"
+    },
+    {
+      "basename": "关于line-height继承问题",
+      "path": "发布/html+css/关于line-height继承问题.md"
+    },
+    {
+      "basename": "关于浮动元素",
+      "path": "发布/html+css/关于浮动元素.md"
+    },
+    {
+      "basename": "使用jsdelivr CDN 加速github仓库",
+      "path": "发布/杂记/使用jsdelivr CDN 加速github仓库.md"
+    },
+    {
+      "basename": "关于vetur无法检测模块",
+      "path": "发布/杂记/关于vetur无法检测模块.md"
+    },
+    {
+      "basename": "关于ESlint和Vetur配置",
+      "path": "发布/杂记/关于ESlint和Vetur配置.md"
+    },
+    {
+      "basename": "react 记账",
+      "path": "发布/项目开发/react 记账.md"
+    },
+    {
+      "basename": "关于ts无法直接导出type的问题",
+      "path": "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md"
+    },
+    {
+      "basename": "关于新建笔记报错问题",
+      "path": "发布/项目开发/vue云笔记/关于新建笔记报错问题.md"
+    },
+    {
+      "basename": "关于每次登陆都重新请求数据的问题",
+      "path": "发布/项目开发/vue云笔记/关于每次登陆都重新请求数据的问题.md"
+    },
+    {
+      "basename": "note2",
+      "path": "note2.md"
+    },
+    {
+      "basename": "未命名看板",
+      "path": "未命名看板.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "算法与数据结构/数据结构.md"
+    },
+    {
+      "basename": "二分法",
+      "path": "算法与数据结构/二分法.md"
+    },
+    {
+      "basename": "Js概览",
+      "path": "学习笔记/Js概览.md"
+    },
+    {
+      "basename": "dom",
+      "path": "学习笔记/dom.md"
+    },
+    {
+      "basename": "命令行",
+      "path": "学习笔记/命令行.md"
+    },
+    {
+      "basename": "简单的介绍",
+      "path": "正则表达式/简单的介绍.md"
+    },
+    {
+      "basename": "markdown",
+      "path": "正则表达式/markdown.md"
+    },
+    {
+      "basename": "this全解",
+      "path": "发布/this全解.md"
+    },
+    {
+      "basename": "Props vs State",
+      "path": "发布/Props vs State.md"
+    },
+    {
+      "basename": "gist",
+      "path": "发布/gist.md"
+    },
+    {
+      "basename": "falsy值",
+      "path": "发布/falsy值.md"
+    },
+    {
+      "basename": "什么是MVC",
+      "path": "发布/什么是MVC.md"
+    },
+    {
+      "basename": "迭代器",
+      "path": "发布/迭代器.md"
+    },
+    {
+      "basename": "防抖与节流",
+      "path": "发布/防抖与节流.md"
+    },
+    {
+      "basename": "关于npm发布",
+      "path": "发布/关于npm发布.md"
+    },
+    {
+      "basename": "如何居中布局",
+      "path": "发布/如何居中布局.md"
+    },
+    {
+      "basename": "浏览器存储",
+      "path": "面试/http/浏览器存储.md"
+    },
+    {
+      "basename": "浏览器的工作原理",
+      "path": "面试/http/浏览器的工作原理.md"
+    },
+    {
+      "basename": "浏览器的渲染原理",
+      "path": "面试/http/浏览器的渲染原理.md"
+    },
+    {
+      "basename": "浏览器输入",
+      "path": "面试/http/浏览器输入.md"
+    },
+    {
+      "basename": "浏览器缓存",
+      "path": "面试/http/浏览器缓存.md"
+    },
+    {
+      "basename": "三次握手，四次挥手",
+      "path": "面试/http/三次握手，四次挥手.md"
+    },
+    {
+      "basename": "页面的生命周期.excalidraw",
+      "path": "面试/http/页面的生命周期.excalidraw.md"
+    },
+    {
+      "basename": "post和get",
+      "path": "面试/http/post和get.md"
+    },
+    {
+      "basename": "http状态码",
+      "path": "面试/http/http状态码.md"
+    },
+    {
+      "basename": "setRequestHeader",
+      "path": "面试/http/setRequestHeader.md"
+    },
+    {
+      "basename": "概述",
+      "path": "面试/http/概述.md"
+    },
+    {
+      "basename": "经典题目",
+      "path": "面试/http/经典题目.md"
+    },
+    {
+      "basename": "缓存位置",
+      "path": "面试/http/缓存位置.md"
+    },
+    {
+      "basename": "语义化理解",
+      "path": "面试/html/语义化理解.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
