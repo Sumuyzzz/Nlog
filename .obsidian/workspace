@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/css/布局.md",
+            "file": "https/http请求方法.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "px",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,12 +50,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 517
+    "width": 645,
+    "collapsed": true
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/css/布局.md",
+                "file": "https/http请求方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/css/布局.md",
+                "file": "https/http请求方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,19 +145,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.60000610351562
+    "width": 100
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "https/http请求方法.md",
+    "https/curl.md",
+    "发布/未命名.md",
+    "学习笔记/跨域.md",
+    "面试/http/post和get.md",
+    "面试/手写代码系列/常见手写题/手写深拷贝.md",
+    "发布/项目开发/vue云笔记/关于新建笔记报错问题.md",
     "面试/css/布局.md",
     "发布/html+css/rpxpx、rpx、em、rem 、vw(vh)、%的区别.md",
-    "学习笔记/uniapp/基本介绍.md",
-    "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
-    "面试/css/svg 和 canvas.md",
-    "面试/css/inline vs block.md",
-    "面试/css/clear flx.md",
-    "面试/css/bfc.md",
-    "面试/css/选择器.md",
-    "面试/css/面试题.md"
+    "学习笔记/uniapp/基本介绍.md"
   ]
 }
