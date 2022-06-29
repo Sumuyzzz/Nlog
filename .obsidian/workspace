@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/gist.md",
+            "file": "发布/杂记/使用jsdelivr CDN 加速github仓库.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 243
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发布/gist.md",
+                "file": "发布/杂记/使用jsdelivr CDN 加速github仓库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/gist.md",
+                "file": "发布/杂记/使用jsdelivr CDN 加速github仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +148,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/杂记/使用jsdelivr CDN 加速github仓库.md",
+    "().md",
+    "发布/杂记/关于vetur无法检测模块.md",
     "发布/gist.md",
     "发布/使用截图工具+图床+github实现截图自由.md",
     "image/Pasted image 20220313125057.png",
     "image/Pasted image 20220314232403.png",
     "学习笔记/vue3造轮子/创建项目.md",
     "学习笔记/vue3造轮子/展示源代码.md",
-    "学习笔记/vue全解/watch.md",
-    "学习笔记/vue全解/conpoent.md",
-    "学习笔记/vue全解/响应式原理.md",
-    "学习笔记/Js概览.md"
+    "学习笔记/vue全解/watch.md"
   ]
 }
