@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/vue/组件通信.md",
+            "file": "面试/css/布局.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "组件",
+                "query": "px",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,11 +50,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 517
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/vue/组件通信.md",
+                "file": "面试/css/布局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/vue/组件通信.md",
+                "file": "面试/css/布局.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +101,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -121,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "0c0ad2dfe899560c",
@@ -144,19 +145,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 182.60000610351562
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "面试/vue/组件通信.md",
-    "发布/vue3生命周期.md",
-    "发布/项目开发/vue云笔记/关于每次登陆都重新请求数据的问题.md",
-    "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md",
-    "https/curl.md",
-    "面试/手写代码系列/常见手写题/currying.md",
-    "发布/项目开发/vue云笔记/手写Eventbus.md",
-    "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
-    "发布/项目开发/vue云笔记/Avatar展示用户信息.md",
-    "发布/项目开发/vue云笔记/使用axios+localStorage封装.md"
+    "面试/css/布局.md",
+    "发布/html+css/rpxpx、rpx、em、rem 、vw(vh)、%的区别.md",
+    "学习笔记/uniapp/基本介绍.md",
+    "发布/项目开发/uniapp/使用vue3+vscode开发uniapp.md",
+    "面试/css/svg 和 canvas.md",
+    "面试/css/inline vs block.md",
+    "面试/css/clear flx.md",
+    "面试/css/bfc.md",
+    "面试/css/选择器.md",
+    "面试/css/面试题.md"
   ]
 }

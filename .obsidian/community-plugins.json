@@ -17,5 +17,11 @@
   "heatmap-calendar",
   "obsidian-task-progress-bar",
   "dataview",
-  "obsidian-format-code"
+  "obsidian-format-code",
+  "music-code-blocks",
+  "obsidian-day-planner",
+  "emoji-shortcodes",
+  "obsidian-icons-plugin",
+  "obsidian-timelines",
+  "todoist-sync-plugin"
 ]
