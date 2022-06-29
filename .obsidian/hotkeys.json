@@ -77,5 +77,23 @@
       ],
       "key": "L"
     }
+  ],
+  "obsidian-image-auto-upload-plugin:doanload all images": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-image-auto-upload-plugin:upload all images": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }

@@ -9222,7 +9222,7 @@ var require_jsonpath = __commonJS({
 __export(exports, {
   default: () => JiraIssuePlugin
 });
-var import_obsidian6 = __toModule(require("obsidian"));
+var import_obsidian7 = __toModule(require("obsidian"));
 
 // src/client/jiraClient.ts
 var import_obsidian2 = __toModule(require("obsidian"));
@@ -9312,7 +9312,7 @@ var SearchView = class {
   fromString(str) {
     for (const line of str.split("\n")) {
       if (line.trim() && !COMMENT_REGEX.test(line)) {
-        let [key, ...values] = line.split(":");
+        const [key, ...values] = line.split(":");
         const value = values.join(":").trim();
         if (!value) {
           this.query = line;
@@ -9440,7 +9440,11 @@ var DEFAULT_SETTINGS = {
     { type: ESearchColumnsTypes.ASSIGNEE, compact: false },
     { type: ESearchColumnsTypes.PRIORITY, compact: true },
     { type: ESearchColumnsTypes.STATUS, compact: false }
-  ]
+  ],
+  jqlAutocomplete: {
+    fields: [],
+    functions: {}
+  }
 };
 var JiraIssueSettingsTab = class extends import_obsidian.PluginSettingTab {
   constructor(app, plugin) {
@@ -9664,6 +9668,39 @@ var JiraClient = class {
           this._settings.customFieldsNameToId[field.name] = field.schema.customId.toString();
         }
       }
+    });
+  }
+  updateJQLAutoCompleteCache() {
+    return __async(this, null, function* () {
+      const response = yield this.sendRequest({
+        url: this.buildUrl(`/jql/autocompletedata`),
+        method: "GET",
+        headers: this.buildHeaders()
+      });
+      this._settings.jqlAutocomplete.functions = {};
+      for (const functionData of response.visibleFunctionNames) {
+        for (const functionType of functionData.types) {
+          if (functionType in this._settings.jqlAutocomplete.functions) {
+            this._settings.jqlAutocomplete.functions[functionType].push(functionData.value);
+          } else {
+            this._settings.jqlAutocomplete.functions[functionType] = [functionData.value];
+          }
+        }
+      }
+      this._settings.jqlAutocomplete.fields = response.visibleFieldNames;
+    });
+  }
+  getJQLAutoCompleteField(fieldName, fieldValue) {
+    return __async(this, null, function* () {
+      const queryParameters = new URLSearchParams({
+        fieldName,
+        fieldValue
+      });
+      return yield this.sendRequest({
+        url: this.buildUrl(`/jql/autocompletedata/suggestions`, queryParameters),
+        method: "GET",
+        headers: this.buildHeaders()
+      });
     });
   }
 };
@@ -10275,7 +10312,8 @@ var renderTableColumn = (columns, issue, row, renderingCommon) => {
           markdownNotes = renderingCommon.getNotes();
         }
         const noteCell = createEl("td", { parent: row });
-        const connectedNotes = markdownNotes.filter((n) => n.name.startsWith(issue.key));
+        const noteRegex = new RegExp("^" + issue.key + "[^0-9]");
+        const connectedNotes = markdownNotes.filter((n) => n.name.match(noteRegex));
         if (connectedNotes.length > 0) {
           for (const note of connectedNotes) {
             if (column.extra) {
@@ -10302,7 +10340,7 @@ function renderNoteFile(column, note, noteCell) {
   if (column.compact) {
     createEl("a", { text: "\u{1F4DD}", title: note.path, href: note.path, cls: "internal-link", parent: noteCell });
   } else {
-    let noteNameWithoutExtension = note.name.split(".");
+    const noteNameWithoutExtension = note.name.split(".");
     noteNameWithoutExtension.pop();
     createEl("a", { text: noteNameWithoutExtension.join("."), title: note.path, href: note.path, cls: "internal-link", parent: noteCell });
     createEl("br", { parent: noteCell });
@@ -10566,8 +10604,61 @@ var ViewPluginManager = class {
   }
 };
 
+// src/rendering/querySuggest.ts
+var import_obsidian6 = __toModule(require("obsidian"));
+var QuerySuggest = class extends import_obsidian6.EditorSuggest {
+  constructor(app, settings) {
+    super(app);
+    this._settings = settings;
+  }
+  onTrigger(cursor, editor, file) {
+    const cursorLine = editor.getLine(cursor.line);
+    if (!cursorLine.match(/^\s*query\s*:/)) {
+      return null;
+    }
+    if (!cursorLine.substring(0, cursor.ch).match(/^\s*query\s*:/)) {
+      return null;
+    }
+    let jiraSearchFenceStartFound = false;
+    for (let i = cursor.line - 1; i >= 0; i--) {
+      const line = editor.getLine(i);
+      if (line.match(/^\s*```\s*jira-search/)) {
+        jiraSearchFenceStartFound = true;
+        break;
+      }
+    }
+    if (!jiraSearchFenceStartFound) {
+      return null;
+    }
+    const strBeforeCursor = cursorLine.substring(0, cursor.ch);
+    const strAfterQueryKey = strBeforeCursor.split(":").slice(1).join(":");
+    const lastColumn = strAfterQueryKey.split(/(AND|OR|ORDER BY)/).pop();
+    return {
+      start: { line: cursor.line, ch: cursor.ch - lastColumn.length },
+      end: cursor,
+      query: strAfterQueryKey
+    };
+  }
+  getSuggestions(context) {
+    const suggestions = [];
+    console.log({ context });
+    return suggestions;
+  }
+  renderSuggestion(value, el) {
+    if (value.isFunction) {
+      el.createSpan({ text: "fx", cls: "jira-issue-suggestion is-function" });
+    }
+    el.createSpan({ text: value.name, cls: "jira-issue-suggestion" });
+  }
+  selectSuggestion(value, evt) {
+    if (!this.context)
+      return;
+    this.context.editor.replaceRange(value.name, this.context.start, this.context.end, "jira-issue");
+  }
+};
+
 // src/main.ts
-var JiraIssuePlugin = class extends import_obsidian6.Plugin {
+var JiraIssuePlugin = class extends import_obsidian7.Plugin {
   onload() {
     return __async(this, null, function* () {
       this._settings = new JiraIssueSettingsTab(this.app, this);
@@ -10576,6 +10667,7 @@ var JiraIssuePlugin = class extends import_obsidian6.Plugin {
       this._cache = new ObjectsCache(this._settings.getData());
       this._client = new JiraClient(this._settings.getData());
       this._client.updateCustomFieldsCache();
+      this._client.updateJQLAutoCompleteCache();
       this._renderingCommon = new RenderingCommon(this._settings.getData(), this.app);
       this._issueFenceRenderer = new IssueFenceRenderer(this._renderingCommon, this._client, this._cache);
       this.registerMarkdownCodeBlockProcessor("jira-issue", this._issueFenceRenderer.render.bind(this._issueFenceRenderer));
@@ -10587,6 +10679,10 @@ var JiraIssuePlugin = class extends import_obsidian6.Plugin {
         this._columnsSuggest = new ColumnsSuggest(this.app, this._settings.getData());
         this.registerEditorSuggest(this._columnsSuggest);
       });
+      this.app.workspace.onLayoutReady(() => {
+        this._querySuggest = new QuerySuggest(this.app, this._settings.getData());
+        this.registerEditorSuggest(this._querySuggest);
+      });
       this._inlineIssueRenderer = new InlineIssueRenderer(this._renderingCommon, this._settings.getData(), this._client, this._cache);
       this.registerMarkdownPostProcessor(this._inlineIssueRenderer.render.bind(this._inlineIssueRenderer));
       this._inlineIssueViewPlugin = new ViewPluginManager(this._renderingCommon, this._settings.getData(), this._client, this._cache);
@@ -10594,6 +10690,7 @@ var JiraIssuePlugin = class extends import_obsidian6.Plugin {
       this._settings.onChange(() => {
         this._cache.clear();
         this._client.updateCustomFieldsCache();
+        this._client.updateJQLAutoCompleteCache();
         this._inlineIssueViewPlugin.update();
       });
       this.addCommand({
@@ -10602,7 +10699,8 @@ var JiraIssuePlugin = class extends import_obsidian6.Plugin {
         callback: () => {
           this._cache.clear();
           this._client.updateCustomFieldsCache();
-          new import_obsidian6.Notice("JiraIssue: Cache cleaned");
+          this._client.updateJQLAutoCompleteCache();
+          new import_obsidian7.Notice("JiraIssue: Cache cleaned");
         }
       });
       this.addCommand({

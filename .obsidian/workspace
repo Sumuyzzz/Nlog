@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "https/http请求方法.md",
+            "file": "发布/gist.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 645,
-    "collapsed": true
+    "width": 100
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "https/http请求方法.md",
+                "file": "发布/gist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "https/http请求方法.md",
+                "file": "发布/gist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,15 +148,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "https/http请求方法.md",
-    "https/curl.md",
-    "发布/未命名.md",
-    "学习笔记/跨域.md",
-    "面试/http/post和get.md",
-    "面试/手写代码系列/常见手写题/手写深拷贝.md",
-    "发布/项目开发/vue云笔记/关于新建笔记报错问题.md",
-    "面试/css/布局.md",
-    "发布/html+css/rpxpx、rpx、em、rem 、vw(vh)、%的区别.md",
-    "学习笔记/uniapp/基本介绍.md"
+    "发布/gist.md",
+    "发布/使用截图工具+图床+github实现截图自由.md",
+    "image/Pasted image 20220313125057.png",
+    "image/Pasted image 20220314232403.png",
+    "学习笔记/vue3造轮子/创建项目.md",
+    "学习笔记/vue3造轮子/展示源代码.md",
+    "学习笔记/vue全解/watch.md",
+    "学习笔记/vue全解/conpoent.md",
+    "学习笔记/vue全解/响应式原理.md",
+    "学习笔记/Js概览.md"
   ]
 }
