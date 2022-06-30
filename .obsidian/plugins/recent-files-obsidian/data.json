@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "数据结构",
+      "path": "算法与数据结构/数据结构.md"
+    },
+    {
       "basename": "立即执行函数",
       "path": "面试/JavaScript/立即执行函数.md"
     },
@@ -71,18 +75,6 @@
     {
       "basename": "关于每次登陆都重新请求数据的问题",
       "path": "发布/项目开发/vue云笔记/关于每次登陆都重新请求数据的问题.md"
-    },
-    {
-      "basename": "note2",
-      "path": "note2.md"
-    },
-    {
-      "basename": "未命名看板",
-      "path": "未命名看板.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "算法与数据结构/数据结构.md"
     },
     {
       "basename": "二分法",

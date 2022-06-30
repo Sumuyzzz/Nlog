@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/JavaScript/立即执行函数.md",
-            "mode": "preview",
+            "file": "算法与数据结构/数据结构.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/JavaScript/立即执行函数.md",
+                "file": "算法与数据结构/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/JavaScript/立即执行函数.md",
+                "file": "算法与数据结构/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,15 +150,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "算法与数据结构/数据结构.md",
+    "note2.md",
+    "未命名看板.md",
     "面试/JavaScript/立即执行函数.md",
     "面试/JavaScript/判断类型.md",
     "面试/JavaScript/垃圾回收.md",
     "面试/JavaScript/0.1+0.2 ! == 0.3.md",
     "面试/http/跨域.md",
     "发布/html+css/rpxpx、rpx、em、rem 、vw(vh)、%的区别.md",
-    "发布/html+css/margin重叠.md",
-    "发布/html+css/自适应布局方案.md",
-    "发布/html+css/页面布局.md",
-    "发布/html+css/事件委托.md"
+    "发布/html+css/margin重叠.md"
   ]
 }
