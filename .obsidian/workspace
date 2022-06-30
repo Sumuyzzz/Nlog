@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "算法与数据结构/数组.md",
+            "file": "算法与数据结构/二分法.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 100
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法与数据结构/数组.md",
+                "file": "算法与数据结构/二分法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法与数据结构/数组.md",
+                "file": "算法与数据结构/二分法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "算法与数据结构/二分法.md",
+    "算法与数据结构/数据结构.md",
+    "面试/手写代码系列/算法押题/链表/反转链表.md",
+    "算法与数据结构/链表.md",
     "算法与数据结构/数组.md",
     "JavaScript/常用api/Array.md",
     "JavaScript/常用api/Math.md",
     "面试/手写代码系列/算法押题/数组/最接近的三数之和.md",
     "面试/手写代码系列/算法押题/数组/连续子数组最大和.md",
-    "面试/手写代码系列/算法押题/数组/删除字符串中相邻的重复项.md",
-    "面试/技术栈区别.md",
-    "面试/手写代码系列/算法押题/数组/移除元素.md",
-    "面试/手写代码系列/算法押题/数组/存在重复元素.md",
-    "面试/手写代码系列/算法押题/数组/寻找不重复的最大数.md"
+    "面试/手写代码系列/算法押题/数组/删除字符串中相邻的重复项.md"
   ]
 }
