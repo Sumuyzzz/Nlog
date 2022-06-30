@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "连续子数组最大和",
+      "path": "面试/手写代码系列/算法押题/连续子数组最大和.md"
+    },
+    {
+      "basename": "删除字符串中相邻的重复项",
+      "path": "面试/手写代码系列/算法押题/删除字符串中相邻的重复项.md"
+    },
+    {
+      "basename": "技术栈区别",
+      "path": "面试/技术栈区别.md"
+    },
+    {
+      "basename": "移除元素",
+      "path": "面试/手写代码系列/算法押题/移除元素.md"
+    },
+    {
+      "basename": "存在重复元素",
+      "path": "面试/手写代码系列/算法押题/存在重复元素.md"
+    },
+    {
+      "basename": "寻找不重复的最大数",
+      "path": "面试/手写代码系列/算法押题/寻找不重复的最大数.md"
+    },
+    {
+      "basename": "如何判断数组",
+      "path": "面试/手写代码系列/算法押题/如何判断数组.md"
+    },
+    {
       "basename": "反转链表",
       "path": "面试/手写代码系列/算法押题/反转链表.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "页面的生命周期.excalidraw",
       "path": "面试/http/页面的生命周期.excalidraw.md"
-    },
-    {
-      "basename": "post和get",
-      "path": "面试/http/post和get.md"
-    },
-    {
-      "basename": "http状态码",
-      "path": "面试/http/http状态码.md"
-    },
-    {
-      "basename": "setRequestHeader",
-      "path": "面试/http/setRequestHeader.md"
-    },
-    {
-      "basename": "概述",
-      "path": "面试/http/概述.md"
-    },
-    {
-      "basename": "经典题目",
-      "path": "面试/http/经典题目.md"
-    },
-    {
-      "basename": "缓存位置",
-      "path": "面试/http/缓存位置.md"
-    },
-    {
-      "basename": "语义化理解",
-      "path": "面试/html/语义化理解.md"
     }
   ],
   "omittedPaths": [],
