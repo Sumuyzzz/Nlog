@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "柯里化",
+      "path": "面试/手写代码系列/常见手写题/柯里化.md"
+    },
+    {
+      "basename": "currying",
+      "path": "面试/手写代码系列/常见手写题/currying.md"
+    },
+    {
+      "basename": "数组去重",
+      "path": "面试/手写代码系列/常见手写题/数组去重.md"
+    },
+    {
       "basename": "手写event-emit（发布订阅）",
       "path": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "gist",
       "path": "发布/gist.md"
-    },
-    {
-      "basename": "falsy值",
-      "path": "发布/falsy值.md"
-    },
-    {
-      "basename": "什么是MVC",
-      "path": "发布/什么是MVC.md"
-    },
-    {
-      "basename": "迭代器",
-      "path": "发布/迭代器.md"
     }
   ],
   "omittedPaths": [],

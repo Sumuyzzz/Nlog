@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
+            "file": "面试/手写代码系列/常见手写题/柯里化.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
+                "file": "面试/手写代码系列/常见手写题/柯里化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
+                "file": "面试/手写代码系列/常见手写题/柯里化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "面试/手写代码系列/常见手写题/柯里化.md",
+    "面试/手写代码系列/常见手写题/currying.md",
+    "面试/手写代码系列/常见手写题/数组去重.md",
     "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
     "面试/手写代码系列/排序算法/堆排序.md",
     "面试/手写代码系列/排序算法/插入排序.md",
     "面试/手写代码系列/算法押题/栈/有效括号.md",
     "e：e.md",
     "面试/手写代码系列/算法押题/数组/存在重复元素.md",
-    "面试/手写代码系列/算法押题/数组/两数之和.md",
-    "算法与数据结构/数组.md",
-    "算法与数据结构/链表.md",
-    "算法与数据结构/二分法.md"
+    "面试/手写代码系列/算法押题/数组/两数之和.md"
   ]
 }
