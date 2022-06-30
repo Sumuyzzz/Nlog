@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "数组",
+      "path": "算法与数据结构/数组.md"
+    },
+    {
       "basename": "Array",
       "path": "JavaScript/常用api/Array.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "浏览器的渲染原理",
       "path": "面试/http/浏览器的渲染原理.md"
-    },
-    {
-      "basename": "浏览器输入",
-      "path": "面试/http/浏览器输入.md"
     }
   ],
   "omittedPaths": [],

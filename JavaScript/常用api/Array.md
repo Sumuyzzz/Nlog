@@ -96,8 +96,67 @@ console.log(array1) //[1,2,3,4,5]
 console.log(nullArray) //[4, 8, 12, 16, 20]
 ```
 ## Array.from()
->
+>讲一个类数组或可迭代对象转换成新的数组
 
+**Array.from(_arrayLike_[, _mapFn_[, _thisArg_]])**
+
+```js
+console.log(Array.from('foo')); //Array ["f", "o", "o"]
+
+
+console.log(Array.from([1, 2, 3], x => x + x));
+Array [2, 4, 6]
+
+
+
+function f() {
+  return Array.from(arguments);
+}
+f(1, 2, 3); //[1,2,3]
+
+```
+
+## Array.prototype.includes()
+>判断数组是否包含某个值
+
+```js
+const array1 = [1, 2, 3];
+
+console.log(array1.includes(2)); //true
+
+const pets = ['cat', 'dog', 'bat'];
+
+console.log(pets.includes('at'));//false
+```
+
+## Array.prototype.indexOf()
+>返回给定参数的索引
+
+```js
+const beasts = ['ant', 'bison', 'camel', 'duck', 'bison'];
+
+console.log(beasts.indexOf('bison'));//1
+
+
+//start from index 2
+console.log(beasts.indexOf('bison', 2));//4
+```
+
+## Array.prototype.join()
+>将数组转化成字符串
+
+```js
+const elements = ['Fire', 'Air', 'Water'];
+
+console.log(elements.join());//"Fire,Air,Water"
+
+console.log(elements.join(''));//"FireAirWater"
+
+console.log(elements.join('-'));//"Fire-Air-Water"
+
+```
+## Array.prototype.keys()
+>
 
 # 更改原数组
 ## ！Array.prototype.copyWithin() 
@@ -135,7 +194,6 @@ console.log(array1.fill(0, 2, 4));//[1, 2, 0, 0, 5, 6, 7, 8, 9, 0]
 console.log(array1.fill(5, 1));//[1, 5, 5, 5, 5, 5, 5, 5, 5, 5]
 
 console.log(array1.fill(6)) //[6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
-
-
 ```
 
+[# Array](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array)
