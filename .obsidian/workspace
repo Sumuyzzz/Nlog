@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "算法与数据结构/二分法.md",
+            "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 479
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法与数据结构/二分法.md",
+                "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法与数据结构/二分法.md",
+                "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "算法与数据结构/二分法.md",
-    "算法与数据结构/数据结构.md",
-    "面试/手写代码系列/算法押题/链表/反转链表.md",
-    "算法与数据结构/链表.md",
+    "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
+    "面试/手写代码系列/排序算法/堆排序.md",
+    "面试/手写代码系列/排序算法/插入排序.md",
+    "面试/手写代码系列/算法押题/栈/有效括号.md",
+    "e：e.md",
+    "面试/手写代码系列/算法押题/数组/存在重复元素.md",
+    "面试/手写代码系列/算法押题/数组/两数之和.md",
     "算法与数据结构/数组.md",
-    "JavaScript/常用api/Array.md",
-    "JavaScript/常用api/Math.md",
-    "面试/手写代码系列/算法押题/数组/最接近的三数之和.md",
-    "面试/手写代码系列/算法押题/数组/连续子数组最大和.md",
-    "面试/手写代码系列/算法押题/数组/删除字符串中相邻的重复项.md"
+    "算法与数据结构/链表.md",
+    "算法与数据结构/二分法.md"
   ]
 }
