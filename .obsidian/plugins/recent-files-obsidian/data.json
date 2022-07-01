@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "vue生命周期",
+      "path": "发布/vue生命周期.md"
+    },
+    {
+      "basename": "生命周期",
+      "path": "面试/vue/生命周期.md"
+    },
+    {
+      "basename": "Props vs State",
+      "path": "发布/Props vs State.md"
+    },
+    {
+      "basename": "selectionSort",
+      "path": "面试/手写代码系列/排序算法/img/selectionSort.gif"
+    },
+    {
+      "basename": "insertionSort",
+      "path": "面试/手写代码系列/排序算法/img/insertionSort.gif"
+    },
+    {
+      "basename": "quickSort",
+      "path": "面试/手写代码系列/排序算法/img/quickSort.gif"
+    },
+    {
+      "basename": "Lit",
+      "path": "发布/Lit.md"
+    },
+    {
+      "basename": "伤命周期",
+      "path": "vue全家桶/vue/伤命周期.md"
+    },
+    {
+      "basename": "基本原理",
+      "path": "面试/vue/基本原理.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "面试/vue/未命名.md"
+    },
+    {
+      "basename": "watch和computed的区别",
+      "path": "面试/vue/watch和computed的区别.md"
+    },
+    {
+      "basename": "Vue 如何检测数组变化",
+      "path": "面试/vue/Vue 如何检测数组变化.md"
+    },
+    {
+      "basename": "Proxy 与 Object.defineProperty 优劣对比",
+      "path": "面试/vue/Proxy 与 Object.defineProperty 优劣对比.md"
+    },
+    {
+      "basename": "0.1+0.2 ! == 0.3",
+      "path": "面试/JavaScript/0.1+0.2 ! == 0.3.md"
+    },
+    {
+      "basename": "==操作符",
+      "path": "面试/JavaScript/==操作符.md"
+    },
+    {
+      "basename": "[1,2,3].map(parseInt)",
+      "path": "面试/JavaScript/[1,2,3].map(parseInt).md"
+    },
+    {
       "basename": "手写深度比较",
       "path": "面试/手写代码系列/常见手写题/手写深度比较.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "使用jsdelivr CDN 加速github仓库",
       "path": "发布/杂记/使用jsdelivr CDN 加速github仓库.md"
-    },
-    {
-      "basename": "关于vetur无法检测模块",
-      "path": "发布/杂记/关于vetur无法检测模块.md"
-    },
-    {
-      "basename": "Button",
-      "path": "学习笔记/vue3造轮子/Button.md"
-    },
-    {
-      "basename": "Dialog",
-      "path": "学习笔记/vue3造轮子/Dialog.md"
-    },
-    {
-      "basename": "start",
-      "path": "学习笔记/vue3造轮子/start.md"
-    },
-    {
-      "basename": "home",
-      "path": "学习笔记/vue3造轮子/home.md"
-    },
-    {
-      "basename": "组件",
-      "path": "学习笔记/react全解/组件.md"
-    },
-    {
-      "basename": "类组件分析",
-      "path": "学习笔记/react全解/类组件分析.md"
-    },
-    {
-      "basename": "创建项目",
-      "path": "学习笔记/react记账/创建项目.md"
-    },
-    {
-      "basename": "异步编程",
-      "path": "JavaScript/异步/异步编程.md"
-    },
-    {
-      "basename": "Promise",
-      "path": "JavaScript/异步/Promise.md"
-    },
-    {
-      "basename": "ajax和fetch，axios",
-      "path": "JavaScript/异步/ajax和fetch，axios.md"
-    },
-    {
-      "basename": "JavaScript问题",
-      "path": "JavaScript/JavaScript问题.md"
-    },
-    {
-      "basename": "void",
-      "path": "JavaScript/void.md"
-    },
-    {
-      "basename": "数组",
-      "path": "JavaScript/数组.md"
-    },
-    {
-      "basename": "递归",
-      "path": "JavaScript/递归.md"
-    },
-    {
-      "basename": "闭包",
-      "path": "JavaScript/闭包.md"
     }
   ],
   "omittedPaths": [],

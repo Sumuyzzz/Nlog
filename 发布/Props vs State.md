@@ -22,10 +22,6 @@ const element = <Welcome name="Sara" />;
 
 
 
-## State
-
-什么
-
 
 
 

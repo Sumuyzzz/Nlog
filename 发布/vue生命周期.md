@@ -11,10 +11,16 @@
 ![](https://raw.githubusercontent.com/Sumuyzzz/pictures/master/img/202206282322463.png?token=AR2LEV3RLLOJDDS2YGNDNTLCXMOQE)
 
 
+根据生命周期图示，可以分为四个阶段。
+初始化阶段，模板编译阶段，挂载阶段，卸载阶段。
+
+new Vue（）到create之间，叫做初始化阶段。
+
+这个阶段主要是
+
 
 ### vue3生命周期
 
-![](https://raw.githubusercontent.com/Sumuyzzz/pictures/master/img/202206282102983.gif?token=AR2LEV2TULY4S3ODA6MNK43CXL6BQ)
 ![](https://raw.githubusercontent.com/Sumuyzzz/pictures/master/img/202206282303767.png?token=AR2LEV2D5B6FVB6IYIU2YHLCXMMH6)
 
 
@@ -23,5 +29,10 @@
 
 
 
-vue2和vue3的生命周期基本相同，除了命名和用`setup`替换了`beforecreate`+`created`
+
+
+
+
+
+
 
