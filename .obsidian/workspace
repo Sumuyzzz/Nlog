@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/常见手写题/柯里化.md",
+            "file": "面试/手写代码系列/算法押题/数组/最接近的三数之和.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -73,31 +74,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee5ba8b6e7622646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法与数据结构/字典树.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae373e01920499d6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "面试/手写代码系列/常见手写题/柯里化.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "98035f387bc758ac",
             "type": "leaf",
             "state": {
@@ -107,42 +83,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "21173831846ae5b8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ea73a247d7db6265",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f231dfacc286ec81",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "面试/手写代码系列/常见手写题/柯里化.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,15 +92,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "面试/手写代码系列/算法押题/数组/最接近的三数之和.md",
+    "面试/手写代码系列/算法押题/栈/有效括号.md",
+    "git/设置git remote 绑定.md",
+    "git/commit message 规范.md",
     "面试/手写代码系列/常见手写题/柯里化.md",
     "面试/手写代码系列/常见手写题/currying.md",
     "面试/手写代码系列/常见手写题/数组去重.md",
     "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
     "面试/手写代码系列/排序算法/堆排序.md",
-    "面试/手写代码系列/排序算法/插入排序.md",
-    "面试/手写代码系列/算法押题/栈/有效括号.md",
-    "e：e.md",
-    "面试/手写代码系列/算法押题/数组/存在重复元素.md",
-    "面试/手写代码系列/算法押题/数组/两数之和.md"
+    "面试/手写代码系列/排序算法/插入排序.md"
   ]
 }

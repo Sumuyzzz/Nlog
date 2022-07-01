@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "最接近的三数之和",
+      "path": "面试/手写代码系列/算法押题/数组/最接近的三数之和.md"
+    },
+    {
+      "basename": "有效括号",
+      "path": "面试/手写代码系列/算法押题/栈/有效括号.md"
+    },
+    {
+      "basename": "设置git remote 绑定",
+      "path": "git/设置git remote 绑定.md"
+    },
+    {
+      "basename": "commit message 规范",
+      "path": "git/commit message 规范.md"
+    },
+    {
       "basename": "柯里化",
       "path": "面试/手写代码系列/常见手写题/柯里化.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "插入排序",
       "path": "面试/手写代码系列/排序算法/插入排序.md"
-    },
-    {
-      "basename": "有效括号",
-      "path": "面试/手写代码系列/算法押题/栈/有效括号.md"
     },
     {
       "basename": "e：e",
@@ -67,10 +79,6 @@
     {
       "basename": "Math",
       "path": "JavaScript/常用api/Math.md"
-    },
-    {
-      "basename": "最接近的三数之和",
-      "path": "面试/手写代码系列/算法押题/数组/最接近的三数之和.md"
     },
     {
       "basename": "连续子数组最大和",
@@ -191,14 +199,6 @@
     {
       "basename": "this全解",
       "path": "发布/this全解.md"
-    },
-    {
-      "basename": "Props vs State",
-      "path": "发布/Props vs State.md"
-    },
-    {
-      "basename": "gist",
-      "path": "发布/gist.md"
     }
   ],
   "omittedPaths": [],
