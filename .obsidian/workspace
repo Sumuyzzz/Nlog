@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/webpack/plugin vs loader.md",
+            "file": "面试/手写代码系列/常见手写题/手写深度比较.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#模式",
+                "query": "typeof",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 100
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -91,15 +91,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "面试/手写代码系列/常见手写题/手写深度比较.md",
+    "面试/手写代码系列/常见手写题/手写浅拷贝.md",
+    "面试/JavaScript/判断类型.md",
     "面试/webpack/plugin vs loader.md",
     "面试/webpack/tree shraking.md",
     "面试/http/如何预防.md",
     "面试/http/https header.md",
     "面试/http/缓存位置.md",
     "面试/http/经典题目.md",
-    "面试/http/跨域.md",
-    "面试/http/浏览器存储.md",
-    "面试/http/浏览器的工作原理.md",
-    "面试/http/浏览器的渲染原理.md"
+    "面试/http/跨域.md"
   ]
 }

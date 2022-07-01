@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "手写深度比较",
+      "path": "面试/手写代码系列/常见手写题/手写深度比较.md"
+    },
+    {
+      "basename": "手写浅拷贝",
+      "path": "面试/手写代码系列/常见手写题/手写浅拷贝.md"
+    },
+    {
+      "basename": "判断类型",
+      "path": "面试/JavaScript/判断类型.md"
+    },
+    {
       "basename": "plugin vs loader",
       "path": "面试/webpack/plugin vs loader.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "闭包",
       "path": "JavaScript/闭包.md"
-    },
-    {
-      "basename": "整数反转",
-      "path": "面试/手写代码系列/算法押题/数组/整数反转.md"
-    },
-    {
-      "basename": "搜索插入位置",
-      "path": "面试/手写代码系列/算法押题/数组/搜索插入位置.md"
-    },
-    {
-      "basename": "盛最多水的容器",
-      "path": "面试/手写代码系列/算法押题/数组/盛最多水的容器.md"
     }
   ],
   "omittedPaths": [],
