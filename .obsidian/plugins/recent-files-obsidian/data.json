@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "组件的本质",
+      "path": "笔记/渲染器/组件的本质.md"
+    },
+    {
       "basename": "vue生命周期",
       "path": "发布/vue生命周期.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "关于ESlint和Vetur配置",
       "path": "发布/杂记/关于ESlint和Vetur配置.md"
-    },
-    {
-      "basename": "使用jsdelivr CDN 加速github仓库",
-      "path": "发布/杂记/使用jsdelivr CDN 加速github仓库.md"
     }
   ],
   "omittedPaths": [],
