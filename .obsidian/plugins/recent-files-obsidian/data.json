@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "plugin vs loader",
+      "path": "面试/webpack/plugin vs loader.md"
+    },
+    {
+      "basename": "tree shraking",
+      "path": "面试/webpack/tree shraking.md"
+    },
+    {
+      "basename": "如何预防",
+      "path": "面试/http/如何预防.md"
+    },
+    {
+      "basename": "https header",
+      "path": "面试/http/https header.md"
+    },
+    {
+      "basename": "缓存位置",
+      "path": "面试/http/缓存位置.md"
+    },
+    {
+      "basename": "经典题目",
+      "path": "面试/http/经典题目.md"
+    },
+    {
+      "basename": "跨域",
+      "path": "面试/http/跨域.md"
+    },
+    {
+      "basename": "浏览器存储",
+      "path": "面试/http/浏览器存储.md"
+    },
+    {
+      "basename": "浏览器的工作原理",
+      "path": "面试/http/浏览器的工作原理.md"
+    },
+    {
+      "basename": "浏览器的渲染原理",
+      "path": "面试/http/浏览器的渲染原理.md"
+    },
+    {
       "basename": "浏览器缓存",
       "path": "面试/http/浏览器缓存.md"
+    },
+    {
+      "basename": "浏览器输入",
+      "path": "面试/http/浏览器输入.md"
+    },
+    {
+      "basename": "三次握手，四次挥手",
+      "path": "面试/http/三次握手，四次挥手.md"
+    },
+    {
+      "basename": "页面的生命周期.excalidraw",
+      "path": "面试/http/页面的生命周期.excalidraw.md"
+    },
+    {
+      "basename": "http状态码",
+      "path": "面试/http/http状态码.md"
+    },
+    {
+      "basename": "https-加密方式",
+      "path": "面试/http/https-加密方式.md"
+    },
+    {
+      "basename": "post和get",
+      "path": "面试/http/post和get.md"
+    },
+    {
+      "basename": "HTTP headers",
+      "path": "https/HTTP headers.md"
+    },
+    {
+      "basename": "http请求方法",
+      "path": "https/http请求方法.md"
     },
     {
       "basename": "markdown",
@@ -127,78 +199,6 @@
     {
       "basename": "盛最多水的容器",
       "path": "面试/手写代码系列/算法押题/数组/盛最多水的容器.md"
-    },
-    {
-      "basename": "两数相加",
-      "path": "面试/手写代码系列/算法押题/链表/两数相加.md"
-    },
-    {
-      "basename": "无重复字符最长子串",
-      "path": "面试/手写代码系列/算法押题/哈希表/无重复字符最长子串.md"
-    },
-    {
-      "basename": "Array",
-      "path": "JavaScript/常用api/Array.md"
-    },
-    {
-      "basename": "Math",
-      "path": "JavaScript/常用api/Math.md"
-    },
-    {
-      "basename": "最接近的三数之和",
-      "path": "面试/手写代码系列/算法押题/数组/最接近的三数之和.md"
-    },
-    {
-      "basename": "有效括号",
-      "path": "面试/手写代码系列/算法押题/栈/有效括号.md"
-    },
-    {
-      "basename": "设置git remote 绑定",
-      "path": "git/设置git remote 绑定.md"
-    },
-    {
-      "basename": "commit message 规范",
-      "path": "git/commit message 规范.md"
-    },
-    {
-      "basename": "柯里化",
-      "path": "面试/手写代码系列/常见手写题/柯里化.md"
-    },
-    {
-      "basename": "currying",
-      "path": "面试/手写代码系列/常见手写题/currying.md"
-    },
-    {
-      "basename": "数组去重",
-      "path": "面试/手写代码系列/常见手写题/数组去重.md"
-    },
-    {
-      "basename": "手写event-emit（发布订阅）",
-      "path": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md"
-    },
-    {
-      "basename": "堆排序",
-      "path": "面试/手写代码系列/排序算法/堆排序.md"
-    },
-    {
-      "basename": "插入排序",
-      "path": "面试/手写代码系列/排序算法/插入排序.md"
-    },
-    {
-      "basename": "e：e",
-      "path": "e：e.md"
-    },
-    {
-      "basename": "存在重复元素",
-      "path": "面试/手写代码系列/算法押题/数组/存在重复元素.md"
-    },
-    {
-      "basename": "两数之和",
-      "path": "面试/手写代码系列/算法押题/数组/两数之和.md"
-    },
-    {
-      "basename": "数组",
-      "path": "算法与数据结构/数组.md"
     }
   ],
   "omittedPaths": [],

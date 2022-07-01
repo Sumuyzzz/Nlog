@@ -73,21 +73,27 @@ DELETE 方法用于删除由其 URI 指定的资源。
 ```js
 
 
-
+fetch('https://jsonplaceholder.typicode.com/todos/1',{
+    method:'DELETE'
+})
+.then(response=>response.json())
+.then(data=>console.log(data))
 
 ```
+![](https://cdn.jsdelivr.net/gh/Sumuyzzz/pictures/img/202207011846004.png)
+
 
 
 ### 总结
 
 
-1.  Create NEW record =>POST
-2.  read=>GET
-3.  If the record exists then update else create a new record=>PUT
-4.  update/modify=>PATCH
-5.  delete=>DELETE
+1.  用于**创建新数据发送服务器** =>POST
+2.  用于**读取数据**=>GET
+3.  如果数据存在则更新，否则创建数据=>PUT
+4.  和PUT类似，不同之处在于**PUT用于更新完整信息**，PATCH只需要**修改部分数据**=>PATCH
+5.  **删除某个数据**=>DELETE
 
 
 
-
+[[post和get]]
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)

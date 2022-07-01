@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/http/浏览器缓存.md",
+            "file": "面试/webpack/plugin vs loader.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,15 +91,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "面试/http/浏览器缓存.md",
-    "正则表达式/markdown.md",
-    "gif/防抖与节流.gif",
-    "发布/防抖与节流.md",
-    "发布/关于npm发布.md",
-    "发布/项目开发/可视化/动态柱状图.md",
-    "发布/项目开发/可视化/迷人的踩坑.md",
-    "发布/项目开发/可视化/如何实现动态排序柱状图.md",
-    "发布/项目开发/可视化/饼图动态绑定实现2.md",
-    "发布/项目开发/可视化/饼图4实现动态数据.md"
+    "面试/webpack/plugin vs loader.md",
+    "面试/webpack/tree shraking.md",
+    "面试/http/如何预防.md",
+    "面试/http/https header.md",
+    "面试/http/缓存位置.md",
+    "面试/http/经典题目.md",
+    "面试/http/跨域.md",
+    "面试/http/浏览器存储.md",
+    "面试/http/浏览器的工作原理.md",
+    "面试/http/浏览器的渲染原理.md"
   ]
 }
