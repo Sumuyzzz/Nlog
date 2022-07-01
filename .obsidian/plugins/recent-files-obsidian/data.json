@@ -1,6 +1,150 @@
 {
   "recentFiles": [
     {
+      "basename": "浏览器缓存",
+      "path": "面试/http/浏览器缓存.md"
+    },
+    {
+      "basename": "markdown",
+      "path": "正则表达式/markdown.md"
+    },
+    {
+      "basename": "防抖与节流",
+      "path": "gif/防抖与节流.gif"
+    },
+    {
+      "basename": "防抖与节流",
+      "path": "发布/防抖与节流.md"
+    },
+    {
+      "basename": "关于npm发布",
+      "path": "发布/关于npm发布.md"
+    },
+    {
+      "basename": "动态柱状图",
+      "path": "发布/项目开发/可视化/动态柱状图.md"
+    },
+    {
+      "basename": "迷人的踩坑",
+      "path": "发布/项目开发/可视化/迷人的踩坑.md"
+    },
+    {
+      "basename": "如何实现动态排序柱状图",
+      "path": "发布/项目开发/可视化/如何实现动态排序柱状图.md"
+    },
+    {
+      "basename": "饼图动态绑定实现2",
+      "path": "发布/项目开发/可视化/饼图动态绑定实现2.md"
+    },
+    {
+      "basename": "饼图4实现动态数据",
+      "path": "发布/项目开发/可视化/饼图4实现动态数据.md"
+    },
+    {
+      "basename": "背景颜色实现半透明效果",
+      "path": "发布/项目开发/可视化/背景颜色实现半透明效果.md"
+    },
+    {
+      "basename": "关于ESlint和Vetur配置",
+      "path": "发布/杂记/关于ESlint和Vetur配置.md"
+    },
+    {
+      "basename": "使用jsdelivr CDN 加速github仓库",
+      "path": "发布/杂记/使用jsdelivr CDN 加速github仓库.md"
+    },
+    {
+      "basename": "关于vetur无法检测模块",
+      "path": "发布/杂记/关于vetur无法检测模块.md"
+    },
+    {
+      "basename": "Button",
+      "path": "学习笔记/vue3造轮子/Button.md"
+    },
+    {
+      "basename": "Dialog",
+      "path": "学习笔记/vue3造轮子/Dialog.md"
+    },
+    {
+      "basename": "start",
+      "path": "学习笔记/vue3造轮子/start.md"
+    },
+    {
+      "basename": "home",
+      "path": "学习笔记/vue3造轮子/home.md"
+    },
+    {
+      "basename": "组件",
+      "path": "学习笔记/react全解/组件.md"
+    },
+    {
+      "basename": "类组件分析",
+      "path": "学习笔记/react全解/类组件分析.md"
+    },
+    {
+      "basename": "创建项目",
+      "path": "学习笔记/react记账/创建项目.md"
+    },
+    {
+      "basename": "异步编程",
+      "path": "JavaScript/异步/异步编程.md"
+    },
+    {
+      "basename": "Promise",
+      "path": "JavaScript/异步/Promise.md"
+    },
+    {
+      "basename": "ajax和fetch，axios",
+      "path": "JavaScript/异步/ajax和fetch，axios.md"
+    },
+    {
+      "basename": "JavaScript问题",
+      "path": "JavaScript/JavaScript问题.md"
+    },
+    {
+      "basename": "void",
+      "path": "JavaScript/void.md"
+    },
+    {
+      "basename": "数组",
+      "path": "JavaScript/数组.md"
+    },
+    {
+      "basename": "递归",
+      "path": "JavaScript/递归.md"
+    },
+    {
+      "basename": "闭包",
+      "path": "JavaScript/闭包.md"
+    },
+    {
+      "basename": "整数反转",
+      "path": "面试/手写代码系列/算法押题/数组/整数反转.md"
+    },
+    {
+      "basename": "搜索插入位置",
+      "path": "面试/手写代码系列/算法押题/数组/搜索插入位置.md"
+    },
+    {
+      "basename": "盛最多水的容器",
+      "path": "面试/手写代码系列/算法押题/数组/盛最多水的容器.md"
+    },
+    {
+      "basename": "两数相加",
+      "path": "面试/手写代码系列/算法押题/链表/两数相加.md"
+    },
+    {
+      "basename": "无重复字符最长子串",
+      "path": "面试/手写代码系列/算法押题/哈希表/无重复字符最长子串.md"
+    },
+    {
+      "basename": "Array",
+      "path": "JavaScript/常用api/Array.md"
+    },
+    {
+      "basename": "Math",
+      "path": "JavaScript/常用api/Math.md"
+    },
+    {
       "basename": "最接近的三数之和",
       "path": "面试/手写代码系列/算法押题/数组/最接近的三数之和.md"
     },
@@ -55,150 +199,6 @@
     {
       "basename": "数组",
       "path": "算法与数据结构/数组.md"
-    },
-    {
-      "basename": "链表",
-      "path": "算法与数据结构/链表.md"
-    },
-    {
-      "basename": "二分法",
-      "path": "算法与数据结构/二分法.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "算法与数据结构/数据结构.md"
-    },
-    {
-      "basename": "反转链表",
-      "path": "面试/手写代码系列/算法押题/链表/反转链表.md"
-    },
-    {
-      "basename": "Array",
-      "path": "JavaScript/常用api/Array.md"
-    },
-    {
-      "basename": "Math",
-      "path": "JavaScript/常用api/Math.md"
-    },
-    {
-      "basename": "连续子数组最大和",
-      "path": "面试/手写代码系列/算法押题/数组/连续子数组最大和.md"
-    },
-    {
-      "basename": "删除字符串中相邻的重复项",
-      "path": "面试/手写代码系列/算法押题/数组/删除字符串中相邻的重复项.md"
-    },
-    {
-      "basename": "技术栈区别",
-      "path": "面试/技术栈区别.md"
-    },
-    {
-      "basename": "移除元素",
-      "path": "面试/手写代码系列/算法押题/数组/移除元素.md"
-    },
-    {
-      "basename": "寻找不重复的最大数",
-      "path": "面试/手写代码系列/算法押题/数组/寻找不重复的最大数.md"
-    },
-    {
-      "basename": "如何判断数组",
-      "path": "面试/手写代码系列/算法押题/数组/如何判断数组.md"
-    },
-    {
-      "basename": "立即执行函数",
-      "path": "面试/JavaScript/立即执行函数.md"
-    },
-    {
-      "basename": "判断类型",
-      "path": "面试/JavaScript/判断类型.md"
-    },
-    {
-      "basename": "垃圾回收",
-      "path": "面试/JavaScript/垃圾回收.md"
-    },
-    {
-      "basename": "0.1+0.2 ! == 0.3",
-      "path": "面试/JavaScript/0.1+0.2 ! == 0.3.md"
-    },
-    {
-      "basename": "跨域",
-      "path": "面试/http/跨域.md"
-    },
-    {
-      "basename": "rpxpx、rpx、em、rem 、vw(vh)、%的区别",
-      "path": "发布/html+css/rpxpx、rpx、em、rem 、vw(vh)、%的区别.md"
-    },
-    {
-      "basename": "margin重叠",
-      "path": "发布/html+css/margin重叠.md"
-    },
-    {
-      "basename": "自适应布局方案",
-      "path": "发布/html+css/自适应布局方案.md"
-    },
-    {
-      "basename": "事件委托",
-      "path": "发布/html+css/事件委托.md"
-    },
-    {
-      "basename": "关于line-height继承问题",
-      "path": "发布/html+css/关于line-height继承问题.md"
-    },
-    {
-      "basename": "关于浮动元素",
-      "path": "发布/html+css/关于浮动元素.md"
-    },
-    {
-      "basename": "使用jsdelivr CDN 加速github仓库",
-      "path": "发布/杂记/使用jsdelivr CDN 加速github仓库.md"
-    },
-    {
-      "basename": "关于vetur无法检测模块",
-      "path": "发布/杂记/关于vetur无法检测模块.md"
-    },
-    {
-      "basename": "关于ESlint和Vetur配置",
-      "path": "发布/杂记/关于ESlint和Vetur配置.md"
-    },
-    {
-      "basename": "react 记账",
-      "path": "发布/项目开发/react 记账.md"
-    },
-    {
-      "basename": "关于ts无法直接导出type的问题",
-      "path": "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md"
-    },
-    {
-      "basename": "关于新建笔记报错问题",
-      "path": "发布/项目开发/vue云笔记/关于新建笔记报错问题.md"
-    },
-    {
-      "basename": "关于每次登陆都重新请求数据的问题",
-      "path": "发布/项目开发/vue云笔记/关于每次登陆都重新请求数据的问题.md"
-    },
-    {
-      "basename": "Js概览",
-      "path": "学习笔记/Js概览.md"
-    },
-    {
-      "basename": "dom",
-      "path": "学习笔记/dom.md"
-    },
-    {
-      "basename": "命令行",
-      "path": "学习笔记/命令行.md"
-    },
-    {
-      "basename": "简单的介绍",
-      "path": "正则表达式/简单的介绍.md"
-    },
-    {
-      "basename": "markdown",
-      "path": "正则表达式/markdown.md"
-    },
-    {
-      "basename": "this全解",
-      "path": "发布/this全解.md"
     }
   ],
   "omittedPaths": [],

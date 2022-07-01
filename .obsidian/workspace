@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/算法押题/数组/最接近的三数之和.md",
+            "file": "面试/http/浏览器缓存.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 220
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -92,15 +91,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "面试/手写代码系列/算法押题/数组/最接近的三数之和.md",
-    "面试/手写代码系列/算法押题/栈/有效括号.md",
-    "git/设置git remote 绑定.md",
-    "git/commit message 规范.md",
-    "面试/手写代码系列/常见手写题/柯里化.md",
-    "面试/手写代码系列/常见手写题/currying.md",
-    "面试/手写代码系列/常见手写题/数组去重.md",
-    "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
-    "面试/手写代码系列/排序算法/堆排序.md",
-    "面试/手写代码系列/排序算法/插入排序.md"
+    "面试/http/浏览器缓存.md",
+    "正则表达式/markdown.md",
+    "gif/防抖与节流.gif",
+    "发布/防抖与节流.md",
+    "发布/关于npm发布.md",
+    "发布/项目开发/可视化/动态柱状图.md",
+    "发布/项目开发/可视化/迷人的踩坑.md",
+    "发布/项目开发/可视化/如何实现动态排序柱状图.md",
+    "发布/项目开发/可视化/饼图动态绑定实现2.md",
+    "发布/项目开发/可视化/饼图4实现动态数据.md"
   ]
 }
