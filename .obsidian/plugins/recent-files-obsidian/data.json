@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Vue 双向绑定原理",
+      "path": "面试/vue/Vue 双向绑定原理.md"
+    },
+    {
+      "basename": "基本原理",
+      "path": "面试/vue/基本原理.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "面试/vue/面试题.md"
+    },
+    {
+      "basename": "组件通信",
+      "path": "面试/vue/组件通信.md"
+    },
+    {
+      "basename": "vuex",
+      "path": "面试/vue/vuex.md"
+    },
+    {
       "basename": "合并两个有序数组",
       "path": "面试/手写代码系列/算法押题/数组/合并两个有序数组.md"
     },
@@ -45,20 +65,12 @@
       "path": "vue全家桶/vue/伤命周期.md"
     },
     {
-      "basename": "基本原理",
-      "path": "面试/vue/基本原理.md"
-    },
-    {
       "basename": "未命名",
       "path": "面试/vue/未命名.md"
     },
     {
       "basename": "watch和computed的区别",
       "path": "面试/vue/watch和computed的区别.md"
-    },
-    {
-      "basename": "Vue 如何检测数组变化",
-      "path": "面试/vue/Vue 如何检测数组变化.md"
     },
     {
       "basename": "Proxy 与 Object.defineProperty 优劣对比",
@@ -187,18 +199,6 @@
     {
       "basename": "迷人的踩坑",
       "path": "发布/项目开发/可视化/迷人的踩坑.md"
-    },
-    {
-      "basename": "如何实现动态排序柱状图",
-      "path": "发布/项目开发/可视化/如何实现动态排序柱状图.md"
-    },
-    {
-      "basename": "饼图动态绑定实现2",
-      "path": "发布/项目开发/可视化/饼图动态绑定实现2.md"
-    },
-    {
-      "basename": "饼图4实现动态数据",
-      "path": "发布/项目开发/可视化/饼图4实现动态数据.md"
     }
   ],
   "omittedPaths": [],
