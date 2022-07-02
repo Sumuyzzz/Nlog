@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "合并两个有序数组",
+      "path": "面试/手写代码系列/算法押题/数组/合并两个有序数组.md"
+    },
+    {
+      "basename": "大O表示法",
+      "path": "笔记/算法图解/大O表示法.md"
+    },
+    {
       "basename": "组件的本质",
       "path": "笔记/渲染器/组件的本质.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "饼图4实现动态数据",
       "path": "发布/项目开发/可视化/饼图4实现动态数据.md"
-    },
-    {
-      "basename": "背景颜色实现半透明效果",
-      "path": "发布/项目开发/可视化/背景颜色实现半透明效果.md"
-    },
-    {
-      "basename": "关于ESlint和Vetur配置",
-      "path": "发布/杂记/关于ESlint和Vetur配置.md"
     }
   ],
   "omittedPaths": [],
