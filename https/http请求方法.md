@@ -25,7 +25,7 @@ fetch('https://jsonplaceholder.typicode.com/todos',{
 .then(data=>console.log(data))
 ```
 
-
+![](https://cdn.jsdelivr.net/gh/Sumuyzzz/pictures/img/202207022345645.png)
 
 ### 三、PUT
 ```js
@@ -83,13 +83,23 @@ fetch('https://jsonplaceholder.typicode.com/todos/1',{
 
 
 
-[
-
 ### POST,PUT和PATCH的区别
 
 `HTTP`请求方法 `POST` 通常用于**资源创建**，而 `PUT` 用于**资源更新**。
 虽然这在大多数情况下都很好，但使用 `PUT` 来创建资源也是可行的。
 `PATCH` 是资源更新的替代方案，因为它允许**部分更新**。
+
+#### 幂等性
+一个 HTTP 方法是**幂等**的，指的是同样的请求被执行一次与连续执行多次的效果是一样的，服务器的状态也是一样的。
+
+
+在正确实现的条件下， [`GET`](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods/GET) ， [`HEAD`](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods/HEAD) ， [`PUT`](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods/PUT) 和 [`DELETE`](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods/DELETE) 等方法都是**幂等**的，而 [`POST`](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Methods/POST) 方法不是。所以多次发送相同的 POST 请求会导致创建多个资源。
+
+#### POST和PUT
+
+由于`POST`不是**幂等**的，提交多次会创建多个资源，
+
+
 
 
 
@@ -113,3 +123,5 @@ fetch('https://jsonplaceholder.typicode.com/todos/1',{
 [[post和get]]
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 [# [What is the difference between PUT, POST and PATCH?](https://stackoverflow.com/questions/31089221/what-is-the-difference-between-put-post-and-patch)](https://stackoverflow.com/questions/31089221/what-is-the-difference-between-put-post-and-patch)
+[# REST – PUT vs POST](https://restfulapi.net/rest-put-vs-post/)
+[](https://developer.mozilla.org/zh-CN/docs/Glossary/Idempotent)
