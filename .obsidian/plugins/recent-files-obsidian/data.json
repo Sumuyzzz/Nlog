@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "手写event-emit（发布订阅）",
+      "path": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md"
+    },
+    {
+      "basename": "vue双向绑定",
+      "path": "发布/vue/vue双向绑定.md"
+    },
+    {
+      "basename": "vue 3 composition-api  获取dom元素的方法",
+      "path": "发布/vue/vue 3 composition-api  获取dom元素的方法.md"
+    },
+    {
+      "basename": "钩子",
+      "path": "发布/vue/钩子.md"
+    },
+    {
+      "basename": "setup",
+      "path": "发布/vue/setup.md"
+    },
+    {
+      "basename": "router和route",
+      "path": "发布/vue/router和route.md"
+    },
+    {
       "basename": "Vue 双向绑定原理",
       "path": "面试/vue/Vue 双向绑定原理.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "http请求方法",
       "path": "https/http请求方法.md"
-    },
-    {
-      "basename": "markdown",
-      "path": "正则表达式/markdown.md"
-    },
-    {
-      "basename": "防抖与节流",
-      "path": "gif/防抖与节流.gif"
-    },
-    {
-      "basename": "防抖与节流",
-      "path": "发布/防抖与节流.md"
-    },
-    {
-      "basename": "关于npm发布",
-      "path": "发布/关于npm发布.md"
-    },
-    {
-      "basename": "动态柱状图",
-      "path": "发布/项目开发/可视化/动态柱状图.md"
-    },
-    {
-      "basename": "迷人的踩坑",
-      "path": "发布/项目开发/可视化/迷人的踩坑.md"
     }
   ],
   "omittedPaths": [],

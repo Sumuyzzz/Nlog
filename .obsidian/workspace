@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/vue/Vue 双向绑定原理.md",
+            "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "生命周期",
+                "query": "event",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,11 +58,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 211
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -91,15 +92,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
+    "发布/vue/vue双向绑定.md",
+    "发布/vue/vue 3 composition-api  获取dom元素的方法.md",
+    "发布/vue/钩子.md",
+    "发布/vue/setup.md",
+    "发布/vue/router和route.md",
+    "发布/vue/computed 和 watch .md",
     "面试/vue/Vue 双向绑定原理.md",
     "面试/vue/基本原理.md",
-    "面试/vue/面试题.md",
-    "面试/vue/组件通信.md",
-    "面试/vue/vuex.md",
-    "面试/手写代码系列/算法押题/数组/合并两个有序数组.md",
-    "笔记/算法图解/大O表示法.md",
-    "笔记/渲染器/组件的本质.md",
-    "发布/vue生命周期.md",
-    "面试/vue/生命周期.md"
+    "面试/vue/面试题.md"
   ]
 }
