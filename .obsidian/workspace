@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
+            "file": "面试/手写代码系列/算法押题/数组/两数之和.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +91,8 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "面试/手写代码系列/算法押题/数组/两数之和.md",
+    "算法与数据结构/数组.md",
     "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
     "发布/vue/vue双向绑定.md",
     "发布/vue/vue 3 composition-api  获取dom元素的方法.md",
@@ -99,8 +100,6 @@
     "发布/vue/setup.md",
     "发布/vue/router和route.md",
     "发布/vue/computed 和 watch .md",
-    "面试/vue/Vue 双向绑定原理.md",
-    "面试/vue/基本原理.md",
-    "面试/vue/面试题.md"
+    "面试/vue/Vue 双向绑定原理.md"
   ]
 }

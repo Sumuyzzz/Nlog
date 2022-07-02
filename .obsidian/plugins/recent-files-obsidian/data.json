@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "两数之和",
+      "path": "面试/手写代码系列/算法押题/数组/两数之和.md"
+    },
+    {
+      "basename": "数组",
+      "path": "算法与数据结构/数组.md"
+    },
+    {
       "basename": "手写event-emit（发布订阅）",
       "path": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "post和get",
       "path": "面试/http/post和get.md"
-    },
-    {
-      "basename": "HTTP headers",
-      "path": "https/HTTP headers.md"
-    },
-    {
-      "basename": "http请求方法",
-      "path": "https/http请求方法.md"
     }
   ],
   "omittedPaths": [],
