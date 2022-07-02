@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "http请求方法",
+      "path": "https/http请求方法.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "面试/ajax/未命名.md"
+    },
+    {
+      "basename": "缓存位置",
+      "path": "面试/http/缓存位置.md"
+    },
+    {
+      "basename": "经典题目",
+      "path": "面试/http/经典题目.md"
+    },
+    {
+      "basename": "跨域",
+      "path": "面试/http/跨域.md"
+    },
+    {
+      "basename": "浏览器存储",
+      "path": "面试/http/浏览器存储.md"
+    },
+    {
+      "basename": "浏览器的工作原理",
+      "path": "面试/http/浏览器的工作原理.md"
+    },
+    {
+      "basename": "浏览器的渲染原理",
+      "path": "面试/http/浏览器的渲染原理.md"
+    },
+    {
+      "basename": "浏览器缓存",
+      "path": "面试/http/浏览器缓存.md"
+    },
+    {
       "basename": "浏览器输入",
       "path": "面试/http/浏览器输入.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "手写浅拷贝",
       "path": "面试/手写代码系列/常见手写题/手写浅拷贝.md"
-    },
-    {
-      "basename": "判断类型",
-      "path": "面试/JavaScript/判断类型.md"
-    },
-    {
-      "basename": "plugin vs loader",
-      "path": "面试/webpack/plugin vs loader.md"
-    },
-    {
-      "basename": "tree shraking",
-      "path": "面试/webpack/tree shraking.md"
-    },
-    {
-      "basename": "缓存位置",
-      "path": "面试/http/缓存位置.md"
-    },
-    {
-      "basename": "经典题目",
-      "path": "面试/http/经典题目.md"
-    },
-    {
-      "basename": "跨域",
-      "path": "面试/http/跨域.md"
-    },
-    {
-      "basename": "浏览器存储",
-      "path": "面试/http/浏览器存储.md"
-    },
-    {
-      "basename": "浏览器的工作原理",
-      "path": "面试/http/浏览器的工作原理.md"
-    },
-    {
-      "basename": "浏览器的渲染原理",
-      "path": "面试/http/浏览器的渲染原理.md"
     }
   ],
   "omittedPaths": [],

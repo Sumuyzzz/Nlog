@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/http/浏览器输入.md",
-            "mode": "preview",
+            "file": "https/http请求方法.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "event",
+                "query": "patch",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,15 +92,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "面试/http/浏览器输入.md",
-    "面试/http/如何预防.md",
-    "面试/http/三次握手，四次挥手.md",
-    "面试/http/页面的生命周期.excalidraw.md",
-    "面试/http/http状态码.md",
-    "面试/http/https-加密方式.md",
-    "面试/http/https header.md",
-    "发布/项目开发/vue云笔记/云笔记之封装axios.md",
-    "发布/项目开发/vue云笔记/挂标语.md",
-    "面试/手写代码系列/算法押题/数组/两数之和.md"
+    "https/http请求方法.md",
+    "面试/ajax/未命名.md",
+    "面试/http/缓存位置.md",
+    "面试/http/经典题目.md",
+    "面试/http/跨域.md",
+    "面试/http/浏览器存储.md",
+    "面试/http/浏览器的工作原理.md",
+    "面试/http/浏览器的渲染原理.md",
+    "面试/http/浏览器缓存.md",
+    "面试/http/浏览器输入.md"
   ]
 }

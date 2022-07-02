@@ -27,7 +27,7 @@ fetch('https://jsonplaceholder.typicode.com/todos',{
 
 
 
-### 三、put
+### 三、PUT
 ```js
 fetch('https://jsonplaceholder.typicode.com/todos/5',{
     method:'PUT',
@@ -46,7 +46,7 @@ fetch('https://jsonplaceholder.typicode.com/todos/5',{
 ![](https://s2.loli.net/2022/06/29/Qk3vLYiFOPUmnxz.png)
 
 
-### 四、patch
+### 四、PATCH
 PATCH 方法用于更新资源属性的值。
 ```js
 fetch('https://jsonplaceholder.typicode.com/todos/1',{
@@ -66,13 +66,11 @@ fetch('https://jsonplaceholder.typicode.com/todos/1',{
 ![[Pasted image 20220629193001.png]]
 
 
-### 五、delete
+### 五、DELETE
 DELETE 方法用于删除由其 URI 指定的资源。
 
 
 ```js
-
-
 fetch('https://jsonplaceholder.typicode.com/todos/1',{
     method:'DELETE'
 })
@@ -84,9 +82,24 @@ fetch('https://jsonplaceholder.typicode.com/todos/1',{
 
 
 
+
+[
+
+### POST,PUT和PATCH的区别
+
+`HTTP`请求方法 `POST` 通常用于**资源创建**，而 `PUT` 用于**资源更新**。
+虽然这在大多数情况下都很好，但使用 `PUT` 来创建资源也是可行的。
+`PATCH` 是资源更新的替代方案，因为它允许**部分更新**。
+
+
+
+
+
+
+
+
+
 ### 总结
-
-
 1.  用于**创建新数据发送服务器** =>POST
 2.  用于**读取数据**=>GET
 3.  如果数据存在则更新，否则创建数据=>PUT
@@ -95,5 +108,8 @@ fetch('https://jsonplaceholder.typicode.com/todos/1',{
 
 
 
+### 参考
+[# REST / HTTP methods: POST vs. PUT vs. PATCH](https://www.mscharhag.com/api-design/http-post-put-patch)
 [[post和get]]
 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+[# [What is the difference between PUT, POST and PATCH?](https://stackoverflow.com/questions/31089221/what-is-the-difference-between-put-post-and-patch)](https://stackoverflow.com/questions/31089221/what-is-the-difference-between-put-post-and-patch)
