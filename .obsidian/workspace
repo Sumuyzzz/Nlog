@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/项目开发/vue云笔记/接口文档.md",
-            "mode": "preview",
+            "file": "面试/git/git rebase 和 git merge 的区别.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 154.01219177246094
+    "width": 460.01219177246094
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发布/项目开发/vue云笔记/接口文档.md",
+                "file": "面试/git/git rebase 和 git merge 的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/项目开发/vue云笔记/接口文档.md",
+                "file": "面试/git/git rebase 和 git merge 的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "面试/git/git rebase 和 git merge 的区别.md",
+    "面试/手写代码系列/算法押题/数组/字符串相加.md",
+    "算法与数据结构/数据结构.md",
     "发布/项目开发/vue云笔记/接口文档.md",
     "发布/String.prototype.split()的坑.md",
     "发布/pointevents.md",
     "发布/项目开发/vue云笔记/挂标语.md",
     "发布/项目开发/vue云笔记/云笔记之封装axios.md",
     "面试/手写代码系列/算法押题/数组/回文数.md",
-    "JavaScript/常用api/String.md",
-    "JavaScript/常用api/Math.md",
-    "面试/JavaScript/类型转换.md",
-    "面试/http/websocket.md"
+    "JavaScript/常用api/String.md"
   ]
 }
