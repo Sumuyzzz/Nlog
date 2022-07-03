@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "接口文档",
+      "path": "发布/项目开发/vue云笔记/接口文档.md"
+    },
+    {
+      "basename": "pointevents",
+      "path": "发布/pointevents.md"
+    },
+    {
+      "basename": "云笔记之封装axios",
+      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
+    },
+    {
+      "basename": "回文数",
+      "path": "面试/手写代码系列/算法押题/数组/回文数.md"
+    },
+    {
+      "basename": "String",
+      "path": "JavaScript/常用api/String.md"
+    },
+    {
+      "basename": "Math",
+      "path": "JavaScript/常用api/Math.md"
+    },
+    {
+      "basename": "类型转换",
+      "path": "面试/JavaScript/类型转换.md"
+    },
+    {
+      "basename": "websocket",
+      "path": "面试/http/websocket.md"
+    },
+    {
       "basename": "http请求方法",
       "path": "https/http请求方法.md"
     },
@@ -63,14 +95,6 @@
     {
       "basename": "https header",
       "path": "面试/http/https header.md"
-    },
-    {
-      "basename": "云笔记之封装axios",
-      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
-    },
-    {
-      "basename": "挂标语",
-      "path": "发布/项目开发/vue云笔记/挂标语.md"
     },
     {
       "basename": "两数之和",
@@ -171,34 +195,6 @@
     {
       "basename": "未命名",
       "path": "面试/vue/未命名.md"
-    },
-    {
-      "basename": "watch和computed的区别",
-      "path": "面试/vue/watch和computed的区别.md"
-    },
-    {
-      "basename": "Proxy 与 Object.defineProperty 优劣对比",
-      "path": "面试/vue/Proxy 与 Object.defineProperty 优劣对比.md"
-    },
-    {
-      "basename": "0.1+0.2 ! == 0.3",
-      "path": "面试/JavaScript/0.1+0.2 ! == 0.3.md"
-    },
-    {
-      "basename": "==操作符",
-      "path": "面试/JavaScript/==操作符.md"
-    },
-    {
-      "basename": "[1,2,3].map(parseInt)",
-      "path": "面试/JavaScript/[1,2,3].map(parseInt).md"
-    },
-    {
-      "basename": "手写深度比较",
-      "path": "面试/手写代码系列/常见手写题/手写深度比较.md"
-    },
-    {
-      "basename": "手写浅拷贝",
-      "path": "面试/手写代码系列/常见手写题/手写浅拷贝.md"
     }
   ],
   "omittedPaths": [],
