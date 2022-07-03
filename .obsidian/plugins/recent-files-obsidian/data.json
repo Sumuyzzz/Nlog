@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "关于新建笔记状态码500的问题",
+      "path": "发布/项目开发/vue云笔记/关于新建笔记状态码500的问题.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "发布/项目开发/vue云笔记/未命名 1.md"
+    },
+    {
+      "basename": "deploy失效问题",
+      "path": "发布/项目开发/vue云笔记/deploy失效问题.md"
+    },
+    {
+      "basename": "云笔记之封装axios",
+      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
+    },
+    {
+      "basename": "手写Eventbus",
+      "path": "发布/项目开发/vue云笔记/手写Eventbus.md"
+    },
+    {
+      "basename": "接口文档",
+      "path": "发布/项目开发/vue云笔记/接口文档.md"
+    },
+    {
+      "basename": "关于ts无法直接导出type的问题",
+      "path": "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md"
+    },
+    {
+      "basename": "数据可视化项目",
+      "path": "发布/项目开发/数据可视化项目.md"
+    },
+    {
+      "basename": "vue $ref不生效问题",
+      "path": "发布/项目开发/vue云笔记/vue $ref不生效问题.md"
+    },
+    {
       "basename": "git rebase 和 git merge 的区别",
       "path": "面试/git/git rebase 和 git merge 的区别.md"
     },
@@ -13,16 +49,8 @@
       "path": "算法与数据结构/数据结构.md"
     },
     {
-      "basename": "接口文档",
-      "path": "发布/项目开发/vue云笔记/接口文档.md"
-    },
-    {
       "basename": "pointevents",
       "path": "发布/pointevents.md"
-    },
-    {
-      "basename": "云笔记之封装axios",
-      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
     },
     {
       "basename": "回文数",
@@ -171,34 +199,6 @@
     {
       "basename": "组件的本质",
       "path": "笔记/渲染器/组件的本质.md"
-    },
-    {
-      "basename": "vue生命周期",
-      "path": "发布/vue生命周期.md"
-    },
-    {
-      "basename": "生命周期",
-      "path": "面试/vue/生命周期.md"
-    },
-    {
-      "basename": "Props vs State",
-      "path": "发布/Props vs State.md"
-    },
-    {
-      "basename": "selectionSort",
-      "path": "面试/手写代码系列/排序算法/img/selectionSort.gif"
-    },
-    {
-      "basename": "insertionSort",
-      "path": "面试/手写代码系列/排序算法/img/insertionSort.gif"
-    },
-    {
-      "basename": "quickSort",
-      "path": "面试/手写代码系列/排序算法/img/quickSort.gif"
-    },
-    {
-      "basename": "Lit",
-      "path": "发布/Lit.md"
     }
   ],
   "omittedPaths": [],
