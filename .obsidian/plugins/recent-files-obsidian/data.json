@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "vue3开发印象云笔记",
+      "path": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md"
+    },
+    {
+      "basename": "防抖与节流",
+      "path": "发布/防抖与节流.md"
+    },
+    {
+      "basename": "关于npm发布",
+      "path": "发布/关于npm发布.md"
+    },
+    {
+      "basename": "vue响应式原理",
+      "path": "发布/vue响应式原理.md"
+    },
+    {
+      "basename": "vue生命周期",
+      "path": "发布/vue生命周期.md"
+    },
+    {
+      "basename": "this全解",
+      "path": "发布/this全解.md"
+    },
+    {
+      "basename": "Props vs State",
+      "path": "发布/Props vs State.md"
+    },
+    {
+      "basename": "pointevents",
+      "path": "发布/pointevents.md"
+    },
+    {
+      "basename": "Lit",
+      "path": "发布/Lit.md"
+    },
+    {
+      "basename": "如何居中布局",
+      "path": "发布/如何居中布局.md"
+    },
+    {
+      "basename": "使用截图工具+图床+github实现截图自由",
+      "path": "发布/使用截图工具+图床+github实现截图自由.md"
+    },
+    {
+      "basename": "虚拟 DOM 和 DOM diff",
+      "path": "发布/虚拟 DOM 和 DOM diff.md"
+    },
+    {
       "basename": "移动零",
       "path": "面试/手写代码系列/算法押题/数组/移动零.md"
     },
@@ -17,20 +65,12 @@
       "path": "JavaScript/常用api/Array.md"
     },
     {
-      "basename": "vue3开发印象云笔记",
-      "path": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md"
-    },
-    {
       "basename": "deploy失效问题",
       "path": "发布/项目开发/vue云笔记/deploy失效问题.md"
     },
     {
       "basename": "vue $ref不生效问题",
       "path": "发布/项目开发/vue云笔记/vue $ref不生效问题.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "发布/未命名.md"
     },
     {
       "basename": "跨域",
@@ -61,24 +101,8 @@
       "path": "vue全家桶/vue/未命名.md"
     },
     {
-      "basename": "this全解",
-      "path": "发布/this全解.md"
-    },
-    {
-      "basename": "Props vs State",
-      "path": "发布/Props vs State.md"
-    },
-    {
-      "basename": "vue生命周期",
-      "path": "发布/vue生命周期.md"
-    },
-    {
       "basename": "什么是MVC",
       "path": "发布/什么是MVC.md"
-    },
-    {
-      "basename": "虚拟 DOM 和 DOM diff",
-      "path": "发布/虚拟 DOM 和 DOM diff.md"
     },
     {
       "basename": "关于新建笔记无法添加新属性的问题",
@@ -95,10 +119,6 @@
     {
       "basename": "ref语法糖",
       "path": "vue全家桶/vue3/ref语法糖.md"
-    },
-    {
-      "basename": "Lit",
-      "path": "发布/Lit.md"
     },
     {
       "basename": "未命名 1",
@@ -131,10 +151,6 @@
     {
       "basename": "数据结构",
       "path": "算法与数据结构/数据结构.md"
-    },
-    {
-      "basename": "pointevents",
-      "path": "发布/pointevents.md"
     },
     {
       "basename": "回文数",
@@ -183,22 +199,6 @@
     {
       "basename": "浏览器的渲染原理",
       "path": "面试/http/浏览器的渲染原理.md"
-    },
-    {
-      "basename": "浏览器缓存",
-      "path": "面试/http/浏览器缓存.md"
-    },
-    {
-      "basename": "浏览器输入",
-      "path": "面试/http/浏览器输入.md"
-    },
-    {
-      "basename": "如何预防",
-      "path": "面试/http/如何预防.md"
-    },
-    {
-      "basename": "三次握手，四次挥手",
-      "path": "面试/http/三次握手，四次挥手.md"
     }
   ],
   "omittedPaths": [],

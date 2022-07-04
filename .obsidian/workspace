@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/算法押题/数组/移动零.md",
-            "mode": "source",
+            "file": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
+            "mode": "preview",
             "backlinks": true,
-            "source": true
+            "source": false
           }
         }
       }
@@ -91,15 +91,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "面试/手写代码系列/算法押题/数组/移动零.md",
-    "发布/javaScript/回调函数.md",
-    "发布/javaScript/yield艹 vs yield.md",
-    "发布/javaScript/数组原生方法.md",
-    "JavaScript/常用api/Array.md",
     "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
-    "发布/项目开发/vue云笔记/deploy失效问题.md",
-    "发布/项目开发/vue云笔记/vue $ref不生效问题.md",
-    "发布/未命名.md",
-    "https/跨域.md"
+    "发布/防抖与节流.md",
+    "发布/关于npm发布.md",
+    "发布/vue响应式原理.md",
+    "发布/vue生命周期.md",
+    "发布/this全解.md",
+    "发布/Props vs State.md",
+    "发布/pointevents.md",
+    "发布/Lit.md",
+    "发布/gist.md"
   ]
 }
