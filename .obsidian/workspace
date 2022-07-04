@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
-            "mode": "source",
+            "file": "发布/javaScript/回调函数.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 543.0121917724609
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -83,46 +82,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "0cb78a9a0c26f504",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "8fe0a9fd06c96860",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bbc8bac5833ebfdd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,15 +91,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/javaScript/回调函数.md",
+    "发布/javaScript/yield艹 vs yield.md",
+    "发布/javaScript/数组原生方法.md",
+    "JavaScript/常用api/Array.md",
+    "面试/手写代码系列/算法押题/数组/移动零.md",
     "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
     "发布/项目开发/vue云笔记/deploy失效问题.md",
     "发布/项目开发/vue云笔记/vue $ref不生效问题.md",
     "发布/未命名.md",
-    "https/跨域.md",
-    "https/curl.md",
-    "https/HTTP headers.md",
-    "https/http请求方法.md",
-    "发布/项目开发/vue云笔记/云笔记之封装axios.md",
-    "vue全家桶/vue/响应式.md"
+    "https/跨域.md"
   ]
 }

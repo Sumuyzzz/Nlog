@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "回调函数",
+      "path": "发布/javaScript/回调函数.md"
+    },
+    {
+      "basename": "yield艹 vs yield",
+      "path": "发布/javaScript/yield艹 vs yield.md"
+    },
+    {
+      "basename": "Array",
+      "path": "JavaScript/常用api/Array.md"
+    },
+    {
+      "basename": "移动零",
+      "path": "面试/手写代码系列/算法押题/数组/移动零.md"
+    },
+    {
       "basename": "vue3开发印象云笔记",
       "path": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "三次握手，四次挥手",
       "path": "面试/http/三次握手，四次挥手.md"
-    },
-    {
-      "basename": "页面的生命周期.excalidraw",
-      "path": "面试/http/页面的生命周期.excalidraw.md"
-    },
-    {
-      "basename": "http状态码",
-      "path": "面试/http/http状态码.md"
-    },
-    {
-      "basename": "https-加密方式",
-      "path": "面试/http/https-加密方式.md"
-    },
-    {
-      "basename": "https header",
-      "path": "面试/http/https header.md"
     }
   ],
   "omittedPaths": [],
