@@ -29,6 +29,10 @@ new Vue（）到create之间，叫做初始化阶段。
 
 
 
+### 额外钩子
+
+#### onRenderTracked
+
 
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/项目开发/vue云笔记/关于新建笔记状态码500的问题.md",
+            "file": "发布/vue生命周期.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发布/项目开发/vue云笔记/关于新建笔记状态码500的问题.md",
+                "file": "发布/vue生命周期.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/项目开发/vue云笔记/关于新建笔记状态码500的问题.md",
+                "file": "发布/vue生命周期.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +129,7 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/vue生命周期.md",
     "发布/项目开发/vue云笔记/关于新建笔记状态码500的问题.md",
     "发布/项目开发/vue云笔记/未命名 1.md",
     "发布/项目开发/vue云笔记/deploy失效问题.md",
@@ -137,7 +138,6 @@
     "发布/项目开发/vue云笔记/接口文档.md",
     "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md",
     "发布/项目开发/数据可视化项目.md",
-    "发布/项目开发/vue云笔记/vue $ref不生效问题.md",
-    "发布/项目开发/vue云笔记/Avatar展示用户信息.md"
+    "发布/项目开发/vue云笔记/vue $ref不生效问题.md"
   ]
 }

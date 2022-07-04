@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vue生命周期",
+      "path": "发布/vue生命周期.md"
+    },
+    {
       "basename": "关于新建笔记状态码500的问题",
       "path": "发布/项目开发/vue云笔记/关于新建笔记状态码500的问题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "大O表示法",
       "path": "笔记/算法图解/大O表示法.md"
-    },
-    {
-      "basename": "组件的本质",
-      "path": "笔记/渲染器/组件的本质.md"
     }
   ],
   "omittedPaths": [],
