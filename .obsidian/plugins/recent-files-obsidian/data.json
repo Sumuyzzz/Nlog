@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "关于新建笔记无法添加新属性的问题",
+      "path": "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md"
+    },
+    {
+      "basename": "修复动态路由",
+      "path": "发布/项目开发/vue云笔记/修复动态路由.md"
+    },
+    {
       "basename": "响应式基础 ref vs reactive",
       "path": "vue全家桶/vue3/响应式基础 ref vs reactive.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Lit",
       "path": "发布/Lit.md"
-    },
-    {
-      "basename": "关于新建笔记状态码500的问题",
-      "path": "发布/项目开发/vue云笔记/关于新建笔记状态码500的问题.md"
     },
     {
       "basename": "未命名 1",
@@ -195,10 +199,6 @@
     {
       "basename": "面试题",
       "path": "面试/vue/面试题.md"
-    },
-    {
-      "basename": "组件通信",
-      "path": "面试/vue/组件通信.md"
     }
   ],
   "omittedPaths": [],
