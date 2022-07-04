@@ -60,7 +60,7 @@ HTTP（hypertext transprot protocol）超文本传输协议，协议规定了浏
 
 主要分为： 
 
-* 行 ：有POST和GET
+* 行 ：有[[POST和GET]]
 * 头 ：
 * 空行 
 * 体（当请求行为GET时，为空）

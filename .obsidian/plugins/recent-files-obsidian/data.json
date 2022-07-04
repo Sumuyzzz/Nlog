@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "HTTP",
+      "path": "面试/http/HTTP.md"
+    },
+    {
+      "basename": "POST常见四种提交方式",
+      "path": "面试/http/POST常见四种提交方式.md"
+    },
+    {
+      "basename": "post和get",
+      "path": "面试/http/post和get.md"
+    },
+    {
+      "basename": "HTTP headers",
+      "path": "https/HTTP headers.md"
+    },
+    {
+      "basename": "http请求方法",
+      "path": "https/http请求方法.md"
+    },
+    {
+      "basename": "Props vs State",
+      "path": "发布/Props vs State.md"
+    },
+    {
       "basename": "vue3开发印象云笔记",
       "path": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md"
     },
@@ -23,10 +47,6 @@
     {
       "basename": "this全解",
       "path": "发布/this全解.md"
-    },
-    {
-      "basename": "Props vs State",
-      "path": "发布/Props vs State.md"
     },
     {
       "basename": "pointevents",
@@ -79,14 +99,6 @@
     {
       "basename": "curl",
       "path": "https/curl.md"
-    },
-    {
-      "basename": "HTTP headers",
-      "path": "https/HTTP headers.md"
-    },
-    {
-      "basename": "http请求方法",
-      "path": "https/http请求方法.md"
     },
     {
       "basename": "云笔记之封装axios",
@@ -187,18 +199,6 @@
     {
       "basename": "跨域",
       "path": "面试/http/跨域.md"
-    },
-    {
-      "basename": "浏览器存储",
-      "path": "面试/http/浏览器存储.md"
-    },
-    {
-      "basename": "浏览器的工作原理",
-      "path": "面试/http/浏览器的工作原理.md"
-    },
-    {
-      "basename": "浏览器的渲染原理",
-      "path": "面试/http/浏览器的渲染原理.md"
     }
   ],
   "omittedPaths": [],
