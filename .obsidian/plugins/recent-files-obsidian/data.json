@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "移动零",
+      "path": "面试/手写代码系列/算法押题/数组/移动零.md"
+    },
+    {
       "basename": "回调函数",
       "path": "发布/javaScript/回调函数.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Array",
       "path": "JavaScript/常用api/Array.md"
-    },
-    {
-      "basename": "移动零",
-      "path": "面试/手写代码系列/算法押题/数组/移动零.md"
     },
     {
       "basename": "vue3开发印象云笔记",
