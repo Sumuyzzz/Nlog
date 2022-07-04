@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "https/跨域.md",
+            "file": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.01219177246094
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "https/跨域.md",
+                "file": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "https/跨域.md",
+                "file": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +130,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
+    "发布/项目开发/vue云笔记/deploy失效问题.md",
+    "发布/项目开发/vue云笔记/vue $ref不生效问题.md",
+    "发布/未命名.md",
     "https/跨域.md",
     "https/curl.md",
     "https/HTTP headers.md",
     "https/http请求方法.md",
     "发布/项目开发/vue云笔记/云笔记之封装axios.md",
-    "vue全家桶/vue/响应式.md",
-    "vue全家桶/vue/未命名.md",
-    "发布/this全解.md",
-    "发布/Props vs State.md",
-    "发布/vue生命周期.md"
+    "vue全家桶/vue/响应式.md"
   ]
 }

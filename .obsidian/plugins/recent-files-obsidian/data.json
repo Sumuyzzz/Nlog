@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "vue3开发印象云笔记",
+      "path": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md"
+    },
+    {
+      "basename": "deploy失效问题",
+      "path": "发布/项目开发/vue云笔记/deploy失效问题.md"
+    },
+    {
+      "basename": "vue $ref不生效问题",
+      "path": "发布/项目开发/vue云笔记/vue $ref不生效问题.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "发布/未命名.md"
+    },
+    {
       "basename": "跨域",
       "path": "https/跨域.md"
     },
@@ -73,10 +89,6 @@
       "path": "发布/项目开发/vue云笔记/未命名 1.md"
     },
     {
-      "basename": "deploy失效问题",
-      "path": "发布/项目开发/vue云笔记/deploy失效问题.md"
-    },
-    {
       "basename": "手写Eventbus",
       "path": "发布/项目开发/vue云笔记/手写Eventbus.md"
     },
@@ -91,10 +103,6 @@
     {
       "basename": "数据可视化项目",
       "path": "发布/项目开发/数据可视化项目.md"
-    },
-    {
-      "basename": "vue $ref不生效问题",
-      "path": "发布/项目开发/vue云笔记/vue $ref不生效问题.md"
     },
     {
       "basename": "git rebase 和 git merge 的区别",
@@ -191,14 +199,6 @@
     {
       "basename": "https header",
       "path": "面试/http/https header.md"
-    },
-    {
-      "basename": "两数之和",
-      "path": "面试/手写代码系列/算法押题/数组/两数之和.md"
-    },
-    {
-      "basename": "数组",
-      "path": "算法与数据结构/数组.md"
     }
   ],
   "omittedPaths": [],
