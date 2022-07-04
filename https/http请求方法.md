@@ -1,5 +1,5 @@
 ### 一、GET
-用于读取接口信息
+用于向服务器查询信息，将参数放入URL末尾，发送给服务器
 ```js
 fetch('https://jsonplaceholder.typicode.com/todos/')
 .then(response=>response.json())
@@ -8,8 +8,8 @@ fetch('https://jsonplaceholder.typicode.com/todos/')
 ![](https://s2.loli.net/2022/06/29/wVhl7xf8COSaJuZ.png)
 
 
-### 二、PST
-Post 用于将数据发送到服务器，例如上传文件或传输一些数据或将新行添加到后端表到任何类型的 Web 表单。
+### 二、POST
+Post 用于将数据发送到服务器，将数据包含在请求体中，例如表单提交或者上传文件。
 ```js
 fetch('https://jsonplaceholder.typicode.com/todos',{
     method:'POST',

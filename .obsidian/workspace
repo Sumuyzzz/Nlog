@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md",
+            "file": "https/跨域.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "patch",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md",
+                "file": "https/跨域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md",
+                "file": "https/跨域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md",
-    "发布/项目开发/vue云笔记/修复动态路由.md",
-    "vue全家桶/vue3/响应式基础 ref vs reactive.md",
-    "vue全家桶/vue3/ref语法糖.md",
-    "发布/vue生命周期.md",
-    "发布/Lit.md",
-    "发布/项目开发/vue云笔记/未命名 1.md",
-    "发布/项目开发/vue云笔记/deploy失效问题.md",
+    "https/跨域.md",
+    "https/curl.md",
+    "https/HTTP headers.md",
+    "https/http请求方法.md",
     "发布/项目开发/vue云笔记/云笔记之封装axios.md",
-    "发布/项目开发/vue云笔记/手写Eventbus.md"
+    "vue全家桶/vue/响应式.md",
+    "vue全家桶/vue/未命名.md",
+    "发布/this全解.md",
+    "发布/Props vs State.md",
+    "发布/vue生命周期.md"
   ]
 }
