@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
+            "file": "发布/项目开发/vue云笔记/路由优化.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 124.01219177246094,
-    "collapsed": true
+    "width": 224.01219177246094
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -83,6 +82,43 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "5b7b8b74f8490d24",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ded0de490e8d246d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "发布/项目开发/vue云笔记/路由优化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7193508702860d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "发布/项目开发/vue云笔记/路由优化.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -92,6 +128,8 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/项目开发/vue云笔记/路由优化.md",
+    "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md",
     "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
     "面试/http/HTTP.md",
     "面试/http/POST常见四种提交方式.md",
@@ -99,8 +137,6 @@
     "https/HTTP headers.md",
     "https/http请求方法.md",
     "发布/Props vs State.md",
-    "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
-    "发布/防抖与节流.md",
-    "发布/关于npm发布.md"
+    "发布/项目开发/vue云笔记/vue3开发印象云笔记.md"
   ]
 }
