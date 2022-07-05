@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "nerver && unknown",
+      "path": "面试/tytpeScript/nerver && unknown.md"
+    },
+    {
+      "basename": "Axios Response in TypeScript",
+      "path": "发布/项目开发/vue云笔记/Axios Response in TypeScript.md"
+    },
+    {
+      "basename": "详情页结构和样式",
+      "path": "发布/项目开发/vue云笔记/详情页结构和样式.md"
+    },
+    {
       "basename": "路由优化",
       "path": "发布/项目开发/vue云笔记/路由优化.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "类型转换",
       "path": "面试/JavaScript/类型转换.md"
-    },
-    {
-      "basename": "websocket",
-      "path": "面试/http/websocket.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "面试/ajax/未命名.md"
-    },
-    {
-      "basename": "缓存位置",
-      "path": "面试/http/缓存位置.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/项目开发/vue云笔记/路由优化.md",
+            "file": "面试/tytpeScript/nerver && unknown.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unknown",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发布/项目开发/vue云笔记/路由优化.md",
+                "file": "面试/tytpeScript/nerver && unknown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/项目开发/vue云笔记/路由优化.md",
+                "file": "面试/tytpeScript/nerver && unknown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +129,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "面试/tytpeScript/nerver && unknown.md",
+    "发布/项目开发/vue云笔记/Axios Response in TypeScript.md",
+    "发布/项目开发/vue云笔记/详情页结构和样式.md",
     "发布/项目开发/vue云笔记/路由优化.md",
     "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md",
     "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
     "面试/http/HTTP.md",
     "面试/http/POST常见四种提交方式.md",
     "面试/http/post和get.md",
-    "https/HTTP headers.md",
-    "https/http请求方法.md",
-    "发布/Props vs State.md",
-    "发布/项目开发/vue云笔记/vue3开发印象云笔记.md"
+    "https/HTTP headers.md"
   ]
 }
