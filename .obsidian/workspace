@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/http/HTTP.md",
+            "file": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 124.01219177246094,
+    "collapsed": true
   },
   "right": {
     "id": "9cf0cee3dc189f37",
@@ -91,6 +92,7 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
     "面试/http/HTTP.md",
     "面试/http/POST常见四种提交方式.md",
     "面试/http/post和get.md",
@@ -99,7 +101,6 @@
     "发布/Props vs State.md",
     "发布/项目开发/vue云笔记/vue3开发印象云笔记.md",
     "发布/防抖与节流.md",
-    "发布/关于npm发布.md",
-    "发布/vue响应式原理.md"
+    "发布/关于npm发布.md"
   ]
 }
