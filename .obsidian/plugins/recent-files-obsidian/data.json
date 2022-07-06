@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "云笔记之封装axios",
+      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
+    },
+    {
+      "basename": "watch",
+      "path": "vue全家桶/vue3/vue-challenges/watch.md"
+    },
+    {
       "basename": "二分查找法",
       "path": "面试/手写代码系列/算法押题/数组/二分查找法.md"
     },
@@ -153,10 +161,6 @@
       "path": "https/curl.md"
     },
     {
-      "basename": "云笔记之封装axios",
-      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
-    },
-    {
       "basename": "响应式",
       "path": "vue全家桶/vue/响应式.md"
     },
@@ -181,10 +185,6 @@
       "path": "vue全家桶/vue3/ref语法糖.md"
     },
     {
-      "basename": "未命名 1",
-      "path": "发布/项目开发/vue云笔记/未命名 1.md"
-    },
-    {
       "basename": "手写Eventbus",
       "path": "发布/项目开发/vue云笔记/手写Eventbus.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "关于ts无法直接导出type的问题",
       "path": "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md"
-    },
-    {
-      "basename": "数据可视化项目",
-      "path": "发布/项目开发/数据可视化项目.md"
     }
   ],
   "omittedPaths": [],

@@ -73,3 +73,5 @@ export default function request(url: string, type = 'GET', data = {}) {
 
 
 
+由于 axios封装函数在  scripte setup 语法糖中执行是同步的，所以现在打算使用async来重新封装axios。
+

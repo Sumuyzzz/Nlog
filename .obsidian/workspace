@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/手写代码系列/算法押题/数组/二分查找法.md",
+            "file": "发布/项目开发/vue云笔记/云笔记之封装axios.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/手写代码系列/算法押题/数组/二分查找法.md",
+                "file": "发布/项目开发/vue云笔记/云笔记之封装axios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/手写代码系列/算法押题/数组/二分查找法.md",
+                "file": "发布/项目开发/vue云笔记/云笔记之封装axios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +128,8 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/项目开发/vue云笔记/云笔记之封装axios.md",
+    "vue全家桶/vue3/vue-challenges/watch.md",
     "面试/手写代码系列/算法押题/数组/二分查找法.md",
     "面试/手写代码系列/算法押题/数组/买卖股票最佳时机.md",
     "算法与数据结构/数组.md",
@@ -135,8 +137,6 @@
     "vue全家桶/vue3/vue-challenges/动态CSS.md",
     "vue全家桶/vue3/vue-challenges/指令.md",
     "vue全家桶/vue3/vue-challenges/Teleport·传送门.md",
-    "面试/tytpeScript/nerver && unknown.md",
-    "发布/项目开发/vue云笔记/Axios Response in TypeScript.md",
-    "发布/项目开发/vue云笔记/详情页结构和样式.md"
+    "面试/tytpeScript/nerver && unknown.md"
   ]
 }
