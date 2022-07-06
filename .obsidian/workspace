@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/tytpeScript/nerver && unknown.md",
+            "file": "vue全家桶/vue3/指令.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/tytpeScript/nerver && unknown.md",
+                "file": "vue全家桶/vue3/指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/tytpeScript/nerver && unknown.md",
+                "file": "vue全家桶/vue3/指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +128,8 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "vue全家桶/vue3/指令.md",
+    "vue全家桶/vue3/Teleport·传送门.md",
     "面试/tytpeScript/nerver && unknown.md",
     "发布/项目开发/vue云笔记/Axios Response in TypeScript.md",
     "发布/项目开发/vue云笔记/详情页结构和样式.md",
@@ -136,8 +137,6 @@
     "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md",
     "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
     "面试/http/HTTP.md",
-    "面试/http/POST常见四种提交方式.md",
-    "面试/http/post和get.md",
-    "https/HTTP headers.md"
+    "面试/http/POST常见四种提交方式.md"
   ]
 }

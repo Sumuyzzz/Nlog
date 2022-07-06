@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "指令",
+      "path": "vue全家桶/vue3/指令.md"
+    },
+    {
+      "basename": "Teleport·传送门",
+      "path": "vue全家桶/vue3/Teleport·传送门.md"
+    },
+    {
       "basename": "nerver && unknown",
       "path": "面试/tytpeScript/nerver && unknown.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "String",
       "path": "JavaScript/常用api/String.md"
-    },
-    {
-      "basename": "Math",
-      "path": "JavaScript/常用api/Math.md"
-    },
-    {
-      "basename": "类型转换",
-      "path": "面试/JavaScript/类型转换.md"
     }
   ],
   "omittedPaths": [],
