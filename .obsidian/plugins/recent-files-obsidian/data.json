@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "二分查找法",
+      "path": "面试/手写代码系列/算法押题/数组/二分查找法.md"
+    },
+    {
+      "basename": "买卖股票最佳时机",
+      "path": "面试/手写代码系列/算法押题/数组/买卖股票最佳时机.md"
+    },
+    {
+      "basename": "数组",
+      "path": "算法与数据结构/数组.md"
+    },
+    {
       "basename": "响应性 API：工具函数",
       "path": "vue全家桶/vue3/vue-challenges/响应性 API：工具函数.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "数据可视化项目",
       "path": "发布/项目开发/数据可视化项目.md"
-    },
-    {
-      "basename": "git rebase 和 git merge 的区别",
-      "path": "面试/git/git rebase 和 git merge 的区别.md"
-    },
-    {
-      "basename": "字符串相加",
-      "path": "面试/手写代码系列/算法押题/数组/字符串相加.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "算法与数据结构/数据结构.md"
     }
   ],
   "omittedPaths": [],
