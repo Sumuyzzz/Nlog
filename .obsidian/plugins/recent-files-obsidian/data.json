@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "响应性 API：工具函数",
+      "path": "vue全家桶/vue3/vue-challenges/响应性 API：工具函数.md"
+    },
+    {
+      "basename": "动态CSS",
+      "path": "vue全家桶/vue3/vue-challenges/动态CSS.md"
+    },
+    {
       "basename": "指令",
-      "path": "vue全家桶/vue3/指令.md"
+      "path": "vue全家桶/vue3/vue-challenges/指令.md"
     },
     {
       "basename": "Teleport·传送门",
-      "path": "vue全家桶/vue3/Teleport·传送门.md"
+      "path": "vue全家桶/vue3/vue-challenges/Teleport·传送门.md"
     },
     {
       "basename": "nerver && unknown",
@@ -191,14 +199,6 @@
     {
       "basename": "数据结构",
       "path": "算法与数据结构/数据结构.md"
-    },
-    {
-      "basename": "回文数",
-      "path": "面试/手写代码系列/算法押题/数组/回文数.md"
-    },
-    {
-      "basename": "String",
-      "path": "JavaScript/常用api/String.md"
     }
   ],
   "omittedPaths": [],
