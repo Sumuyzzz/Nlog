@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "两数相加",
+      "path": "面试/手写代码系列/算法押题/链表/两数相加.md"
+    },
+    {
+      "basename": "反转链表",
+      "path": "面试/手写代码系列/算法押题/链表/反转链表.md"
+    },
+    {
+      "basename": "无重复字符最长子串",
+      "path": "面试/手写代码系列/算法押题/哈希表/无重复字符最长子串.md"
+    },
+    {
+      "basename": "陆游首位",
+      "path": "vue全家桶/vuerouter/陆游首位.md"
+    },
+    {
+      "basename": "组件通信",
+      "path": "面试/vue/组件通信.md"
+    },
+    {
+      "basename": "props和emit",
+      "path": "vue全家桶/vue/props和emit.md"
+    },
+    {
+      "basename": "生命周期",
+      "path": "面试/vue/生命周期.md"
+    },
+    {
+      "basename": "技术栈区别",
+      "path": "面试/技术栈区别.md"
+    },
+    {
       "basename": "http请求方法",
       "path": "https/http请求方法.md"
     },
@@ -167,34 +199,6 @@
     {
       "basename": "未命名",
       "path": "vue全家桶/vue/未命名.md"
-    },
-    {
-      "basename": "什么是MVC",
-      "path": "发布/什么是MVC.md"
-    },
-    {
-      "basename": "修复动态路由",
-      "path": "发布/项目开发/vue云笔记/修复动态路由.md"
-    },
-    {
-      "basename": "响应式基础 ref vs reactive",
-      "path": "vue全家桶/vue3/响应式基础 ref vs reactive.md"
-    },
-    {
-      "basename": "ref语法糖",
-      "path": "vue全家桶/vue3/ref语法糖.md"
-    },
-    {
-      "basename": "手写Eventbus",
-      "path": "发布/项目开发/vue云笔记/手写Eventbus.md"
-    },
-    {
-      "basename": "接口文档",
-      "path": "发布/项目开发/vue云笔记/接口文档.md"
-    },
-    {
-      "basename": "关于ts无法直接导出type的问题",
-      "path": "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md"
     }
   ],
   "omittedPaths": [],
