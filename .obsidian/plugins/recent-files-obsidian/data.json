@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "observable",
+      "path": "vue全家桶/vue/observable.md"
+    },
+    {
+      "basename": "ref vs reactive",
+      "path": "发布/ref vs reactive.md"
+    },
+    {
       "basename": "两数相加",
       "path": "面试/手写代码系列/算法押题/链表/两数相加.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "curl",
       "path": "https/curl.md"
-    },
-    {
-      "basename": "响应式",
-      "path": "vue全家桶/vue/响应式.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "vue全家桶/vue/未命名.md"
     }
   ],
   "omittedPaths": [],
