@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "http请求方法",
+      "path": "https/http请求方法.md"
+    },
+    {
       "basename": "云笔记之封装axios",
       "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "HTTP headers",
       "path": "https/HTTP headers.md"
-    },
-    {
-      "basename": "http请求方法",
-      "path": "https/http请求方法.md"
     },
     {
       "basename": "Props vs State",
