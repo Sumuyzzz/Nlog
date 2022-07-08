@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "rest API",
+      "path": "https/rest API.md"
+    },
+    {
       "basename": "关于登陆信息不同步问题",
       "path": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Teleport·传送门",
       "path": "vue全家桶/vue3/vue-challenges/Teleport·传送门.md"
-    },
-    {
-      "basename": "nerver && unknown",
-      "path": "面试/tytpeScript/nerver && unknown.md"
     }
   ],
   "omittedPaths": [],
