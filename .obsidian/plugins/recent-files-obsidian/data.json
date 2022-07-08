@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "浏览器缓存",
-      "path": "面试/http/浏览器缓存.md"
+      "basename": "关于登陆信息不同步问题",
+      "path": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md"
+    },
+    {
+      "basename": "关于新建笔记无法添加新属性的问题",
+      "path": "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md"
+    },
+    {
+      "basename": "手写Eventbus",
+      "path": "发布/项目开发/vue云笔记/手写Eventbus.md"
+    },
+    {
+      "basename": "修复动态路由",
+      "path": "发布/项目开发/vue云笔记/修复动态路由.md"
+    },
+    {
+      "basename": "云笔记之封装axios",
+      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
+    },
+    {
+      "basename": "Axios Response in TypeScript",
+      "path": "发布/项目开发/vue云笔记/Axios Response in TypeScript.md"
+    },
+    {
+      "basename": "关于ts无法直接导出type的问题",
+      "path": "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md"
+    },
+    {
+      "basename": "数据可视化项目",
+      "path": "发布/项目开发/数据可视化项目.md"
+    },
+    {
+      "basename": "element响应式菜单切换功能",
+      "path": "发布/项目开发/vue3造轮子/element响应式菜单切换功能.md"
+    },
+    {
+      "basename": "实现 switch",
+      "path": "发布/项目开发/vue3造轮子/实现 switch.md"
+    },
+    {
+      "basename": "实时监听屏幕宽高",
+      "path": "发布/项目开发/vue3造轮子/实时监听屏幕宽高.md"
     },
     {
       "basename": "浏览器的渲染原理",
       "path": "面试/http/浏览器的渲染原理.md"
+    },
+    {
+      "basename": "浏览器的工作原理",
+      "path": "面试/http/浏览器的工作原理.md"
+    },
+    {
+      "basename": "浏览器缓存",
+      "path": "面试/http/浏览器缓存.md"
+    },
+    {
+      "basename": "浏览器输入",
+      "path": "面试/http/浏览器输入.md"
+    },
+    {
+      "basename": "浏览器存储",
+      "path": "面试/http/浏览器存储.md"
+    },
+    {
+      "basename": "面向对象与原型",
+      "path": "笔记/忍者秘笈/面向对象与原型.md"
     },
     {
       "basename": "缓存位置",
@@ -105,10 +165,6 @@
       "path": "https/http请求方法.md"
     },
     {
-      "basename": "云笔记之封装axios",
-      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
-    },
-    {
       "basename": "watch",
       "path": "vue全家桶/vue3/vue-challenges/watch.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "nerver && unknown",
       "path": "面试/tytpeScript/nerver && unknown.md"
-    },
-    {
-      "basename": "Axios Response in TypeScript",
-      "path": "发布/项目开发/vue云笔记/Axios Response in TypeScript.md"
-    },
-    {
-      "basename": "详情页结构和样式",
-      "path": "发布/项目开发/vue云笔记/详情页结构和样式.md"
-    },
-    {
-      "basename": "路由优化",
-      "path": "发布/项目开发/vue云笔记/路由优化.md"
-    },
-    {
-      "basename": "关于新建笔记无法添加新属性的问题",
-      "path": "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md"
-    },
-    {
-      "basename": "关于登陆信息不同步问题",
-      "path": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md"
-    },
-    {
-      "basename": "HTTP",
-      "path": "面试/http/HTTP.md"
-    },
-    {
-      "basename": "POST常见四种提交方式",
-      "path": "面试/http/POST常见四种提交方式.md"
-    },
-    {
-      "basename": "HTTP headers",
-      "path": "https/HTTP headers.md"
-    },
-    {
-      "basename": "Props vs State",
-      "path": "发布/Props vs State.md"
-    },
-    {
-      "basename": "vue3开发印象云笔记",
-      "path": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md"
-    },
-    {
-      "basename": "防抖与节流",
-      "path": "发布/防抖与节流.md"
-    },
-    {
-      "basename": "关于npm发布",
-      "path": "发布/关于npm发布.md"
-    },
-    {
-      "basename": "vue响应式原理",
-      "path": "发布/vue响应式原理.md"
-    },
-    {
-      "basename": "this全解",
-      "path": "发布/this全解.md"
     }
   ],
   "omittedPaths": [],

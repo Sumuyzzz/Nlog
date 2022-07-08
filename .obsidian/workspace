@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试/http/浏览器缓存.md",
+            "file": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "缓存",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/http/浏览器缓存.md",
+                "file": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/http/浏览器缓存.md",
+                "file": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +128,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
-    "面试/http/浏览器缓存.md",
-    "面试/http/浏览器的渲染原理.md",
-    "面试/http/缓存位置.md",
-    "面试/手写代码系列/常见手写题/解析url参数.md",
-    "面试/手写代码系列/排序算法/冒泡排序.md",
-    "面试/手写代码系列/排序算法/快速排序.md",
-    "面试/手写代码系列/排序算法/介绍.md",
-    "面试/手写代码系列/排序算法/计数排序.md",
-    "面试/手写代码系列/排序算法/归并排序.md",
-    "面试/手写代码系列/排序算法/堆排序.md"
+    "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
+    "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md",
+    "发布/项目开发/vue云笔记/手写Eventbus.md",
+    "发布/项目开发/vue云笔记/修复动态路由.md",
+    "发布/项目开发/vue云笔记/云笔记之封装axios.md",
+    "发布/项目开发/vue云笔记/Axios Response in TypeScript.md",
+    "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md",
+    "发布/项目开发/数据可视化项目.md",
+    "发布/项目开发/vue3造轮子/element响应式菜单切换功能.md",
+    "发布/项目开发/vue3造轮子/实现 switch.md"
   ]
 }
