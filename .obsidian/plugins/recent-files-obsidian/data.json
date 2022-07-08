@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "生命周期",
+      "path": "面试/vue/生命周期.md"
+    },
+    {
+      "basename": "vue生命周期",
+      "path": "发布/vue生命周期.md"
+    },
+    {
+      "basename": "pointevents",
+      "path": "发布/pointevents.md"
+    },
+    {
+      "basename": "伤命周期",
+      "path": "vue全家桶/vue/伤命周期.md"
+    },
+    {
+      "basename": "post和get",
+      "path": "面试/http/post和get.md"
+    },
+    {
       "basename": "observable",
       "path": "vue全家桶/vue/observable.md"
     },
@@ -31,10 +51,6 @@
     {
       "basename": "props和emit",
       "path": "vue全家桶/vue/props和emit.md"
-    },
-    {
-      "basename": "生命周期",
-      "path": "面试/vue/生命周期.md"
     },
     {
       "basename": "技术栈区别",
@@ -113,10 +129,6 @@
       "path": "面试/http/POST常见四种提交方式.md"
     },
     {
-      "basename": "post和get",
-      "path": "面试/http/post和get.md"
-    },
-    {
       "basename": "HTTP headers",
       "path": "https/HTTP headers.md"
     },
@@ -141,16 +153,8 @@
       "path": "发布/vue响应式原理.md"
     },
     {
-      "basename": "vue生命周期",
-      "path": "发布/vue生命周期.md"
-    },
-    {
       "basename": "this全解",
       "path": "发布/this全解.md"
-    },
-    {
-      "basename": "pointevents",
-      "path": "发布/pointevents.md"
     },
     {
       "basename": "Lit",
@@ -195,10 +199,6 @@
     {
       "basename": "跨域",
       "path": "https/跨域.md"
-    },
-    {
-      "basename": "curl",
-      "path": "https/curl.md"
     }
   ],
   "omittedPaths": [],
