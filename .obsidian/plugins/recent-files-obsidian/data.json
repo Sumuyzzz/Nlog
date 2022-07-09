@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "fetch Headers",
+      "path": "https/fetch/fetch Headers.md"
+    },
+    {
+      "basename": "fetch Mode",
+      "path": "https/fetch/fetch Mode.md"
+    },
+    {
       "basename": "rest API",
       "path": "https/rest API.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "动态CSS",
       "path": "vue全家桶/vue3/vue-challenges/动态CSS.md"
-    },
-    {
-      "basename": "指令",
-      "path": "vue全家桶/vue3/vue-challenges/指令.md"
-    },
-    {
-      "basename": "Teleport·传送门",
-      "path": "vue全家桶/vue3/vue-challenges/Teleport·传送门.md"
     }
   ],
   "omittedPaths": [],
