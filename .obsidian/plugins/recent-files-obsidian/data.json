@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "component",
+      "path": "前端框架/通用/component.md"
+    },
+    {
+      "basename": "module",
+      "path": "前端框架/通用/module.md"
+    },
+    {
+      "basename": "slot",
+      "path": "前端框架/vue全家桶/vue/slot.md"
+    },
+    {
       "basename": "eventbus",
-      "path": "vue全家桶/vue/eventbus.md"
+      "path": "前端框架/vue全家桶/vue/eventbus.md"
     },
     {
       "basename": "手写event-emit（发布订阅）",
@@ -34,7 +46,7 @@
     },
     {
       "basename": "伤命周期",
-      "path": "vue全家桶/vue/伤命周期.md"
+      "path": "前端框架/vue全家桶/vue/伤命周期.md"
     },
     {
       "basename": "vue生命周期",
@@ -158,7 +170,7 @@
     },
     {
       "basename": "observable",
-      "path": "vue全家桶/vue/observable.md"
+      "path": "前端框架/vue全家桶/vue/observable.md"
     },
     {
       "basename": "ref vs reactive",
@@ -178,7 +190,7 @@
     },
     {
       "basename": "陆游首位",
-      "path": "vue全家桶/vuerouter/陆游首位.md"
+      "path": "前端框架/vue全家桶/vuerouter/陆游首位.md"
     },
     {
       "basename": "组件通信",
@@ -186,19 +198,7 @@
     },
     {
       "basename": "props和emit",
-      "path": "vue全家桶/vue/props和emit.md"
-    },
-    {
-      "basename": "技术栈区别",
-      "path": "面试/技术栈区别.md"
-    },
-    {
-      "basename": "http请求方法",
-      "path": "https/http请求方法.md"
-    },
-    {
-      "basename": "watch",
-      "path": "vue全家桶/vue3/vue-challenges/watch.md"
+      "path": "前端框架/vue全家桶/vue/props和emit.md"
     }
   ],
   "omittedPaths": [],
