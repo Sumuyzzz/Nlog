@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "伪类",
+      "path": "css/伪类.md"
+    },
+    {
       "basename": "component",
       "path": "前端框架/通用/component.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "组件通信",
       "path": "面试/vue/组件通信.md"
-    },
-    {
-      "basename": "props和emit",
-      "path": "前端框架/vue全家桶/vue/props和emit.md"
     }
   ],
   "omittedPaths": [],
