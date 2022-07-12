@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "css/伪类.md",
+            "file": "发布/项目开发/去哪儿/vue-material-design-icons踩坑之旅.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/伪类.md",
+                "file": "发布/项目开发/去哪儿/vue-material-design-icons踩坑之旅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/伪类.md",
+                "file": "发布/项目开发/去哪儿/vue-material-design-icons踩坑之旅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +128,7 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/项目开发/去哪儿/vue-material-design-icons踩坑之旅.md",
     "css/伪类.md",
     "前端框架/通用/component.md",
     "前端框架/通用/module.md",
@@ -136,7 +137,6 @@
     "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md",
     "发布/项目开发/vue云笔记/手写Eventbus.md",
     "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md",
-    "面试/vue/生命周期.md",
-    "发布/vue/钩子.md"
+    "面试/vue/生命周期.md"
   ]
 }

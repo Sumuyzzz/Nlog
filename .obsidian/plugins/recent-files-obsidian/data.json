@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "vue-material-design-icons踩坑之旅",
+      "path": "发布/项目开发/去哪儿/vue-material-design-icons踩坑之旅.md"
+    },
+    {
       "basename": "伪类",
       "path": "css/伪类.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "陆游首位",
       "path": "前端框架/vue全家桶/vuerouter/陆游首位.md"
-    },
-    {
-      "basename": "组件通信",
-      "path": "面试/vue/组件通信.md"
     }
   ],
   "omittedPaths": [],
