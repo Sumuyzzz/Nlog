@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "关于登陆信息不同步问题",
+      "path": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md"
+    },
+    {
+      "basename": "关于新建笔记无法添加新属性的问题",
+      "path": "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md"
+    },
+    {
+      "basename": "vue $ref不生效问题",
+      "path": "发布/项目开发/vue云笔记/vue $ref不生效问题.md"
+    },
+    {
+      "basename": "vue3开发印象云笔记",
+      "path": "发布/项目开发/vue云笔记/vue3开发印象云笔记.md"
+    },
+    {
+      "basename": "数据可视化项目",
+      "path": "发布/项目开发/数据可视化项目.md"
+    },
+    {
+      "basename": "react 记账",
+      "path": "发布/项目开发/react 记账.md"
+    },
+    {
+      "basename": "Axios Response in TypeScript",
+      "path": "发布/项目开发/vue云笔记/Axios Response in TypeScript.md"
+    },
+    {
+      "basename": "云笔记之封装axios",
+      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
+    },
+    {
+      "basename": "修复动态路由",
+      "path": "发布/项目开发/vue云笔记/修复动态路由.md"
+    },
+    {
+      "basename": "详情页结构和样式",
+      "path": "发布/项目开发/vue云笔记/详情页结构和样式.md"
+    },
+    {
+      "basename": "手写Eventbus",
+      "path": "发布/项目开发/vue云笔记/手写Eventbus.md"
+    },
+    {
+      "basename": "路由优化",
+      "path": "发布/项目开发/vue云笔记/路由优化.md"
+    },
+    {
+      "basename": "接口文档",
+      "path": "发布/项目开发/vue云笔记/接口文档.md"
+    },
+    {
+      "basename": "关于ts无法直接导出type的问题",
+      "path": "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md"
+    },
+    {
+      "basename": "deploy失效问题",
+      "path": "发布/项目开发/vue云笔记/deploy失效问题.md"
+    },
+    {
       "basename": "icon 多条数据分页显示",
       "path": "发布/项目开发/去哪儿/icon 多条数据分页显示.md"
     },
@@ -31,14 +91,6 @@
     {
       "basename": "手写event-emit（发布订阅）",
       "path": "面试/手写代码系列/常见手写题/手写event-emit（发布订阅）.md"
-    },
-    {
-      "basename": "手写Eventbus",
-      "path": "发布/项目开发/vue云笔记/手写Eventbus.md"
-    },
-    {
-      "basename": "关于登陆信息不同步问题",
-      "path": "发布/项目开发/vue云笔记/关于登陆信息不同步问题.md"
     },
     {
       "basename": "生命周期",
@@ -79,30 +131,6 @@
     {
       "basename": "rest API",
       "path": "https/rest API.md"
-    },
-    {
-      "basename": "关于新建笔记无法添加新属性的问题",
-      "path": "发布/项目开发/vue云笔记/关于新建笔记无法添加新属性的问题.md"
-    },
-    {
-      "basename": "修复动态路由",
-      "path": "发布/项目开发/vue云笔记/修复动态路由.md"
-    },
-    {
-      "basename": "云笔记之封装axios",
-      "path": "发布/项目开发/vue云笔记/云笔记之封装axios.md"
-    },
-    {
-      "basename": "Axios Response in TypeScript",
-      "path": "发布/项目开发/vue云笔记/Axios Response in TypeScript.md"
-    },
-    {
-      "basename": "关于ts无法直接导出type的问题",
-      "path": "发布/项目开发/vue云笔记/关于ts无法直接导出type的问题.md"
-    },
-    {
-      "basename": "数据可视化项目",
-      "path": "发布/项目开发/数据可视化项目.md"
     },
     {
       "basename": "element响应式菜单切换功能",
@@ -171,34 +199,6 @@
     {
       "basename": "插入排序",
       "path": "面试/手写代码系列/排序算法/插入排序.md"
-    },
-    {
-      "basename": "pointevents",
-      "path": "发布/pointevents.md"
-    },
-    {
-      "basename": "post和get",
-      "path": "面试/http/post和get.md"
-    },
-    {
-      "basename": "observable",
-      "path": "前端框架/vue全家桶/vue/observable.md"
-    },
-    {
-      "basename": "ref vs reactive",
-      "path": "发布/ref vs reactive.md"
-    },
-    {
-      "basename": "两数相加",
-      "path": "面试/手写代码系列/算法押题/链表/两数相加.md"
-    },
-    {
-      "basename": "反转链表",
-      "path": "面试/手写代码系列/算法押题/链表/反转链表.md"
-    },
-    {
-      "basename": "无重复字符最长子串",
-      "path": "面试/手写代码系列/算法押题/哈希表/无重复字符最长子串.md"
     }
   ],
   "omittedPaths": [],
