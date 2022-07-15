@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "发布/未命名.md"
+    },
+    {
+      "basename": "Lit",
+      "path": "发布/Lit.md"
+    },
+    {
+      "basename": "防抖与节流",
+      "path": "发布/防抖与节流.md"
+    },
+    {
+      "basename": "关于npm发布",
+      "path": "发布/关于npm发布.md"
+    },
+    {
+      "basename": "如何居中布局",
+      "path": "发布/如何居中布局.md"
+    },
+    {
+      "basename": "什么是MVC",
+      "path": "发布/什么是MVC.md"
+    },
+    {
       "basename": "vue demi",
       "path": "发布/vue demi.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "解析url参数",
       "path": "面试/手写代码系列/常见手写题/解析url参数.md"
-    },
-    {
-      "basename": "冒泡排序",
-      "path": "面试/手写代码系列/排序算法/冒泡排序.md"
-    },
-    {
-      "basename": "快速排序",
-      "path": "面试/手写代码系列/排序算法/快速排序.md"
-    },
-    {
-      "basename": "介绍",
-      "path": "面试/手写代码系列/排序算法/介绍.md"
-    },
-    {
-      "basename": "计数排序",
-      "path": "面试/手写代码系列/排序算法/计数排序.md"
-    },
-    {
-      "basename": "归并排序",
-      "path": "面试/手写代码系列/排序算法/归并排序.md"
-    },
-    {
-      "basename": "堆排序",
-      "path": "面试/手写代码系列/排序算法/堆排序.md"
     }
   ],
   "omittedPaths": [],
