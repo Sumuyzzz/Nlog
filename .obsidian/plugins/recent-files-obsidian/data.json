@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "发布/未命名.md"
+      "basename": "border",
+      "path": "css/border.md"
+    },
+    {
+      "basename": "toggle bar",
+      "path": "发布/toggle bar.md"
+    },
+    {
+      "basename": "inputToggleBar",
+      "path": "gif/inputToggleBar.gif"
+    },
+    {
+      "basename": "vue demi",
+      "path": "发布/vue demi.md"
     },
     {
       "basename": "Lit",
@@ -23,10 +35,6 @@
     {
       "basename": "什么是MVC",
       "path": "发布/什么是MVC.md"
-    },
-    {
-      "basename": "vue demi",
-      "path": "发布/vue demi.md"
     },
     {
       "basename": "接口文档",
@@ -191,14 +199,6 @@
     {
       "basename": "面向对象与原型",
       "path": "笔记/忍者秘笈/面向对象与原型.md"
-    },
-    {
-      "basename": "缓存位置",
-      "path": "面试/http/缓存位置.md"
-    },
-    {
-      "basename": "解析url参数",
-      "path": "面试/手写代码系列/常见手写题/解析url参数.md"
     }
   ],
   "omittedPaths": [],
