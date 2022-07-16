@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fallthrough Attributes（失落属性）",
+      "path": "前端框架/vue全家桶/vue/Fallthrough Attributes（失落属性）.md"
+    },
+    {
       "basename": "变化侦测",
       "path": "笔记/深入浅出Vue/变化侦测.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "浏览器缓存",
       "path": "面试/http/浏览器缓存.md"
-    },
-    {
-      "basename": "浏览器存储",
-      "path": "面试/http/浏览器存储.md"
     }
   ],
   "omittedPaths": [],
