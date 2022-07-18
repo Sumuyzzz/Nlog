@@ -51,6 +51,4 @@ const handleClick = (e) => {
  emit('itemKey', e.target) //原因是e.target并不是父组件所滚动的标题元素，而是点击的dom元素
 
 }
-
-
 ```

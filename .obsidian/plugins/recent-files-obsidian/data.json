@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "移动端实现滑动定位内容",
+      "path": "发布/项目开发/去哪儿/移动端实现滑动定位内容.md"
+    },
+    {
       "basename": "better scroll",
       "path": "发布/项目开发/去哪儿/better scroll.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "实时监听屏幕宽高",
       "path": "发布/项目开发/vue3造轮子/实时监听屏幕宽高.md"
-    },
-    {
-      "basename": "浏览器的渲染原理",
-      "path": "面试/http/浏览器的渲染原理.md"
     }
   ],
   "omittedPaths": [],
