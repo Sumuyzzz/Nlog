@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "better scroll",
+      "path": "发布/项目开发/去哪儿/better scroll.md"
+    },
+    {
+      "basename": "组件通信",
+      "path": "面试/vue/组件通信.md"
+    },
+    {
       "basename": "Fallthrough Attributes（失落属性）",
       "path": "前端框架/vue全家桶/vue/Fallthrough Attributes（失落属性）.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "浏览器的渲染原理",
       "path": "面试/http/浏览器的渲染原理.md"
-    },
-    {
-      "basename": "浏览器的工作原理",
-      "path": "面试/http/浏览器的工作原理.md"
-    },
-    {
-      "basename": "浏览器缓存",
-      "path": "面试/http/浏览器缓存.md"
     }
   ],
   "omittedPaths": [],
