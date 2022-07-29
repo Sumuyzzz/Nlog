@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GraphQL",
+      "path": "通用/GraphQL.md"
+    },
+    {
       "basename": "移动端实现滑动定位内容",
       "path": "发布/项目开发/去哪儿/移动端实现滑动定位内容.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "实现 switch",
       "path": "发布/项目开发/vue3造轮子/实现 switch.md"
-    },
-    {
-      "basename": "实时监听屏幕宽高",
-      "path": "发布/项目开发/vue3造轮子/实时监听屏幕宽高.md"
     }
   ],
   "omittedPaths": [],
