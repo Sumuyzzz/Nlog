@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "关于",
+      "path": "发布/项目开发/vue云笔记/关于.md"
+    },
+    {
+      "basename": "关于注册失败的问题",
+      "path": "发布/项目开发/vue云笔记/关于注册失败的问题.md"
+    },
+    {
+      "basename": "http状态码",
+      "path": "面试/http/http状态码.md"
+    },
+    {
+      "basename": "浏览器缓存",
+      "path": "面试/http/浏览器缓存.md"
+    },
+    {
+      "basename": "接口文档",
+      "path": "发布/项目开发/vue云笔记/接口文档.md"
+    },
+    {
       "basename": "GraphQL",
       "path": "通用/GraphQL.md"
     },
@@ -59,10 +79,6 @@
     {
       "basename": "什么是MVC",
       "path": "发布/什么是MVC.md"
-    },
-    {
-      "basename": "接口文档",
-      "path": "发布/项目开发/vue云笔记/接口文档.md"
     },
     {
       "basename": "关于ts无法直接导出type的问题",
@@ -183,22 +199,6 @@
     {
       "basename": "fetch Headers",
       "path": "https/fetch/fetch Headers.md"
-    },
-    {
-      "basename": "fetch Mode",
-      "path": "https/fetch/fetch Mode.md"
-    },
-    {
-      "basename": "rest API",
-      "path": "https/rest API.md"
-    },
-    {
-      "basename": "element响应式菜单切换功能",
-      "path": "发布/项目开发/vue3造轮子/element响应式菜单切换功能.md"
-    },
-    {
-      "basename": "实现 switch",
-      "path": "发布/项目开发/vue3造轮子/实现 switch.md"
     }
   ],
   "omittedPaths": [],
