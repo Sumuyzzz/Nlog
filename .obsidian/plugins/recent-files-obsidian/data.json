@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "vue双向绑定",
+      "path": "发布/vue/vue双向绑定.md"
+    },
+    {
+      "basename": "vue.sync",
+      "path": "前端框架/vue全家桶/vue/vue.sync.md"
+    },
+    {
+      "basename": "v-model",
+      "path": "前端框架/vue全家桶/vue/v-model.md"
+    },
+    {
+      "basename": "Vue 双向绑定原理",
+      "path": "面试/vue/Vue 双向绑定原理.md"
+    },
+    {
+      "basename": "双向绑定",
+      "path": "面试/vue/双向绑定.md"
+    },
+    {
+      "basename": "深入理解v-model",
+      "path": "前端框架/vue全家桶/vue/深入理解v-model.md"
+    },
+    {
       "basename": "关于",
       "path": "发布/项目开发/vue云笔记/关于.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "钩子",
       "path": "发布/vue/钩子.md"
-    },
-    {
-      "basename": "5.引用类型",
-      "path": "笔记/JavaScript高级程序设计/5.引用类型.md"
-    },
-    {
-      "basename": "浏览器输入",
-      "path": "面试/http/浏览器输入.md"
-    },
-    {
-      "basename": "伤命周期",
-      "path": "前端框架/vue全家桶/vue/伤命周期.md"
-    },
-    {
-      "basename": "vue生命周期",
-      "path": "发布/vue生命周期.md"
-    },
-    {
-      "basename": "页面的生命周期.excalidraw",
-      "path": "面试/http/页面的生命周期.excalidraw.md"
-    },
-    {
-      "basename": "fetch Headers",
-      "path": "https/fetch/fetch Headers.md"
     }
   ],
   "omittedPaths": [],

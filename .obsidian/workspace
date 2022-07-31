@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "发布/项目开发/vue云笔记/关于.md",
+            "file": "发布/vue/vue双向绑定.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "状态码",
+                "query": "双向绑定",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发布/项目开发/vue云笔记/关于.md",
+                "file": "发布/vue/vue双向绑定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发布/项目开发/vue云笔记/关于.md",
+                "file": "发布/vue/vue双向绑定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +129,15 @@
   },
   "active": "e8834e1cfafe1fdb",
   "lastOpenFiles": [
+    "发布/vue/vue双向绑定.md",
+    "前端框架/vue全家桶/vue/vue.sync.md",
+    "前端框架/vue全家桶/vue/v-model.md",
+    "面试/vue/Vue 双向绑定原理.md",
+    "面试/vue/双向绑定.md",
+    "前端框架/vue全家桶/vue/深入理解v-model.md",
     "发布/项目开发/vue云笔记/关于.md",
     "发布/项目开发/vue云笔记/关于注册失败的问题.md",
     "面试/http/http状态码.md",
-    "面试/http/浏览器缓存.md",
-    "发布/项目开发/vue云笔记/接口文档.md",
-    "通用/GraphQL.md",
-    "发布/项目开发/去哪儿/移动端实现滑动定位内容.md",
-    "发布/项目开发/去哪儿/better scroll.md",
-    "面试/vue/组件通信.md",
-    "前端框架/vue全家桶/vue/Fallthrough Attributes（失落属性）.md"
+    "面试/http/浏览器缓存.md"
   ]
 }
